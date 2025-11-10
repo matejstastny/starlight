@@ -1,13 +1,13 @@
 name = "Enderman Grief"
-filename = "enderman-grief-1.21.8-1.0.0.zip"
+filename = "enderman-grief-1.21.10-1.0.1.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LLomXBnX/versions/CtoKJnUo/enderman-grief-1.21.8-1.0.0.zip"
+url = "https://cdn.modrinth.com/data/LLomXBnX/versions/7hkmRacP/enderman-grief-1.21.10-1.0.1.zip"
 hash-format = "sha512"
-hash = "4982418a3889ca9d6b0fb4799439c9a57492bfa42cee61af240eb0eccc2eeacbfae2c9bf8e0438fd423345718b8896e9fa77fc016dcb87df8d37edcb2ae0b4b4"
+hash = "387803bd82b5d542072bd4876b2987b031cf424b41ddca040cca80bfb52a8d5ea645ec8a0ad1ff994b71150f8f3c94dea6e3dfb6d4683bb91e501fe780541e34"
 
 [update]
 [update.modrinth]
 mod-id = "LLomXBnX"
-version = "CtoKJnUo"
+version = "7hkmRacP"

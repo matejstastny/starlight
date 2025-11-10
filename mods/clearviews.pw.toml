@@ -1,13 +1,13 @@
 name = "Clearviews"
-filename = "clearview-1.1.0-1.21.4.jar"
+filename = "clearviews-2.0.4+1.21.4-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/TwYypE5e/versions/FuZZ7byM/clearview-1.1.0-1.21.4.jar"
+url = "https://cdn.modrinth.com/data/TwYypE5e/versions/ejrWJiZw/clearviews-2.0.4%2B1.21.4-fabric.jar"
 hash-format = "sha512"
-hash = "6fb50918a27158cf094633c6102f29472dcbb6d1af32b122efe5d5659f91b224e8efad7be30536d0066c09a6087854427075fc0a8fbd375c5f3393d9abaecca3"
+hash = "bff335039eeb76bae4f6fdbfd7d8fac99292ebb94be5897f90b2414005a012b5f471dc50c187f45cb377ae2e29b8deaafa8984107d00205305451650d59586d6"
 
 [update]
 [update.modrinth]
 mod-id = "TwYypE5e"
-version = "FuZZ7byM"
+version = "ejrWJiZw"

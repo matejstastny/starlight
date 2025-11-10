@@ -20,7 +20,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "1e59464196bd2a0cb5dcc4eb6014e323982e993c68c0f0173ff95b58ceed366e"
+hash = "284a7ccf2dc6ff43378230c252323359634f2b566212924ad0f138f4203079c6"
 metafile = true
 
 [[files]]
@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/clearviews.pw.toml"
-hash = "0eeec3d5a239d0ff0b56e0f97092e5c5db27049508e655c640b622b1d3de5675"
+hash = "7bca347b9b8602066fe9235bdcaab3512f87dfc724b4ea9a66712a5c4be6a58c"
 metafile = true
 
 [[files]]
@@ -80,12 +80,12 @@ metafile = true
 
 [[files]]
 file = "mods/enderman-grief.pw.toml"
-hash = "c139395a11355c1d03a97bc608aafd0e75551331f4dccfe7962c6a0655ccfd7b"
+hash = "8796cb31944bafdc2d47e3001e45fdfe13c609ac7f2695bd15eb0fe72d47ed23"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "81027ef87a38a28907d78c14492be6fdde0e9c1a93a1651b0bedf323b392d639"
+hash = "a82308b089917ad7489bfc8d78671b4f867d53063eba0c150fe6e94881cd5499"
 metafile = true
 
 [[files]]
@@ -95,12 +95,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "61ec374778e27e4df34a111be96230cec397ff0feed940ba8c1481ea07fb25e4"
+hash = "b99a2916524bd691016f793873edc2d99573bd11db92053a299ed88c8c734165"
 metafile = true
 
 [[files]]
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "eec54c8310038eaf8625ace2ab01e8ca6b1ce68b0e6a051835cf2faf324478c6"
+hash = "c77d1172ce556528082c3dc4b6abe0d5d6b602d8a58fe3118cc7178610210149"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/norecipebook.pw.toml"
-hash = "d235f1222648b50ad7a2c97a5a497b3526b4d7dca9b53b9fbe4d57f5d65fb6c2"
+hash = "16ac409d5685f09aa297a33debe12a1f8d6a47cd229535c5ddedf76f1bccbc09"
 metafile = true
 
 [[files]]
@@ -1769,7 +1769,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "774b51f7257a3a18f0afc40c155bac4bb1dbade055170137f2ac96456f0e3653"
+hash = "73557eda0b75de2724fd3337879c5e05bd7a7c47007de9c318d98644fcffdb4e"
 metafile = true
 
 [[files]]
