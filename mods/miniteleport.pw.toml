@@ -1,13 +1,13 @@
 name = "MiniTeleport"
-filename = "miniteleport-1.0.0+mc1.21.4.jar"
+filename = "miniteleport-1.0.0+mc1.21.10.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/gmfe94N8/versions/4tdIcGxu/miniteleport-1.0.0%2Bmc1.21.4.jar"
+url = "https://cdn.modrinth.com/data/gmfe94N8/versions/umYitJiB/miniteleport-1.0.0%2Bmc1.21.10.jar"
 hash-format = "sha512"
-hash = "8f5bbb45f4e48584428b6813f7ee7286b78c76763e4ddf3efbddf5a46096d9cb665795de0b22ba2563a5ac6cb064f5780a5f411679ff4b3f48745e693e5038e8"
+hash = "aebf93e6509759b26bad588449b2a457a475ba597d13db713ceb7623bc1e361a657262d493b24334c763a827b16a324e5f505ed18bcc5aec88e28204386ccf05"
 
 [update]
 [update.modrinth]
 mod-id = "gmfe94N8"
-version = "4tdIcGxu"
+version = "umYitJiB"
