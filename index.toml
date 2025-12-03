@@ -24,6 +24,11 @@ hash = "284a7ccf2dc6ff43378230c252323359634f2b566212924ad0f138f4203079c6"
 metafile = true
 
 [[files]]
+file = "mods/bat-membrane.pw.toml"
+hash = "62d2a6fda9507c7f4043799de75275ad8509d92c19a2af8aa722d8e788cf4ca0"
+metafile = true
+
+[[files]]
 file = "mods/beam-be-gone.pw.toml"
 hash = "28d615b482f9ed8d3bb9b122c4d3604877adffb44d6607ceb6742a5ee227d259"
 metafile = true
@@ -186,11 +191,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "88c6edc1712f4f0cd915cd723b9e0296924d454b3855a719d2962103b2b92bea"
-metafile = true
-
-[[files]]
-file = "mods/no-more-phantoms.pw.toml"
-hash = "fc2cb31de25c0af8b26932aec296f1c5bf6909afcb4376c3d6bb0765b06ccb65"
 metafile = true
 
 [[files]]
