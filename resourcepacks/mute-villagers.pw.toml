@@ -3,11 +3,11 @@ filename = "§fReduce Villagers.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2odW2Xnk/versions/ozd01eUJ/%C2%A7fReduce%20Villagers.zip"
+url = "https://cdn.modrinth.com/data/2odW2Xnk/versions/3MyJjWKk/%C2%A7fReduce%20Villagers.zip"
 hash-format = "sha512"
-hash = "158fd78810c2bfb91234b080f188f43bcfaab45db393a39fbd34468c0183e0df23edba1287f9f7063e0b348c655b2d493336590b6d0f963f0e3955f58508bc55"
+hash = "e46383a8eb5501c53e3e33b8668592cd1d57c35e07ed46554c45a3667b6c1cac037d567415dea2a1a8255409c48ba36ef730f7b8b790dd797ccfdf9393132e3a"
 
 [update]
 [update.modrinth]
 mod-id = "2odW2Xnk"
-version = "ozd01eUJ"
+version = "3MyJjWKk"

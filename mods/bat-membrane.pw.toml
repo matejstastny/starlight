@@ -1,13 +1,13 @@
 name = "Bat Membrane (No Phantoms)"
-filename = "bat-membrane-v.3.0.0.jar"
+filename = "bat-membrane-v3.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vz3NiXrd/versions/4dPyaNRb/bat-membrane-v.3.0.0.jar"
+url = "https://cdn.modrinth.com/data/vz3NiXrd/versions/G5fv1SDE/bat-membrane-v3.1.1.jar"
 hash-format = "sha512"
-hash = "5b6773763f29ad8ebcef886e3a818ee519fd564a13812246b00089d57d3364ffc8770ecca55a8a0fd1e5b0883e18cb059fdae8000bf66490e2934010d7fbb7b8"
+hash = "702860388785edfec0c5fb1dd7d84945cb94e2b5cce62629cc67d4de50fae67cf424a4748ee983a16a00146dbfe5ee046cddd1d6db7750862798e9a4e75fc0cf"
 
 [update]
 [update.modrinth]
 mod-id = "vz3NiXrd"
-version = "4dPyaNRb"
+version = "G5fv1SDE"

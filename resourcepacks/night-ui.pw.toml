@@ -1,13 +1,13 @@
 name = "🌙 Night UI - A Dark Themed Resource Pack"
-filename = "§e☽ §d§lNightUI§8§o §8v1.4.1.zip"
+filename = "§e☽ §d§lNightUI§8§o §8v1.4.2.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/JEGWvrJj/versions/ZV9SzKXg/%C2%A7e%E2%98%BD%20%C2%A7d%C2%A7lNightUI%C2%A78%C2%A7o%20%C2%A78v1.4.1.zip"
+url = "https://cdn.modrinth.com/data/JEGWvrJj/versions/APbAFCuX/%C2%A7e%E2%98%BD%20%C2%A7d%C2%A7lNightUI%C2%A78%C2%A7o%20%C2%A78v1.4.2.zip"
 hash-format = "sha512"
-hash = "bb7200e363de370806f5e81d10a20f5c0936200d808f0739ed534a6c461ca9929ccd84180f070dfdd8d36206ac2dcf33a5e72b659bb4c9d1714d2e1c844e4a28"
+hash = "39db0183a4ac74f47e809c0da2dc398be8a722189638ecff2bf85117170d4e85b328a2af968c7093f3c11eeb163ddc31b23308a07c20b5a5aef942a749f13df9"
 
 [update]
 [update.modrinth]
 mod-id = "JEGWvrJj"
-version = "ZV9SzKXg"
+version = "APbAFCuX"

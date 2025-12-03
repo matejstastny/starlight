@@ -1,13 +1,13 @@
 name = "\"Limitless\" Banners"
-filename = "limitless-banners-1.2.0.jar"
+filename = "limitless-banners-1.3.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/z4zsMANd/versions/Kgf71Tqb/limitless-banners-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/z4zsMANd/versions/VRqrQNsB/limitless-banners-1.3.0.jar"
 hash-format = "sha512"
-hash = "8a3c3a9e051c18987da974cdd40abd4828555bd37f87144abb5f8278821be059a09e6119a76c33f48783289833eae8de2a494d5b519745d5f49fe9f9e524678e"
+hash = "9458c6846abf00681c4ce38a1b0aeb7fb1009ef1fa18cedc7454cc4b6db0f0682ba9fc33215bf89a3044d0a36ae7b021629079218342d796daad1e32666a35f2"
 
 [update]
 [update.modrinth]
 mod-id = "z4zsMANd"
-version = "Kgf71Tqb"
+version = "VRqrQNsB"
