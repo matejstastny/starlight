@@ -1,0 +1,13 @@
+name = "oSzoukaua's: Reduce Villagers"
+filename = "§fReduce Villagers.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2odW2Xnk/versions/ozd01eUJ/%C2%A7fReduce%20Villagers.zip"
+hash-format = "sha512"
+hash = "158fd78810c2bfb91234b080f188f43bcfaab45db393a39fbd34468c0183e0df23edba1287f9f7063e0b348c655b2d493336590b6d0f963f0e3955f58508bc55"
+
+[update]
+[update.modrinth]
+mod-id = "2odW2Xnk"
+version = "ozd01eUJ"

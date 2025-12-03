@@ -64,6 +64,11 @@ hash = "7986f751d84536043edd1e67178554f6d4c3f01409feae6c151afa7854db5fa2"
 metafile = true
 
 [[files]]
+file = "mods/customskinloader.pw.toml"
+hash = "5da71a1bb494f0209e1decf0e7d8abfdfa2fb54646ca1635235b1abcecf660e4"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "04851cf23a0fef9e213180bf5926b705c5ad2d0b04d41934b915cc1ccfabd841"
 metafile = true
@@ -1788,6 +1793,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mob-crates.pw.toml"
 hash = "c19fcf8addbbcc4a120337232538156903a8866f0498a0ace992b3a8040b8ef7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mute-villagers.pw.toml"
+hash = "ae0a6c34b1fd25d3add86e9a76516c423c73c882f030311d32aa4365143aaca4"
 metafile = true
 
 [[files]]
