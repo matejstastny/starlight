@@ -29,6 +29,11 @@ hash = "4af32ac38b039869bb092e5a5c4a3336e2dadda0a492903fc614746c3dfdd5d9"
 metafile = true
 
 [[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "c8d6bda044475105c02984665f1205537241931d927f825cd8af9699264c1025"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "4ee1808a7fb319d469dece5752cedb05dacb9afbe48021fa664f54b8c83fdc45"
 metafile = true
