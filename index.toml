@@ -74,11 +74,6 @@ hash = "63fe49aaee4880ff28e30aa558084f7322d5ec2bf110022bc5ae89a9be5cf2bf"
 metafile = true
 
 [[files]]
-file = "mods/ebe-newer.pw.toml"
-hash = "f65cb8c2c89e9a9956ef700157c6b5fa345cb9d02ad42c0d9c86bb3434157dd5"
-metafile = true
-
-[[files]]
 file = "mods/enderman-grief.pw.toml"
 hash = "8796cb31944bafdc2d47e3001e45fdfe13c609ac7f2695bd15eb0fe72d47ed23"
 metafile = true
