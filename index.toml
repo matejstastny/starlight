@@ -69,11 +69,6 @@ hash = "7986f751d84536043edd1e67178554f6d4c3f01409feae6c151afa7854db5fa2"
 metafile = true
 
 [[files]]
-file = "mods/custom-lan.pw.toml"
-hash = "71d7c5f91092237f7e54e0f2f52e665add5aa43c0ca07c3bee251e87ea682d3a"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "04851cf23a0fef9e213180bf5926b705c5ad2d0b04d41934b915cc1ccfabd841"
 metafile = true
@@ -201,6 +196,11 @@ metafile = true
 [[files]]
 file = "mods/norecipebook.pw.toml"
 hash = "16ac409d5685f09aa297a33debe12a1f8d6a47cd229535c5ddedf76f1bccbc09"
+metafile = true
+
+[[files]]
+file = "mods/offlinelan.pw.toml"
+hash = "96454b740926b091218cadeae79e75b334ec78172d85835b40803ecae27c02c9"
 metafile = true
 
 [[files]]
