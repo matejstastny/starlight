@@ -56,7 +56,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:false
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/Small Totem.zip","file/Fast Better Grass.zip","file/MobCrates_1.21.4_v2.zip","file/§fReduce Villagers.zip","file/§e☽ §d§lNightUI§8§o §8v1.4.2.zip","file/panorama with shaders 1.20 night.zip","file/VT Alternate Bedrock.zip","file/VT Brighter Nether.zip","file/VT Golden Carrot Hunger Bar.zip","file/VT Purple Hearts.zip","file/VT Quiter Minecarts.zip","file/VT Quiter Nether Portals.zip","file/VT Rainbow Expirience Bar.zip","file/VT Square Plus Crosshair.zip"]
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/Small Totem.zip","file/Fast Better Grass.zip","file/MobCrates_1.21.4_v2.zip","file/§fReduce Villagers.zip","file/§e☽ §d§lNightUI§8§o §8v1.4.2.zip","file/panorama with shaders 1.20 night.zip","file/VT Alternate Bedrock.zip","file/VT Brighter Nether.zip","file/VT Golden Carrot Hunger Bar.zip","file/VT Purple Hearts.zip","file/VT Quiter Minecarts.zip","file/VT Quiter Nether Portals.zip","file/VT Rainbow Expirience Bar.zip","file/VT Square Plus Crosshair.zip","file/Serified Font v1.2.zip"]
 incompatibleResourcePacks:["file/Small Totem.zip","file/MobCrates_1.21.4_v2.zip","file/panorama with shaders 1.20 night.zip","file/VT Alternate Bedrock.zip","file/VT Brighter Nether.zip","file/VT Golden Carrot Hunger Bar.zip","file/VT Purple Hearts.zip","file/VT Quiter Minecarts.zip","file/VT Quiter Nether Portals.zip","file/VT Rainbow Expirience Bar.zip","file/VT Square Plus Crosshair.zip"]
 lastServer:
 lang:en_us
@@ -137,6 +137,8 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
+key_key.signOptimization.increaseDistance:key.keyboard.page.up
+key_key.signOptimization.decreaseDistance:key.keyboard.page.down
 key_key.wi_zoom.zoom:key.keyboard.v
 key_key.clickthrough.toggle:key.keyboard.f9
 key_key.entityculling.toggle:key.keyboard.unknown
