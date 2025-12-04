@@ -20,13 +20,18 @@
     "commandFillNoChunkClamp": false,
     "commandUseWorldEdit": false,
     "customSchematicBaseDirectoryEnabled": false,
+    "debugHudMode": "default",
     "debugLogging": false,
+    "displayFileOpsFeedback": false,
     "datafixerMode": "always",
     "datafixerDefaultSchema": 1139,
+    "easyPlaceClickAdjacent": false,
     "easyPlaceFirst": true,
     "easyPlaceHoldEnabled": true,
     "easyPlaceMode": false,
+    "easyPlacePostRewrite": false,
     "easyPlaceSinglePlayerHandling": true,
+    "easyPlaceSinglePlayerValidation": true,
     "easyPlaceProtocolVersion": "auto",
     "easyPlaceSwingHand": true,
     "easyPlaceVanillaReach": false,
@@ -49,6 +54,7 @@
     "itemUsePacketCheckBypass": true,
     "layerModeFollowsPlayer": false,
     "materialListIgnoreState": false,
+    "materialListRecipeDetails": true,
     "pasteAlwaysUseFill": false,
     "pasteIgnoreBlockEntitiesEntirely": false,
     "pasteIgnoreBlockEntitiesFromFill": true,
@@ -95,7 +101,7 @@
       "keys": "M,A"
     },
     "cloneSelection": {
-      "keys": "V"
+      "keys": ""
     },
     "deleteSelectionBox": {
       "keys": ""
@@ -217,6 +223,9 @@
     "schematicEditReplaceDirection": {
       "keys": ""
     },
+    "schematicEditReplaceSelection": {
+      "keys": ""
+    },
     "schematicPlacementRotation": {
       "keys": ""
     },
@@ -324,6 +333,7 @@
     }
   },
   "InfoOverlays": {
+    "defaultSelectionMode": "simple",
     "blockInfoLinesEnabled": true,
     "blockInfoOverlayEnabled": true,
     "infoOverlaysTargetFluids": false,
@@ -375,9 +385,10 @@
     "renderPlacementBoxSides": false,
     "renderPlacementEnclosingBox": true,
     "renderPlacementEnclosingBoxSides": false,
+    "renderSchematicEntities": true,
+    "renderSchematicTileEntities": true,
     "renderTranslucentBlockInnerSides": false,
     "schematicOverlayEnableOutlines": true,
-    "schematicOverlayEnableResorting": false,
     "schematicOverlayEnableSides": true,
     "schematicOverlayModelOutline": true,
     "schematicOverlayModelSides": false,
@@ -387,7 +398,6 @@
     "schematicOverlayTypeMissing": true,
     "schematicOverlayTypeWrongBlock": true,
     "schematicOverlayTypeWrongState": true,
-    "schematicVerifierUseBlockModels": false,
     "ghostBlockAlpha": 0.5,
     "placementBoxSideAlpha": 0.2,
     "schematicOverlayOutlineWidth": 1.0,

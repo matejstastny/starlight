@@ -104,7 +104,7 @@
 		   VANILLA: Mimics the style of vanilla bundle previews.
 		   (default value: SHULKERBOXTOOLTIP)
 		*/
-		"theme": "VANILLA",
+		"theme": "SHULKERBOXTOOLTIP",
 		/* The position of the preview window.
 		   INSIDE: Inside the item's tooltip.
 		   OUTSIDE: Outside the item's tooltip, moves depending on the screen borders.

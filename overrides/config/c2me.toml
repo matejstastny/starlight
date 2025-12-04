@@ -26,6 +26,12 @@ globalExecutorParallelism = "default"
 threadPoolPriority = "default"
 
 [fixes]
+	# (Default: true) Whether to prevent early client ticks.
+	# 
+	# This avoids the player from falling through the world.
+	# Mitigates https://github.com/CaffeineMC/sodium/issues/3065
+	# 
+	preventEarlyClientMovementTicks = "default"
 	# (Default: true)  
 	#  Whether to disable the shutdown hook of log4j2 on dedicated servers.
 	#  Enabling this also makes the JVM exit when the dedicated server is considered fully shut down.
@@ -57,16 +63,20 @@ threadPoolPriority = "default"
 		enableExtRenderDistanceProtocol = "default"
 		# (Default: true) Whether to modify maximum view distance
 		enabled = "default"
-		# (Default: 65) Max render distance allowed in game options
+		# (Default: 60) Max render distance allowed in game options
 		maxViewDistance = "default"
 
 [noTickViewDistance]
-	# (Default: true) Whether to use compatibility mode to send chunks 
-	#  This may fix some mod compatibility issues
-	compatibilityMode = "default"
 	# (Default: 10) No-tick view distance max concurrent chunk loads 
 	#  Lower this for a better latency and higher this for a faster loading
 	maxConcurrentChunkLoads = "default"
+	# (Default: true) Whether to attempt to smooth out chunk sending rate
+	# 
+	# Due to the nature of chunk loading and generation, chunks reach full status in bursts,
+	# which can cause frame time stability if the server also delivers chunks in a bursty way
+	# This config attempts to smooth out the bursty stream of chunks to help frame time stability
+	# 
+	smoothChunkSendingRate = "default"
 	# (Default: false) Whether to ensure correct chunks within normal render distance 
 	#  This will send chunks twice increasing network load
 	ensureChunkCorrectness = "default"
@@ -76,8 +86,6 @@ threadPoolPriority = "default"
 	# Requires Fabric API (currently available)
 	# 
 	enableExtRenderDistanceProtocol = "default"
-	# (Default: true) Whether to enable no-tick view distance
-	enabled = "default"
 
 [ioSystem]
 	# (Default: false) EXPERIMENTAL FEATURE
@@ -89,7 +97,7 @@ threadPoolPriority = "default"
 	# (may cause incompatibility with other mods)
 	# 
 	# Set to false for the following reasons: 
-	# Incompatible with architectury@15.0.3 (*) (defined in c2me) 
+	# Incompatible with architectury@18.0.8 (*) (defined in c2me) 
 	gcFreeChunkSerializer = "default"
 	# (Default: true) Whether to use the optimized implementation of IO system
 	replaceImpl = "default"
@@ -152,6 +160,13 @@ threadPoolPriority = "default"
 	# (Default: true) Whether to enable async serialization
 	# 
 	asyncSerialization = "default"
+	# (Default: false) Whether to use legacy scheduling for neighbor chunks
+	# 
+	# Enabling this restores the behavior of always loading in neighbor chunks when a chunk is loaded.
+	# 
+	# This is currently deprecated and will be removed in the future.
+	# 
+	useLegacyScheduling = "default"
 	# (Default: false) Whether to recover from errors when loading chunks 
 	#  This will cause errored chunk to be regenerated entirely, which may cause data loss 
 	#  Only applies when async chunk loading is enabled
@@ -166,8 +181,8 @@ threadPoolPriority = "default"
 	fluidPostProcessingToScheduledTick = "default"
 	# (Default: false) Whether to enable low memory mode
 	# 
-	# This will attempt to aggressively unload unneeded chunks, saving memory at the cost of additional
-	# overhead when generating new chunks.
+	# This option will attempt to aggressively unload unused chunks.
+	# Only applies when useLegacyScheduling is disabled.
 	# 
 	lowMemoryMode = "default"
 	# (Default: true) Whether to synchronize the management of player tickets
@@ -180,6 +195,13 @@ threadPoolPriority = "default"
 	# thus improving compatibility with these contraptions.
 	# 
 	syncPlayerTickets = "default"
+	# (Default: true) Whether to filter fluid post-processing on worldgen threads
+	# 
+	# The worldgen processes creates a lot of unnecessary fluid post-processing tasks,
+	# which can overload the server thread and cause stutters.
+	# This applies a rough filter to filter out fluids that are definitely not going to flow
+	# 
+	filterFluidPostProcessing = "default"
 	# (Default: true) This option workarounds MC-276863, a bug that makes mushrooms appear in non-postprocessed chunks
 	# This bug is amplified with notickvd as it exposes non-postprocessed chunks to players
 	# 

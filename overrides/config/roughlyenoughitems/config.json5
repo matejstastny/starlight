@@ -86,7 +86,7 @@
 	"functionality": {
 		"inputMethod": null,
 		// Declares whether REI should remove the recipe book.
-		"disableRecipeBook": true,
+		"disableRecipeBook": false,
 		// Declares whether mob effects should be on the left side instead of the right side.
 		"leftSideMobEffects": false,
 		// Declares whether subsets is enabled.
@@ -156,7 +156,6 @@
 			// Declares whether arrows in containers should be clickable.
 			"clickableRecipeArrows": true,
 			"registerRecipesInAnotherThread": true,
-			"newFastEntryRendering": true,
 			"cachingFastEntryRendering": false,
 			"cachingDisplayLookup": true,
 			"categorySettings": {
@@ -193,7 +192,8 @@
 			"shouldFilterDisplays": true,
 			"filteringRules": [
 				"{id:\"roughlyenoughitems:manual\",rule:{}}",
-				"{id:\"roughlyenoughitems:basic\",rule:{}}"
+				"{id:\"roughlyenoughitems:basic\",rule:{}}",
+				"{id:\"roughlyenoughitems:hidden_from_recipe_viewers\",rule:{}}"
 			]
 		}
 	}
