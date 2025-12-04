@@ -8,11 +8,12 @@
     }
   },
   "accessibility": {
-    "enableAccessibilityPlugin": false,
     "textBackgroundOpacity": 0.0,
     "flipMainHand": false,
+    "narrateKeys": false,
     "enableTextToSpeech": false,
-    "ttsMode": "TOGGLE"
+    "ttsMode": "TOGGLE",
+    "enableAccessibilityPlugin": false
   },
   "plugin": {
     "minecraft": {
@@ -34,6 +35,7 @@
       "tnt_stability": true,
       "item_storage.items_per_line": 9,
       "item_frame": true,
+      "shelf": true,
       "crop_progress": true,
       "command_block": true,
       "mob_growth": true,
@@ -46,6 +48,7 @@
       "fluid_storage": true,
       "jukebox": true,
       "brewing_stand": true,
+      "potion_effects.limit": 7,
       "energy_storage.detailed": false,
       "note_block": true,
       "fluid_storage.style": "PROGRESS_BAR",
@@ -66,10 +69,12 @@
       "entity_health.icons_per_line": 10,
       "total_enchantment_power": true,
       "potion_effects": true,
+      "item_storage.sort": false,
       "painting": true,
       "chiseled_bookshelf": true
     },
     "jade_access": {
+      "npc_description": true,
       "held_item": true,
       "sign": true,
       "block": true,
@@ -81,11 +86,12 @@
       "registry_name.special": false,
       "block_states": false,
       "distance": false,
+      "object_name": true,
       "block_face": false,
       "coordinates": false,
       "registry_name": "OFF",
       "block_properties": false,
-      "mod_name": true
+      "mod_name": "ON"
     }
   },
   "general": {
@@ -108,21 +114,21 @@
     "iconMode": "TOP",
     "animation": true,
     "disappearingDelay": 0.0,
-    "overlaySquare": false,
+    "overlayAnchorY": 0.0,
     "autoScaleThreshold": 0.4,
     "alpha": 0.7,
+    "overlayPosY": 0.9719955,
     "overlayScale": 1.0,
     "overlayAnchorX": 0.5,
-    "overlayAnchorY": 0.0,
     "activeTheme": "jade:dark",
-    "overlayPosX": 0.5,
-    "overlayPosY": 0.9719955
+    "overlayPosX": 0.5
   },
   "history": {
     "accessibilityModMemory": false,
-    "themesHash": -328442023,
+    "themesHash": -825076755,
     "usersHash": [
-      -1277623531
+      -1277623531,
+      -328218781
     ],
     "previewOverlay": true,
     "hintOverlayToggle": true,

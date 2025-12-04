@@ -1,7 +1,6 @@
 {
   "Fixes": {
     "stackableShulkersInHopperFix": true,
-    "elytraSprintCancel": false,
     "macHorizontalScroll": false,
     "ravagerClientBlockBreakFix": false
   },
@@ -12,11 +11,40 @@
     "bundleDisplayRequireShift": true,
     "bundleDisplayRowWidth": 9,
     "clientPlacementRotation": true,
+    "clientPlacementValidation": true,
     "debugLogging": false,
     "fastLeftClickAllowTools": false,
     "fastPlacementRememberOrientation": true,
-    "freeCameraPlayerInputs": false,
-    "freeCameraPlayerMovement": false,
+    "freeCameraPlayerInputs": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "freeCameraPlayerMovement": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "freeCameraShowHands": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "freeCameraShowHotBar": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "freeCameraShowStatusBars": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "handRestockPre": true,
     "hangableEntityBypassInverse": false,
     "inventoryPreviewVillagerBGColor": false,
@@ -57,6 +85,7 @@
     "angelBlockPlacementDistance": 3.0,
     "breakingGridSize": 3,
     "customInventoryGuiScale": 2,
+    "darknessScaleOverrideValue": 0.45,
     "entityReachDistance": 3.0,
     "fastBlockPlacementCount": 2,
     "fastLeftClickCount": 10,
@@ -78,20 +107,18 @@
     "itemSwapDurabilityThreshold": 20,
     "mapPreviewSize": 160,
     "periodicAttackInterval": 20,
-    "periodicAttackResetIntervalOnActivate": true,
     "periodicUseInterval": 20,
-    "periodicUseResetIntervalOnActivate": true,
     "periodicHoldAttackDuration": 20,
     "periodicHoldAttackInterval": 20,
-    "periodicHoldAttackResetIntervalOnActivate": true,
     "periodicHoldUseDuration": 20,
     "periodicHoldUseInterval": 20,
-    "periodicHoldUseResetIntervalOnActivate": true,
     "placementGridSize": 3,
     "placementLimit": 3,
     "potionWarningThreshold": 600,
     "renderLimitItem": -1,
     "renderLimitXPOrb": -1,
+    "scaffoldPlaceDistance": 5,
+    "scaffoldPlaceVanilla": false,
     "sculkSensorPulseLength": 40,
     "serverDataSyncCacheRefresh": 0.25,
     "serverDataSyncCacheTimeout": 0.75,
@@ -102,6 +129,12 @@
     "snapAimYawStep": 45.0,
     "structureBlockMaxSize": 128,
     "toolSwitchableSlots": "1-9",
+    "toolSwapAllowUnenchantedToBreak": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "toolSwitchIgnoredSlots": "",
     "toolSwapBetterEnchants": {
       "enabled": false,
@@ -218,6 +251,18 @@
     "freeCameraPlayerMovement": {
       "keys": ""
     },
+    "freeCameraPresetAdd": {
+      "keys": ""
+    },
+    "freeCameraPresetCycle": {
+      "keys": ""
+    },
+    "freeCameraPresetDelete": {
+      "keys": ""
+    },
+    "freeCameraPresetDeleteAll": {
+      "keys": ""
+    },
     "hotbarScroll": {
       "keys": ""
     },
@@ -241,6 +286,9 @@
     },
     "openConfigGui": {
       "keys": "X,C"
+    },
+    "openCameraPresetEditorGui": {
+      "keys": "X,P"
     },
     "placementYMirror": {
       "keys": ""
@@ -307,11 +355,12 @@
     }
   },
   "Internal": {
+    "darknessScaleValueOriginal": 1.0,
     "flySpeedPreset": 0,
     "gammaValueOriginal": 0.8,
     "hotbarScrollCurrentRow": 3,
     "slimeBlockSlipperinessOriginal": 0.800000011920929,
-    "snapAimLastYaw": 0.0
+    "shulkerMaxStackSize": 64
   },
   "Lists": {
     "blockTypeBreakRestrictionListType": "blacklist",
@@ -389,6 +438,12 @@
   },
   "DisableToggles": {
     "disableArmorStandRendering": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableAtmosphericFog": {
       "enabled": false,
       "hotkey": {
         "keys": ""
@@ -663,6 +718,9 @@
     "disableArmorStandRendering": {
       "keys": ""
     },
+    "disableAtmosphericFog": {
+      "keys": ""
+    },
     "disableAxeStripping": {
       "keys": ""
     },
@@ -797,7 +855,7 @@
     }
   },
   "TweakToggles": {
-    "tweakAccurateBlockPlacement": true,
+    "tweakAccurateBlockPlacement": false,
     "tweakAfterClicker": false,
     "tweakAimLock": false,
     "tweakAngelBlock": false,
@@ -807,6 +865,7 @@
     "tweakBlockTypeBreakRestriction": false,
     "tweakBreakingGrid": false,
     "tweakBreakingRestriction": false,
+    "tweakBreakReplace": false,
     "tweakBundleDisplay": false,
     "tweakChatBackgroundColor": false,
     "tweakChatPersistentText": false,
@@ -814,6 +873,7 @@
     "tweakCommandBlockExtraFields": false,
     "tweakCustomFlyDeceleration": false,
     "tweakCustomInventoryScreenScale": false,
+    "tweakDarknessVisibility": false,
     "tweakElytraCamera": false,
     "§6tweakEntityReachOverride§r": false,
     "tweakEntityTypeAttackRestriction": false,
@@ -842,6 +902,7 @@
     "tweakItemUnstackingProtection": false,
     "tweakLavaVisibility": false,
     "tweakMapPreview": false,
+    "tweakMatchingSkyFog": false,
     "tweakMovementKeysLast": false,
     "tweakPeriodicAttack": false,
     "tweakPeriodicUse": false,
@@ -863,6 +924,7 @@
     "tweakRenderInvisibleEntities": false,
     "tweakRenderLimitEntities": false,
     "tweakRepairMode": false,
+    "tweakScaffoldPlace": false,
     "§6tweakSculkPulseLength§r": false,
     "tweakSelectiveBlocksRendering": false,
     "tweakSelectiveBlocksRenderOutline": false,
@@ -878,13 +940,14 @@
     "tweakSwapAlmostBrokenTools": false,
     "tweakTabCompleteCoordinate": false,
     "tweakToolSwitch": false,
+    "tweakWaterVisibility": false,
     "tweakWeaponSwitch": false,
     "tweakYMirror": false,
     "tweakZoom": false
   },
   "TweakHotkeys": {
     "tweakAccurateBlockPlacement": {
-      "keys": "GRAVE_ACCENT"
+      "keys": ""
     },
     "tweakAfterClicker": {
       "keys": ""
@@ -913,6 +976,9 @@
     "tweakBreakingRestriction": {
       "keys": ""
     },
+    "tweakBreakReplace": {
+      "keys": ""
+    },
     "tweakBundleDisplay": {
       "keys": ""
     },
@@ -932,6 +998,9 @@
       "keys": ""
     },
     "tweakCustomInventoryScreenScale": {
+      "keys": ""
+    },
+    "tweakDarknessVisibility": {
       "keys": ""
     },
     "tweakElytraCamera": {
@@ -1018,6 +1087,9 @@
     "tweakMapPreview": {
       "keys": ""
     },
+    "tweakMatchingSkyFog": {
+      "keys": ""
+    },
     "tweakMovementKeysLast": {
       "keys": ""
     },
@@ -1081,6 +1153,9 @@
     "tweakRepairMode": {
       "keys": ""
     },
+    "tweakScaffoldPlace": {
+      "keys": ""
+    },
     "§6tweakSculkPulseLength§r": {
       "keys": ""
     },
@@ -1124,6 +1199,9 @@
       "keys": ""
     },
     "tweakToolSwitch": {
+      "keys": ""
+    },
+    "tweakWaterVisibility": {
       "keys": ""
     },
     "tweakWeaponSwitch": {
