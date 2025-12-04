@@ -18,11 +18,6 @@ hash = "f0e30512a0cf37441033d736cfd2364f6bf56f3954cdbef2b4313af8b3334ea2"
 metafile = true
 
 [[files]]
-file = "mods/achievements-optimizer.pw.toml"
-hash = "d8a03692099df85141437131e89835c25ffe9aca3fd7d600328686e1fb23b4e2"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "1502d3ac2c2ce4d3dc4c2db6ca6e95fb2a5d4a279e6e1413f6c427be222887a0"
 metafile = true
