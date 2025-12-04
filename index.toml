@@ -9,6 +9,10 @@ file = "README.md"
 hash = "14bc7925b491379eaf8adafcbdc0e57020b3f918c75dbc70844369cbd3b7916f"
 
 [[files]]
+file = "TODO.todo"
+hash = "8d2f3cbee094d31526069599cd03307b63a0118a07a1b005b47bfbb8cda56cae"
+
+[[files]]
 file = "mods/\"limitless\"-banners.pw.toml"
 hash = "f0e30512a0cf37441033d736cfd2364f6bf56f3954cdbef2b4313af8b3334ea2"
 metafile = true
@@ -26,6 +30,11 @@ metafile = true
 [[files]]
 file = "mods/bat-membrane.pw.toml"
 hash = "4af32ac38b039869bb092e5a5c4a3336e2dadda0a492903fc614746c3dfdd5d9"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "94c3fc74cf184c9e5c597609dde733137f823bed718fcce32cdefaa040aa9977"
 metafile = true
 
 [[files]]
@@ -224,6 +233,11 @@ hash = "dd76154b516a1791ad189a9c9aeb09d37a738233ed5dea358b35a4a43d9e5c3b"
 metafile = true
 
 [[files]]
+file = "mods/sign-optimizer.pw.toml"
+hash = "2df452488ee91b4a8284bdc55f6523789b330feca58b2d245bc47a2a857dd665"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "bb7064282571976ed2bbe266bcf5e525d6d661aeea89649e4d604327973cf92d"
 metafile = true
@@ -270,11 +284,15 @@ metafile = true
 
 [[files]]
 file = "overrides/config/badoptimizations.txt"
-hash = "9f56bd826fea6a8c6d68db34b09218e9c66154b82854150f954ddf56ec80f439"
+hash = "e25d2c3affa5bb8f8e24156b0c80f65f2f4a5d898418d4d10ce005052d1659c6"
+
+[[files]]
+file = "overrides/config/betterblockentities.json"
+hash = "fe9edebd49a434b2be707523377a1757b3bbdd0ebce357dbf61a8a39d4f12111"
 
 [[files]]
 file = "overrides/config/c2me.toml"
-hash = "f8a716e992f52c8b3f345ae20fad2e3ff93bcbfca8e699c3428220dbc0265fb6"
+hash = "12e0f0425a2e58d9dccbc368877b19a1a3c92209fade1197fd1eaf9dff36e840"
 
 [[files]]
 file = "overrides/config/carpet/default_carpet.conf"
@@ -283,6 +301,10 @@ hash = "a1841d4e9d82126db89b205ac363478a3e3c3d1017e721a1b13a85a421325380"
 [[files]]
 file = "overrides/config/clearview.json"
 hash = "e4b9792d25d45c3ab5db062a752f24c2dd8ef74a367bd0a2be38ab1cbfde1935"
+
+[[files]]
+file = "overrides/config/clearviews.json"
+hash = "9cc0ab470c8538c45ecd2fa2d3a0794f53196d11cb9835fb707b48df58865ace"
 
 [[files]]
 file = "overrides/config/clickthrough.json"
@@ -342,7 +364,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "overrides/config/fabric/indigo-renderer.properties"
-hash = "3f101c2d75f12a167b79712df10868a68d3fc7f8af5e54cce20f6af298342e74"
+hash = "cbd9fc7828765c684b90c076005757edee5c6dcf53cc2a5fb3435f708ce35761"
 
 [[files]]
 file = "overrides/config/fancymenu/assets/starlight-pro-logo.png"
@@ -362,7 +384,7 @@ hash = "c23de18f6d2faa5bb302b1a1b1a9ae17de817fee4546bb38d7551983789c3cb5"
 
 [[files]]
 file = "overrides/config/fancymenu/customization/starlight_title_screen.txt"
-hash = "a6e1070c706333311fbd84bcd6be0565cc91823f3d8b0b1a59e17626ebac374a"
+hash = "2d9e08a53a0e9f71317cd1ba97b09a7f40c8403e4fcc2df9490acc6152c129a5"
 
 [[files]]
 file = "overrides/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -374,15 +396,15 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "overrides/config/fancymenu/options.txt"
-hash = "7fff2b86364851ad0f4b1c08d8dc61fb76f826384ba05ba02a9ba1999fe2bfa7"
+hash = "a040eb55282fed8d7d2364c27edf13ea4c2e39322b89a81ff66cf4744ef92924"
 
 [[files]]
 file = "overrides/config/fancymenu/ui_themes/dark.json"
-hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+hash = "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850"
 
 [[files]]
 file = "overrides/config/fancymenu/ui_themes/light.json"
-hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
 
 [[files]]
 file = "overrides/config/fancymenu/user_variables.db"
@@ -406,7 +428,7 @@ hash = "650669bad6c6eb77bfb1395dbe0fa366cd151434aa297719152d0dce3be7eeaf"
 
 [[files]]
 file = "overrides/config/immediatelyfast.json"
-hash = "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa"
+hash = "d9dbf869e3879f7ac4fc5b40073eacaeaafa35d4cd693e9884005e932f92b47d"
 
 [[files]]
 file = "overrides/config/infinitetrading.json5"
@@ -438,7 +460,7 @@ hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 
 [[files]]
 file = "overrides/config/inventoryprofilesnext/2 - Dreamland/lockSlots.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "9f14025af0065b30e47e23ebb3b491d39ae8ed17d33739e5ff3827ffb3634953"
 
 [[files]]
 file = "overrides/config/inventoryprofilesnext/2 - Dreamland/prev-villager-trading-config-v2.json"
@@ -562,7 +584,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "overrides/config/iris.properties"
-hash = "5360c37f8e3b73972c70f4206918798e43102e5f1f70b5bd9d3dabfdcac8c590"
+hash = "e103393ea8eb130535826eb940258ebc2c6fb1ead420ba8d39170e93b82e3202"
 
 [[files]]
 file = "overrides/config/jade/hide-blocks.json"
@@ -573,8 +595,12 @@ file = "overrides/config/jade/hide-entities.json"
 hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
 
 [[files]]
+file = "overrides/config/jade/hide-mob-effects.json"
+hash = "085ae084a98180d4659ef60f9cf91281152a6e7b74a5a76c53f86e4f8f0d17f9"
+
+[[files]]
 file = "overrides/config/jade/jade.json"
-hash = "351abf41e49de3b8fc0495599ee46101527b569a56d3dc0aadbaa780e15ad512"
+hash = "2b1d67c9e6a2eb695dfe97d3be2dc15f1badfade73606a4d45fb062eb510b40c"
 
 [[files]]
 file = "overrides/config/jade/plugins.json"
@@ -582,15 +608,15 @@ hash = "4cde153409c59ec5b512cdeb97e9c251f8f2cfdc026c7bba043f928d44a3ea49"
 
 [[files]]
 file = "overrides/config/jade/profiles/1/jade.json"
-hash = "52f252218abff2918b629a3dd7e31c8be58f18f9aaf1df221f945b42320142a1"
+hash = "2dca202bec8ca593ad030463fac80315fb8efa3d6d3786de60357cd5f8eb4ada"
 
 [[files]]
 file = "overrides/config/jade/profiles/2/jade.json"
-hash = "52f252218abff2918b629a3dd7e31c8be58f18f9aaf1df221f945b42320142a1"
+hash = "2dca202bec8ca593ad030463fac80315fb8efa3d6d3786de60357cd5f8eb4ada"
 
 [[files]]
 file = "overrides/config/jade/profiles/3/jade.json"
-hash = "52f252218abff2918b629a3dd7e31c8be58f18f9aaf1df221f945b42320142a1"
+hash = "2dca202bec8ca593ad030463fac80315fb8efa3d6d3786de60357cd5f8eb4ada"
 
 [[files]]
 file = "overrides/config/jade/server-plugin-overrides.json"
@@ -598,7 +624,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "overrides/config/jade/sort-order.json"
-hash = "38ff3fca936fbe7ef0bad26a3a8ce16f08b6f83697b9ae82ca5f382b519a433d"
+hash = "7ec66b9b721b4366e29d621e868f5842db4a8d2716dcdf2ee9231d3cfa4f7c51"
 
 [[files]]
 file = "overrides/config/jade/usernamecache.json"
@@ -630,11 +656,11 @@ hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 
 [[files]]
 file = "overrides/config/lighty/base.config"
-hash = "d74378a168db2a0d26daa06b030475ff8a088ba8fde8fcc2a734d0534e7e32c8"
+hash = "5bca0f923a1e1a9a258c71c74a2c5dc750f39082acf2761b71ce24a6c6e5347c"
 
 [[files]]
 file = "overrides/config/litematica.json"
-hash = "7e02e4c6d65a5ef620573be64f1fcb7482367e7da8d86d79e7706544ffce230f"
+hash = "559c694764382833df9514941f0537edfdccf74f64a2016d8a7d03c6515b5c73"
 
 [[files]]
 file = "overrides/config/litematica/area_selections_per_world/2___dreamland/area_selections/creeper_farm.json"
@@ -650,7 +676,7 @@ hash = "60e030b6b52f07a35161d8141f0d9bee457d2ce810b1c7a3d6dbe2f752447e86"
 
 [[files]]
 file = "overrides/config/litematica/litematica_2 - Dreamland.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+hash = "c5084e511824ed9f2f38764243b970bd4c7d1047c5fa450b4f4e1c6a2cf9622e"
 
 [[files]]
 file = "overrides/config/litematica/litematica_2 - Dreamland_dim_minecraft_overworld.json"
@@ -858,11 +884,11 @@ hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
 [[files]]
 file = "overrides/config/minihud.json"
-hash = "1a3c518eaf316100146746882d4ba934335060b2ebfbcdeaf63674bf07a7d174"
+hash = "d32d9f21332d0fd9ea9734372cfc2e8b75b3ba75b2e7affdddabbebe842ee5dd"
 
 [[files]]
 file = "overrides/config/minihud/2 - Dreamland.json"
-hash = "636f0c124cab13e4322d8513e6ec52b467a6091a7b5321e1ea003b691f46894c"
+hash = "e326ce7bad277d7410fdad5095655344a99b284bf7e044159053f8511d6850f8"
 
 [[files]]
 file = "overrides/config/minihud/2 - Dreamland_dim_minecraft_overworld.json"
@@ -1074,7 +1100,7 @@ hash = "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919"
 
 [[files]]
 file = "overrides/config/roughlyenoughitems/config.json5"
-hash = "4ca808bfb9859d7ed0e168d8399d40a2c184f36d77b13f4d15f5497318b68a06"
+hash = "9a87cd4e0cf191e8eb03f08e780347367df880f23c991f55a5b9caec237e40f9"
 
 [[files]]
 file = "overrides/config/roughlyenoughitems/favorites.json5"
@@ -1086,11 +1112,11 @@ hash = "675af5d6271bfc458a23a1f8e0ecbb583a7d797aec9544e132b16cc3653bfec1"
 
 [[files]]
 file = "overrides/config/roughlyenoughitems/pinyin.properties"
-hash = "9a6c88cf546b9bd06708db8e0a5c70f599798f0feae9a435ca32456864881139"
+hash = "0d0e8e58acab0b04dd9fa4d087a4ad42d0db423e16ef0e65362b4c6b615fdb7a"
 
 [[files]]
 file = "overrides/config/roughlyenoughitems/pinyin_double.properties"
-hash = "6ff8bd9e24defe5a33eedbb51afbcc48dba2117d0a2f212c7eb6574d62a4d001"
+hash = "dbca939d70d642ba577b7a2d59b8e157a380059a795d84e180c6b8a99214f3e4"
 
 [[files]]
 file = "overrides/config/rrls.toml"
@@ -1098,11 +1124,11 @@ hash = "0e4a0d773bc1c38198a52dbc8745f2afabb607e55660cc56c3d4943995c1dab6"
 
 [[files]]
 file = "overrides/config/shulkerboxtooltip.json5"
-hash = "d799fe403b68b63a28558c660ce31d35c1e98dcc7c40a2513ca1328bc9c095bb"
+hash = "1423e1830a1fc4c76d8aa43af9c6052ea867cbc00b75b6a2257e970cc821f4c2"
 
 [[files]]
 file = "overrides/config/sodium-extra-options.json"
-hash = "b0a8006b7ba4acd7712a054be1c4ebcb9b4d77caec28a853a78fbdd07042c0ca"
+hash = "5a2444080b4cb68df836e39da688cd2b6e6c8f58403b828373e269c165d0ff01"
 
 [[files]]
 file = "overrides/config/sodium-extra.properties"
@@ -1118,7 +1144,7 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
 file = "overrides/config/sodium-options.json"
-hash = "a2fbd898fdceff6817a0975687f2a80f11fa39a3085362e8d55c0fada47ed762"
+hash = "ba453463e1e38801125a13ddab83c78cb8cfbd8b04ecb294e4b59fcaf9b3d7c0"
 
 [[files]]
 file = "overrides/config/threadtweak.json"
@@ -1134,15 +1160,15 @@ hash = "35ce68db7fa155dd8d7c01ff7d0bbd0e85150c82dda83f222810c3d1a7675173"
 
 [[files]]
 file = "overrides/config/timm/general.json"
-hash = "31a15c43fab378239a1e0a740ad90818e65a29d6c2f1bdabf79bdc6cbb2bbd85"
+hash = "5de01faae9af8451ba8d10c0bed8715fd5c80aff7c57996843c12186058d631e"
 
 [[files]]
 file = "overrides/config/tweakeroo.json"
-hash = "aac80f4aded422440ada641cfc6b6195bb8f21037c1570b7b8fef09ef30c2def"
+hash = "3e2eff451a43b24b5d6bfc7f5ece4dd9dd4f81c1ec458038797b8dd79dbd59aa"
 
 [[files]]
 file = "overrides/config/vmp.properties"
-hash = "a2e0b011242b3e4899a183925bd5fd6834f46cbe1c816dd8acc464d5f6513a83"
+hash = "fbcf83704a1f4b3d6fddf8e3582320edf1595aabd350851e67c2c5a926a1ec8e"
 
 [[files]]
 file = "overrides/config/worldedit/.archive-unpack/5f7cd289/.unpack_finished"
@@ -1714,7 +1740,19 @@ hash = "9757a6208de6780c7d86d61a75e997848a30a7e759f5e2f3e29d08ab7aa6383f"
 
 [[files]]
 file = "overrides/config/worldedit/worldedit.properties"
-hash = "0a370fd0cc0c1cdde4082d6728a4241e61f1bf1410f911ea721323c2acbf9e4e"
+hash = "237cdb8b9234fb632c8a750d91f458f89ffdcb9f8b225396be2db49374157316"
+
+[[files]]
+file = "overrides/config/xaerominimap-common.txt"
+hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
+
+[[files]]
+file = "overrides/config/xaerominimap.txt"
+hash = "932b37e28c2f47b6a8a38159b121cfc538eca24991971c63bc0c4340e59e1ebf"
+
+[[files]]
+file = "overrides/config/xaerominimap_entities.json"
+hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
 
 [[files]]
 file = "overrides/config/xaeropatreon.txt"
@@ -1730,11 +1768,15 @@ hash = "9d04f13359c30ba872ed56a52b30ab8a8924e139bf40bf9f52af82b99eb7ce31"
 
 [[files]]
 file = "overrides/config/yacl.json5"
-hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
+hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
 file = "overrides/config/zoomify.json"
 hash = "60a78fe1b271ce9b53e295235eb5a7cdb3a8692ca583fdaa7f5bc09f9049e2f4"
+
+[[files]]
+file = "overrides/mods/BeamBeGone-0.1.0-dev.jar"
+hash = "697ef3799c67b8b45fde6b43245f3610fe86bd3a828e961e8e2924286e6650a6"
 
 [[files]]
 file = "overrides/mods/BeamBeGone-0.2.0-fork.jar"
