@@ -233,11 +233,6 @@ hash = "dd76154b516a1791ad189a9c9aeb09d37a738233ed5dea358b35a4a43d9e5c3b"
 metafile = true
 
 [[files]]
-file = "mods/sign-optimizer.pw.toml"
-hash = "2df452488ee91b4a8284bdc55f6523789b330feca58b2d245bc47a2a857dd665"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "bb7064282571976ed2bbe266bcf5e525d6d661aeea89649e4d604327973cf92d"
 metafile = true
