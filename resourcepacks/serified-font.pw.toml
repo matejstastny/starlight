@@ -1,0 +1,13 @@
+name = "(Bee's) Serified Font"
+filename = "Serified Font v1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/L0iIXINl/versions/HKB3P2R0/Serified%20Font%20v1.2.zip"
+hash-format = "sha512"
+hash = "0adda142d393cff2a041ac7529a3b846b3a25aac83ea88dacc607af52150f7c3c7cc48b015ea7d1b7866edffcfa5c5363f953af518cd454faa4fea1bdb4de6bc"
+
+[update]
+[update.modrinth]
+mod-id = "L0iIXINl"
+version = "HKB3P2R0"

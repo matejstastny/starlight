@@ -1856,3 +1856,8 @@ metafile = true
 file = "resourcepacks/night-ui.pw.toml"
 hash = "d34932d17dee9837a85d0f6499b45bc16290756a4c887b694f540e4fdd0fe0d1"
 metafile = true
+
+[[files]]
+file = "resourcepacks/serified-font.pw.toml"
+hash = "f0c8256be8502a337263dc0463e3dd95bfb82957c88e58c59647dbe42afcaf6b"
+metafile = true
