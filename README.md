@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://fabricmc.net/"><img src="https://img.shields.io/badge/Fabric-0.16.14-blueviolet?logo=fabric&logoColor=white" alt="Fabric Version"></a> <a href="https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-4"><img src="https://img.shields.io/badge/Minecraft-1.21.4-green?logo=minecraft" alt="Minecraft"></a> <a href="https://modrinth.com/modpack/starlightmodpack"><img src="https://img.shields.io/badge/Modrinth-Published-5da545?logo=modrinth&logoColor=white" alt="Modrinth"></a> <a href="https://packwiz.infra.link/"><img src="https://img.shields.io/badge/built%20with-packwiz-9146ff?logo=go&logoColor=white" alt="Packwiz"></a> <a href="https://github.com/my-daarlin/starlight"><img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://fabricmc.net/"><img src="https://img.shields.io/badge/Fabric-0.16.14-blueviolet?logo=fabric&logoColor=white" alt="Fabric Version"></a> <a href="https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-4"><img src="https://img.shields.io/badge/Minecraft-1.21.10-green?logo=minecraft" alt="Minecraft"></a> <a href="https://modrinth.com/modpack/starlightmodpack"><img src="https://img.shields.io/badge/Modrinth-Published-5da545?logo=modrinth&logoColor=white" alt="Modrinth"></a> <a href="https://packwiz.infra.link/"><img src="https://img.shields.io/badge/built%20with-packwiz-9146ff?logo=go&logoColor=white" alt="Packwiz"></a> <a href="https://github.com/my-daarlin/starlight"><img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 <br>
@@ -52,7 +52,9 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | "Limitless" Banners                         | Mod         | [Modrinth](https://modrinth.com/mod/z4zsMANd) |
 | Architectury API                            | Mod         | [Modrinth](https://modrinth.com/mod/lhGA9TYQ) |
 | BadOptimizations                            | Mod         | [Modrinth](https://modrinth.com/mod/g96Z4WVZ) |
-| Beam Be Gone                                | Mod         | [Modrinth](https://modrinth.com/mod/6B5InQA5) |
+| Bat Membrane (No Phantoms)                  | Mod         | [Modrinth](https://modrinth.com/mod/vz3NiXrd) |
+| Better Advancements                         | Mod         | [Modrinth](https://modrinth.com/mod/Q2OqKxDG) |
+| Better Block Entities                       | Mod         | [Modrinth](https://modrinth.com/mod/ONZm0H7Y) |
 | Concurrent Chunk Management Engine (Fabric) | Mod         | [Modrinth](https://modrinth.com/mod/VSNURh3q) |
 | Carpet                                      | Mod         | [Modrinth](https://modrinth.com/mod/TQTTVgYE) |
 | Clearviews                                  | Mod         | [Modrinth](https://modrinth.com/mod/TwYypE5e) |
@@ -60,9 +62,8 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | Cloth Config API                            | Mod         | [Modrinth](https://modrinth.com/mod/9s6osm5g) |
 | Collective                                  | Mod         | [Modrinth](https://modrinth.com/mod/e0M1UDsY) |
 | Continuity                                  | Mod         | [Modrinth](https://modrinth.com/mod/1IjD5062) |
-| Custom LAN                                  | Mod         | [Modrinth](https://modrinth.com/mod/OCvCFPNR) |
+| CustomSkinLoader                            | Mod         | [Modrinth](https://modrinth.com/mod/idMHQ4n2) |
 | Dynamic FPS                                 | Mod         | [Modrinth](https://modrinth.com/mod/LQ3K71Q1) |
-| Enhanced Block Entities                     | Mod         | [Modrinth](https://modrinth.com/mod/OVuFYfre) |
 | Enderman Grief                              | Mod         | [Modrinth](https://modrinth.com/mod/LLomXBnX) |
 | Entity Culling                              | Mod         | [Modrinth](https://modrinth.com/mod/NNAgCjsB) |
 | Fabric API                                  | Mod         | [Modrinth](https://modrinth.com/mod/P7dR8mSH) |
@@ -76,7 +77,6 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | Iris Shaders                                | Mod         | [Modrinth](https://modrinth.com/mod/YL57xq9U) |
 | Jade 🔍                                     | Mod         | [Modrinth](https://modrinth.com/mod/nvQzSEkH) |
 | Konkrete                                    | Mod         | [Modrinth](https://modrinth.com/mod/J81TRJWm) |
-| Ksyxis                                      | Mod         | [Modrinth](https://modrinth.com/mod/2ecVyZ49) |
 | libIPN                                      | Mod         | [Modrinth](https://modrinth.com/mod/onSQdWhM) |
 | Lighty                                      | Mod         | [Modrinth](https://modrinth.com/mod/yjvKidNM) |
 | Litematica                                  | Mod         | [Modrinth](https://modrinth.com/mod/bEpr0Arc) |
@@ -84,30 +84,32 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | MaLiLib                                     | Mod         | [Modrinth](https://modrinth.com/mod/GcWjdA9I) |
 | Melody                                      | Mod         | [Modrinth](https://modrinth.com/mod/CVT4pFB2) |
 | MiniHUD                                     | Mod         | [Modrinth](https://modrinth.com/mod/UMxybHE8) |
-| ModernFix                                   | Mod         | [Modrinth](https://modrinth.com/mod/nmDcB62a) |
+| MiniTeleport                                | Mod         | [Modrinth](https://modrinth.com/mod/gmfe94N8) |
 | Mod Menu                                    | Mod         | [Modrinth](https://modrinth.com/mod/mOgUt4GM) |
-| No More Phantoms                            | Mod         | [Modrinth](https://modrinth.com/mod/Oe1SVpwg) |
 | No Fortune Chest                            | Mod         | [Modrinth](https://modrinth.com/mod/4QufRNTv) |
 | NoRecipeBook                                | Mod         | [Modrinth](https://modrinth.com/mod/TvL1V8O5) |
+| OfflineLAN                                  | Mod         | [Modrinth](https://modrinth.com/mod/pimmstPB) |
 | Text Placeholder API                        | Mod         | [Modrinth](https://modrinth.com/mod/eXts2L7r) |
 | Reese's Sodium Options                      | Mod         | [Modrinth](https://modrinth.com/mod/Bh37bMuy) |
 | Roughly Enough Items (REI)                  | Mod         | [Modrinth](https://modrinth.com/mod/nfn13YXA) |
 | Shulker Box Tooltip                         | Mod         | [Modrinth](https://modrinth.com/mod/2M01OLQq) |
 | Sodium Extra                                | Mod         | [Modrinth](https://modrinth.com/mod/PtjYWJkn) |
 | Sodium                                      | Mod         | [Modrinth](https://modrinth.com/mod/AANobbMI) |
-| Teleport Commands                           | Mod         | [Modrinth](https://modrinth.com/mod/3ne670on) |
-| ThreadTweak                                 | Mod         | [Modrinth](https://modrinth.com/mod/vSEH1ERy) |
 | Tweakeroo                                   | Mod         | [Modrinth](https://modrinth.com/mod/t5wuYk45) |
 | Very Many Players (Fabric)                  | Mod         | [Modrinth](https://modrinth.com/mod/wnEe9KBa) |
 | WI Zoom                                     | Mod         | [Modrinth](https://modrinth.com/mod/o7DitHWP) |
 | WorldEdit                                   | Mod         | [Modrinth](https://modrinth.com/mod/1u6JkXh5) |
+| Xaero's Minimap                             | Mod         | [Modrinth](https://modrinth.com/mod/1bokaNcj) |
 | Xaero's World Map                           | Mod         | [Modrinth](https://modrinth.com/mod/NcUtCpym) |
+| YetAnotherConfigLib (YACL)                  | Mod         | [Modrinth](https://modrinth.com/mod/1eAoo2KR) |
 | 1.20 panorama with shaders (night)          | Texturepack | [Modrinth](https://modrinth.com/mod/HmYNU7gu) |
 | Small Totem                                 | Texturepack | [Modrinth](https://modrinth.com/mod/O1D0aeBl) |
 | Fast Better Grass                           | Texturepack | [Modrinth](https://modrinth.com/mod/dspVZXKP) |
 | Mob Crates                                  | Texturepack | [Modrinth](https://modrinth.com/mod/bYcjtBki) |
+| oSzoukaua's: Reduce Villagers               | Texturepack | [Modrinth](https://modrinth.com/mod/2odW2Xnk) |
 | New Glowing Ores                            | Texturepack | [Modrinth](https://modrinth.com/mod/oL18adaQ) |
 | 🌙 Night UI - A Dark Themed Resource Pack   | Texturepack | [Modrinth](https://modrinth.com/mod/JEGWvrJj) |
+| (Bee's) Serified Font                       | Texturepack | [Modrinth](https://modrinth.com/mod/L0iIXINl) |
 
 <!-- MODLIST_END -->
 
@@ -115,18 +117,17 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 
 Non Modrinth content, or Modrinth content in a specific version. Not managed by `packwiz`.
 
-| Name                     | Type        | Source                                                                                   |
-| ------------------------ | ----------- | ---------------------------------------------------------------------------------------- |
-| Offline Skins            | Mod         | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/offlineskins-fabric)           |
-| No Villager Idle Sounds  | Texturepack | [Curseforge](https://www.curseforge.com/minecraft/texture-packs/no-villager-idle-sounds) |
-| Alternate Bedrock        | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/)                        |
-| Square Plus Crosshair    | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/)                        |
-| Brighter Nether          | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/)                        |
-| Golden Carrot Hunger Bar | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/)                        |
-| Purple Hearts            | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/)                        |
-| Quiter Minecarts         | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/)                        |
-| Quiter Nether Portals    | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/)                        |
-| Rainbow Expirience Bar   | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/)                        |
+| Name                     | Type        | Source                                                            |
+| ------------------------ | ----------- | ----------------------------------------------------------------- |
+| Beams Be Gone            | Mod         | [GitHub](https://github.com/matejstastny/beams-be-gone)           |
+| Alternate Bedrock        | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) |
+| Square Plus Crosshair    | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) |
+| Brighter Nether          | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) |
+| Golden Carrot Hunger Bar | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) |
+| Purple Hearts            | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) |
+| Quiter Minecarts         | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) |
+| Quiter Nether Portals    | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) |
+| Rainbow Expirience Bar   | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) |
 
 ## 📈 Performance data
 
@@ -271,7 +272,6 @@ deactivate
 
 - This modpack uses mods and resource packs from [Modrinth](https://modrinth.com/), a community-driven platform for Minecraft modding.
 - This modpack uses resource packs from the [Vanilla Tweaks](https://vanillatweaks.net/) portal.
-- The [Offline Skins](https://www.curseforge.com/minecraft/mc-mods/offlineskins-fabric) mod was used from [Curseforge](https://www.curseforge.com/minecraft).
 - The Starlight logo was created using [Blockbench](https://www.blockbench.net/) with a Minecraft text plugin. There is a video explaining how to do this [here](https://www.youtube.com/watch?v=iGaufrACVj4).
 
 All mods are managed via [Packwiz](https://packwiz.infra.link/).
