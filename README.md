@@ -50,6 +50,7 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | Name                                        | Type        | Source                                        |
 | ------------------------------------------- | ----------- | --------------------------------------------- |
 | "Limitless" Banners                         | Mod         | [Modrinth](https://modrinth.com/mod/z4zsMANd) |
+| 3D Skin Layers                              | Mod         | [Modrinth](https://modrinth.com/mod/zV5r3pPn) |
 | Architectury API                            | Mod         | [Modrinth](https://modrinth.com/mod/lhGA9TYQ) |
 | BadOptimizations                            | Mod         | [Modrinth](https://modrinth.com/mod/g96Z4WVZ) |
 | Bat Membrane (No Phantoms)                  | Mod         | [Modrinth](https://modrinth.com/mod/vz3NiXrd) |
@@ -102,6 +103,7 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | Xaero's Minimap                             | Mod         | [Modrinth](https://modrinth.com/mod/1bokaNcj) |
 | Xaero's World Map                           | Mod         | [Modrinth](https://modrinth.com/mod/NcUtCpym) |
 | YetAnotherConfigLib (YACL)                  | Mod         | [Modrinth](https://modrinth.com/mod/1eAoo2KR) |
+| Armor Hider                                 | Mod         | [Modrinth](https://modrinth.com/mod/GgG2my3y) |
 | 1.20 panorama with shaders (night)          | Texturepack | [Modrinth](https://modrinth.com/mod/HmYNU7gu) |
 | Small Totem                                 | Texturepack | [Modrinth](https://modrinth.com/mod/O1D0aeBl) |
 | Fast Better Grass                           | Texturepack | [Modrinth](https://modrinth.com/mod/dspVZXKP) |
