@@ -194,7 +194,7 @@
     "armor_stand": true,
     "painting": true,
     "piston": true,
-    "beacon_beam": true,
+    "beacon_beam": false,
     "limit_beacon_beam_height": true,
     "enchanting_table_book": true,
     "item_frame_name_tag": true,

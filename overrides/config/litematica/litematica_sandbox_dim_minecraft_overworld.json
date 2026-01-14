@@ -5,12 +5,12 @@
   "placements": {
     "placements": [
       {
-        "schematic": "/Users/matejstastny/minecraft/prism/Starlight 1.0.0/minecraft/schematics/DustMoss/Dustmoss Cube 2x3x2 Clock.litematic",
-        "name": "Dustmoss Cube 2x3x2 Clock",
+        "schematic": "/Users/matejstastny/minecraft/prism/Starlight/minecraft/schematics/hykn55_PUTF std2cr.litematic",
+        "name": "hykn55_PUTF std2cr",
         "origin": [
-          36,
+          92,
           56,
-          97
+          84
         ],
         "rotation": "NONE",
         "mirror": "NONE",
@@ -20,18 +20,19 @@
         "render_enclosing_box": false,
         "locked": false,
         "locked_coords": 0,
-        "bb_color": 16152206,
+        "bb_color": 8404597,
         "verifier_type": "all",
+        "hash_code": "8fc644ca-fe5f-49a4-b5e2-383e3982288b",
         "placements": [
           {
-            "name": "Dustmoss Cube 2x3x2 Clock",
+            "name": "hykn55_PUTF std2cr",
             "placement": {
               "pos": [
-                0,
+                15,
                 0,
                 0
               ],
-              "name": "Dustmoss Cube 2x3x2 Clock",
+              "name": "hykn55_PUTF std2cr",
               "rotation": "NONE",
               "mirror": "NONE",
               "locked_coords": 0,
@@ -43,12 +44,12 @@
         ]
       },
       {
-        "schematic": "/Users/matejstastny/minecraft/prism/Starlight 1.0.0/minecraft/schematics/Shulker Farm.litematic",
-        "name": "TheySix - NANO Shulker Farm MV4",
+        "schematic": "/Users/matejstastny/minecraft/prism/Starlight/minecraft/schematics/YAMS_V2.26_FB_Deco.litematic",
+        "name": "YAMS V2 Deco",
         "origin": [
-          129,
-          55,
-          40
+          8,
+          95,
+          -172
         ],
         "rotation": "NONE",
         "mirror": "NONE",
@@ -58,18 +59,36 @@
         "render_enclosing_box": false,
         "locked": false,
         "locked_coords": 0,
-        "bb_color": 12648480,
+        "bb_color": 16738304,
         "verifier_type": "all",
+        "hash_code": "6d3e9673-75f1-4404-a0a4-d047979b2d95",
         "placements": [
           {
-            "name": "TheySix - NANO Shulker Farm MV4",
+            "name": "storage",
             "placement": {
               "pos": [
-                0,
-                63,
-                21
+                -52,
+                -27,
+                -37
               ],
-              "name": "TheySix - NANO Shulker Farm MV4",
+              "name": "storage",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "chunkloading",
+            "placement": {
+              "pos": [
+                -104,
+                -40,
+                -66
+              ],
+              "name": "chunkloading",
               "rotation": "NONE",
               "mirror": "NONE",
               "locked_coords": 0,
@@ -80,13 +99,15 @@
           }
         ]
       }
-    ]
+    ],
+    "selected": 1,
+    "origin_selected": true
   },
   "schematic_projects_manager": {},
   "operation_mode": "PASTE_SCHEMATIC",
   "render_range": {
     "mode": "ALL",
-    "axis": "y",
+    "axis": "Y",
     "layer_single": 0,
     "layer_above": 0,
     "layer_below": 0,
@@ -96,21 +117,21 @@
     "hotkey_range_max": false
   },
   "area_simple": {
-    "name": "Pere Marquette 1225 Steam Train",
-    "current": "Pere Marquette 1225 Steam Train",
+    "name": "Bee Breeder",
+    "current": "Bee Breeder",
     "boxes": [
       {
         "pos1": [
-          23,
+          -169,
           55,
-          49
+          25
         ],
         "pos2": [
-          17,
-          64,
-          -17
+          -177,
+          60,
+          33
         ],
-        "name": "Pere Marquette 1225 Steam Train"
+        "name": "Bee Breeder"
       }
     ]
   },

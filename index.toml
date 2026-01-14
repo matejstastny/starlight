@@ -283,6 +283,11 @@ hash = "976682e613b79e310fe22c5ddc2322bfc76665295cd9fa885787dfa08b7764b2"
 metafile = true
 
 [[files]]
+file = "mods/zannaghs-armor-hider.pw.toml"
+hash = "1ffd32425dd5bc927a05c80c07350ab7331a65f20e6ed20e0fbc9f72ba45c1e3"
+metafile = true
+
+[[files]]
 file = "overrides/config/badoptimizations.txt"
 hash = "e25d2c3affa5bb8f8e24156b0c80f65f2f4a5d898418d4d10ce005052d1659c6"
 

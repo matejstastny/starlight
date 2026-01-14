@@ -1,4 +1,5 @@
 {
+  "enabled": false,
   "uncap_menu_frame_rate": true,
   "battery_tracker": {
     "notifications": false

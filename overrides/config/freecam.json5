@@ -4,8 +4,8 @@
 	},
 	"movement": {
 		"flightMode": "DEFAULT",
-		"horizontalSpeed": 1.0,
-		"verticalSpeed": 1.0
+		"horizontalSpeed": 0.38,
+		"verticalSpeed": 0.4
 	},
 	"collision": {
 		"ignoreTransparent": false,

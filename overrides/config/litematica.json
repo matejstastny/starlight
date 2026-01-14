@@ -8,7 +8,7 @@
     "schematicRebuildReplaceOverlayColor": "#4CF0A010",
     "schematicOverlayColorDiffBlock": "#30F8D650",
     "schematicOverlayColorExtra": "#4CFF4CE6",
-    "schematicOverlayColorMissing": "#2C33B3E6",
+    "schematicOverlayColorMissing": "#2C13F9F0",
     "schematicOverlayColorWrongBlock": "#4CFF3333",
     "schematicOverlayColorWrongState": "#4CFF9010"
   },
@@ -79,7 +79,7 @@
     "signTextPaste": true,
     "toolItemEnabled": true,
     "unhideSchematicVCS": false,
-    "pasteReplaceBehavior": "all",
+    "pasteReplaceBehavior": "with_non_air",
     "pasteLayerBehavior": "all",
     "schematicVcsDeleteMode": "matching_block",
     "selectionCornersMode": "corners",
@@ -98,7 +98,7 @@
   },
   "Hotkeys": {
     "addSelectionBox": {
-      "keys": "M,A"
+      "keys": ""
     },
     "cloneSelection": {
       "keys": ""
@@ -113,7 +113,7 @@
       "keys": ""
     },
     "easyPlaceToggle": {
-      "keys": "P"
+      "keys": "C"
     },
     "executeOperation": {
       "keys": "APOSTROPHE"
@@ -149,7 +149,7 @@
       "keys": ""
     },
     "openGuiAreaSettings": {
-      "keys": "KP_MULTIPLY"
+      "keys": ""
     },
     "openGuiLoadedSchematics": {
       "keys": ""
@@ -158,13 +158,13 @@
       "keys": "K"
     },
     "openGuiMaterialList": {
-      "keys": "M,L"
+      "keys": "J"
     },
     "openGuiPlacementSettings": {
-      "keys": "KP_SUBTRACT"
+      "keys": ""
     },
     "openGuiSchematicPlacements": {
-      "keys": "M,P"
+      "keys": ""
     },
     "openGuiSchematicProjects": {
       "keys": ""
@@ -179,31 +179,31 @@
       "keys": "M,C"
     },
     "operationModeChangeModifier": {
-      "keys": "LEFT_CONTROL"
+      "keys": ""
     },
     "pickBlockFirst": {
-      "keys": "BUTTON_3"
+      "keys": ""
     },
     "pickBlockLast": {
       "keys": ""
     },
     "pickBlockToggle": {
-      "keys": "M,BUTTON_3"
+      "keys": ""
     },
     "renderInfoOverlay": {
-      "keys": "I"
+      "keys": "X"
     },
     "renderOverlayThroughBlocks": {
-      "keys": "RIGHT_CONTROL"
+      "keys": ""
     },
     "rerenderSchematic": {
-      "keys": "F3,M"
+      "keys": ""
     },
     "saveAreaAsInMemorySchematic": {
       "keys": ""
     },
     "saveAreaAsSchematicToFile": {
-      "keys": "LEFT_CONTROL,LEFT_ALT,S"
+      "keys": ""
     },
     "schematicEditBreakPlaceAll": {
       "keys": ""
@@ -254,10 +254,10 @@
       "keys": ""
     },
     "selectionNudgeModifier": {
-      "keys": "LEFT_ALT"
+      "keys": ""
     },
     "selectionModeCycle": {
-      "keys": "LEFT_CONTROL,M"
+      "keys": ""
     },
     "selectionShrink": {
       "keys": ""
@@ -272,13 +272,13 @@
       "keys": ""
     },
     "toggleAllRendering": {
-      "keys": "R"
+      "keys": "Y"
     },
     "toggleAreaSelectionBoxesRendering": {
       "keys": ""
     },
     "toggleInfoOverlayRendering": {
-      "keys": ""
+      "keys": "O"
     },
     "toggleOverlayRendering": {
       "keys": ""
@@ -299,7 +299,7 @@
       "keys": ""
     },
     "toggleSchematicRendering": {
-      "keys": "M,G"
+      "keys": "R"
     },
     "toggleSignTextPaste": {
       "keys": ""
@@ -336,18 +336,18 @@
     "defaultSelectionMode": "simple",
     "blockInfoLinesEnabled": true,
     "blockInfoOverlayEnabled": true,
-    "infoOverlaysTargetFluids": false,
-    "statusInfoHud": false,
+    "infoOverlaysTargetFluids": true,
+    "statusInfoHud": true,
     "statusInfoHudAuto": false,
     "verifierOverlayEnabled": true,
     "warnDisabledRendering": true,
     "blockInfoLinesAlignment": "top_right",
     "blockInfoOverlayAlignment": "top_center",
-    "infoHudAlignment": "bottom_right",
-    "toolHudAlignment": "bottom_left",
+    "infoHudAlignment": "bottom_left",
+    "toolHudAlignment": "bottom_right",
     "blockInfoLinesOffsetX": 4,
     "blockInfoLinesOffsetY": 4,
-    "blockInfoLinesFontScale": 0.5,
+    "blockInfoLinesFontScale": 1.0,
     "blockInfoOverlayOffsetY": 6,
     "infoHudMaxLines": 10,
     "infoHudOffsetX": 1,
@@ -363,7 +363,7 @@
   },
   "Visuals": {
     "enableRendering": false,
-    "enableSchematicRendering": true,
+    "enableSchematicRendering": false,
     "enableAreaSelectionBoxesRendering": true,
     "enablePlacementBoxesRendering": true,
     "enableSchematicBlocksRendering": true,

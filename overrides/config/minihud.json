@@ -505,7 +505,7 @@
     }
   },
   "RendererToggles": {
-    "overlayBeaconRange": true,
+    "overlayBeaconRange": false,
     "overlayBiomeBorder": false,
     "overlayBlockGrid": false,
     "overlayConduitRange": false,

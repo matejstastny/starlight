@@ -10,5 +10,9 @@
     "slime_chunks": {
       "y_top": 75.0
     }
+  },
+  "hud_data": {
+    "seed": 2918029993756900716,
+    "spawn_chunk_radius": 2
   }
 }

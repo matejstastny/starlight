@@ -6,10 +6,5 @@
       0.0
     ]
   },
-  "hud_data": {
-    "seed": 92086866106121039,
-    "spawn_chunk_radius": 2
-  },
-  "entities": {},
   "shapes": {}
 }

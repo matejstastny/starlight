@@ -1,0 +1,70 @@
+{
+  "litematica": {
+    "rotatePlacement": {
+      "keys": ""
+    },
+    "mirrorPlacement": {
+      "keys": ""
+    },
+    "inventoryScreenOverlay": {
+      "enabled": false,
+      "hotkey": {
+        "keys": "I,O"
+      }
+    },
+    "refreshMaterialList": {
+      "keys": ""
+    },
+    "easyPlaceFullBlocks": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "verifyItemComponents": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "replaceItemPredicatesWithPlaceholders": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "forceSchematicItemOverlay": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    }
+  },
+  "worldedit": {
+    "autoWeSync": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "autoWeSyncTicks": 10,
+    "autoWeSyncFeedback": true,
+    "autoDisableUpdates": true
+  },
+  "misc": {
+    "openConfig": {
+      "keys": ""
+    },
+    "compactScoreboard": {
+      "enabled": false,
+      "hotkey": {
+        "keys": "F6"
+      }
+    },
+    "giveFullInv": {
+      "keys": "G"
+    },
+    "bundleFill": 1,
+    "fillSafety": true
+  }
+}

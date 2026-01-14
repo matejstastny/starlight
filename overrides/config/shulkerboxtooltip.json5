@@ -156,6 +156,6 @@
 		   PASSIVE: Ender chest contents are synchronized when the client opens a preview.
 		   (default value: ACTIVE)
 		*/
-		"enderChestSyncType": "NONE"
+		"enderChestSyncType": "PASSIVE"
 	}
 }

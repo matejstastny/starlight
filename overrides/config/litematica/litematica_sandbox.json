@@ -1,6 +1,6 @@
 {
   "last_directories": {
-    "schematic_save": "/Users/matejstastny/minecraft/prism/Starlight 1.0.0/minecraft/schematics/Spawn Buildings"
+    "schematic_load": "/Users/matejstastny/minecraft/prism/Starlight/minecraft/schematics"
   },
   "create_placement_on_load": true,
   "config_gui_tab": "GENERIC"

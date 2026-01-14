@@ -43,6 +43,10 @@
         "auto_refill_enable_horbar_indicator_icons": {
             "value": false
         },
+        "allow_alerts_without_tool_protection": {
+            "value": true
+        },
+        "type_visual_durability_notification": "CHAT",
         "audio_durability_notification": {
             "value": false
         },

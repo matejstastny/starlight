@@ -17,7 +17,7 @@
 				"modifier": 0
 			},
 			"hideKeybind": {
-				"keyCode": "key.keyboard.unknown",
+				"keyCode": "key.keyboard.grave.accent",
 				"modifier": 0
 			},
 			"previousPageKeybind": {
@@ -63,12 +63,12 @@
 			// Declares the position of the config button.
 			"configButtonLocation": "LOWER",
 			// Declares whether the craftable filter button is enabled.
-			"showCraftableOnlyButton": true
+			"showCraftableOnlyButton": false
 		},
 		// Declares the appearance of recipe's border.
 		"recipeBorder": "DEFAULT",
 		// Declares whether entry panel is scrolled.
-		"scrollingEntryListWidget": false,
+		"scrollingEntryListWidget": true,
 		// Declares whether entry panel should be invisible when not searching
 		"hideEntryPanelIfIdle": false,
 		"rainbow": false,
@@ -88,7 +88,7 @@
 		// Declares whether REI should remove the recipe book.
 		"disableRecipeBook": false,
 		// Declares whether mob effects should be on the left side instead of the right side.
-		"leftSideMobEffects": false,
+		"leftSideMobEffects": true,
 		// Declares whether subsets is enabled.
 		"isSubsetsEnabled": false,
 		"allowInventoryHighlighting": true,
