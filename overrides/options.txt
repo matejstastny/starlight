@@ -12,7 +12,7 @@ darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
-fullscreen:false
+fullscreen:true
 gamma:0.8
 graphicsMode:0
 guiScale:2
@@ -56,7 +56,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:false
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/Small Totem.zip","file/Fast Better Grass.zip","file/MobCrates_1.21.4_v2.zip","file/§fReduce Villagers.zip","file/§e☽ §d§lNightUI§8§o §8v1.4.2.zip","file/panorama with shaders 1.20 night.zip","file/VT Alternate Bedrock.zip","file/VT Brighter Nether.zip","file/VT Golden Carrot Hunger Bar.zip","file/VT Purple Hearts.zip","file/VT Quiter Minecarts.zip","file/VT Quiter Nether Portals.zip","file/VT Rainbow Expirience Bar.zip","file/VT Square Plus Crosshair.zip","file/Serified Font v1.2.zip"]
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/Small Totem.zip","file/Fast Better Grass.zip","file/MobCrates_1.21.4_v2.zip","file/§fReduce Villagers.zip","file/§e☽ §d§lNightUI§8§o §8v1.4.2.zip","file/panorama with shaders 1.20 night.zip","file/VT Alternate Bedrock.zip","file/VT Brighter Nether.zip","file/VT Golden Carrot Hunger Bar.zip","file/VT Purple Hearts.zip","file/VT Quiter Minecarts.zip","file/VT Quiter Nether Portals.zip","file/VT Rainbow Expirience Bar.zip","file/VT Square Plus Crosshair.zip"]
 incompatibleResourcePacks:["file/Small Totem.zip","file/MobCrates_1.21.4_v2.zip","file/panorama with shaders 1.20 night.zip","file/VT Alternate Bedrock.zip","file/VT Brighter Nether.zip","file/VT Golden Carrot Hunger Bar.zip","file/VT Purple Hearts.zip","file/VT Quiter Minecarts.zip","file/VT Quiter Nether Portals.zip","file/VT Rainbow Expirience Bar.zip","file/VT Square Plus Crosshair.zip"]
 lastServer:
 lang:en_us
@@ -194,7 +194,7 @@ key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
 soundCategory_master:1.0
-soundCategory_music:0.0
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:0.8226232394366197
