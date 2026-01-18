@@ -1,0 +1,11 @@
+# default: 0
+version = 0
+# default: true
+isActive = true
+# default: true
+onlycontainers = true
+# default: false
+sneaktodye = false
+# default: true
+displayActiveTextAsTitle = true
+containers = ["minecraft:vault", "minecraft:composter", "minecraft:respawn_anchor", "minecraft:jukebox", "minecraft:decorated_pot", "minecraft:chiseled_bookshelf", "minecraft:beacon", "minecraft:stonecutter", "minecraft:grindstone", "minecraft:crafting_table"]

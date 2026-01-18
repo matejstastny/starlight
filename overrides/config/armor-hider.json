@@ -1,0 +1,14 @@
+{
+  "helmetOpacity": 0.0,
+  "chestOpacity": 0.0,
+  "legsOpacity": 1.0,
+  "bootsOpacity": 1.0,
+  "enableCombatDetection": true,
+  "opacityAffectingElytra": false,
+  "opacityAffectingHatOrSkull": false,
+  "disableArmorHider": false,
+  "disableArmorHiderForOthers": false,
+  "usePlayerSettingsWhenUndeterminable": true,
+  "playerId": "40f91e9a-427b-47b7-9722-35c5ffd37ef8",
+  "playerName": "my_daarlin"
+}

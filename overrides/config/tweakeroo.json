@@ -13,6 +13,20 @@
     "clientPlacementRotation": true,
     "clientPlacementValidation": true,
     "debugLogging": false,
+    "entityDataSync": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "entityDataSyncBackup": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "entityDataSyncCacheRefresh": 0.25,
+    "entityDataSyncCacheTimeout": 2.75,
     "fastLeftClickAllowTools": false,
     "fastPlacementRememberOrientation": true,
     "freeCameraPlayerInputs": {
@@ -54,6 +68,7 @@
     "placementRestrictionTiedToFast": true,
     "potionWarningBeneficialOnly": true,
     "rememberFlexibleFromClick": true,
+    "serverNbtRequestRate": 2,
     "shulkerDisplayBgColor": true,
     "shulkerDisplayEnderChest": false,
     "shulkerDisplayRequireShift": true,
@@ -120,9 +135,6 @@
     "scaffoldPlaceDistance": 5,
     "scaffoldPlaceVanilla": false,
     "sculkSensorPulseLength": 40,
-    "serverDataSyncCacheRefresh": 0.25,
-    "serverDataSyncCacheTimeout": 0.75,
-    "serverNbtRequestRate": 2,
     "snapAimPitchStep": 12.5,
     "snapAimThresholdPitch": 1.5,
     "snapAimThresholdYaw": 5.0,
@@ -479,6 +491,12 @@
         "keys": ""
       }
     },
+    "disableClientBlockEvents": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "disableDoubleTapSprint": {
       "enabled": true,
       "hotkey": {
@@ -736,6 +754,9 @@
     "disableBlockBreakCooldown": {
       "keys": ""
     },
+    "disableClientBlockEvents": {
+      "keys": ""
+    },
     "disableDoubleTapSprint": {
       "keys": ""
     },
@@ -928,8 +949,6 @@
     "§6tweakSculkPulseLength§r": false,
     "tweakSelectiveBlocksRendering": false,
     "tweakSelectiveBlocksRenderOutline": false,
-    "tweakServerDataSync": false,
-    "tweakServerDataSyncBackup": false,
     "tweakShulkerBoxDisplay": false,
     "tweakSignCopy": false,
     "tweakSnapAim": false,
@@ -1163,12 +1182,6 @@
       "keys": ""
     },
     "tweakSelectiveBlocksRenderOutline": {
-      "keys": ""
-    },
-    "tweakServerDataSync": {
-      "keys": ""
-    },
-    "tweakServerDataSyncBackup": {
       "keys": ""
     },
     "tweakShulkerBoxDisplay": {

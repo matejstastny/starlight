@@ -19,6 +19,7 @@
     "commandDisableFeedback": true,
     "commandFillNoChunkClamp": false,
     "commandUseWorldEdit": false,
+    "commandUseStrict": true,
     "customSchematicBaseDirectoryEnabled": false,
     "debugHudMode": "default",
     "debugLogging": false,
@@ -363,13 +364,19 @@
   },
   "Visuals": {
     "enableRendering": false,
-    "enableSchematicRendering": false,
+    "enableSchematicRendering": true,
     "enableAreaSelectionBoxesRendering": true,
     "enablePlacementBoxesRendering": true,
     "enableSchematicBlocksRendering": true,
     "enableSchematicFluidRendering": true,
     "enableSchematicFakeLighting": true,
     "enableSchematicOverlay": true,
+    "enableSchematicOverlayCulling": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "ignoreExistingFluids": false,
     "ignoreExistingBlocks": false,
     "ignorableExistingBlocks": [],
