@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersivemusicmod.pw.toml"
-hash = "840446b9261ab9d068c91fd60a7f810b93fdef4a797c92895a3a8183c24af6e3"
+hash = "fd4551763b12800757986581f230a5957e0d60b27ea24e4a06bc20671dea11d4"
 metafile = true
 
 [[files]]
@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "a2082dc982b6060bb48cbabb2f8177b73487ec10a8f3d409a0fe099ec4899157"
+hash = "9ad32731597a3a512463d3010e9974995afff5ec4312761153fdc7e5ebb5b5b0"
 metafile = true
 
 [[files]]
@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/zannaghs-armor-hider.pw.toml"
-hash = "1ffd32425dd5bc927a05c80c07350ab7331a65f20e6ed20e0fbc9f72ba45c1e3"
+hash = "af7eba150e2cd8f2d7efc9a48263618cb5ea799e4881b5468362472f3942a351"
 metafile = true
 
 [[files]]
