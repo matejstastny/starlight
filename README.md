@@ -111,7 +111,6 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | oSzoukaua's: Reduce Villagers               | Texturepack | [Modrinth](https://modrinth.com/mod/2odW2Xnk) |
 | New Glowing Ores                            | Texturepack | [Modrinth](https://modrinth.com/mod/oL18adaQ) |
 | 🌙 Night UI - A Dark Themed Resource Pack   | Texturepack | [Modrinth](https://modrinth.com/mod/JEGWvrJj) |
-| (Bee's) Serified Font                       | Texturepack | [Modrinth](https://modrinth.com/mod/L0iIXINl) |
 
 <!-- MODLIST_END -->
 
@@ -121,7 +120,6 @@ Non Modrinth content, or Modrinth content in a specific version. Not managed by 
 
 | Name                     | Type        | Source                                                            |
 | ------------------------ | ----------- | ----------------------------------------------------------------- |
-| Beams Be Gone            | Mod         | [GitHub](https://github.com/matejstastny/beams-be-gone)           |
 | Alternate Bedrock        | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) |
 | Square Plus Crosshair    | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) |
 | Brighter Nether          | Texturepack | [VanillaTweaks](https://vanillatweaks.net/picker/resource-packs/) |
