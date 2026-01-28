@@ -83,11 +83,6 @@ hash = "b152c75412428e5f53667cb0836fa1323ca93cbd925e456239710a2e261d9963"
 metafile = true
 
 [[files]]
-file = "mods/customskinloader.pw.toml"
-hash = "ab5f1d331eede54c87a13d51c18dfae0a2df8fe83aa68d07c475030bfbbd869a"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "1adccdf12bf5475db4651b96574f9147fa5253e7c0116fffe02ab43b35261aff"
 metafile = true
@@ -110,6 +105,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
+metafile = true
+
+[[files]]
+file = "mods/fancy-entity-renderer.pw.toml"
+hash = "73fb86af1fdf06d69712666c3d46ccb8b5c7188af52c6a2d5a53d8b545b83c61"
 metafile = true
 
 [[files]]
@@ -235,6 +235,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "f3f30366b2d911291021d2003108e0bf26da22f3221a669800db6484e1e28c7f"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "786cff4d1eee65e9eb02ff76992a47f9e325a79bc058908d894c5bf796ee00bd"
 metafile = true
 
 [[files]]
