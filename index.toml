@@ -33,11 +33,6 @@ hash = "f8805d3902fb3e31ea9e53f684e3d731b5ac7d2fd2507c475fd1f5f4da266a2f"
 metafile = true
 
 [[files]]
-file = "mods/bat-membrane.pw.toml"
-hash = "5527d135e196ce7860aac6a2586498f7263655b897e98bd1d2ae0d5eb604b285"
-metafile = true
-
-[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "8bf1d7e6764da75a1cdab93bf106ca874a2a879bd78d6782ec64703ebe4b0686"
 metafile = true
@@ -220,6 +215,11 @@ metafile = true
 [[files]]
 file = "mods/norecipebook.pw.toml"
 hash = "d1633f3ff4840e4c805cbb8085f4822ee3ee3dd6a15a52f8b0e57fe7c27c377b"
+metafile = true
+
+[[files]]
+file = "mods/phantom-lucidity.pw.toml"
+hash = "872035fbf64a1d8cf230d6e4e7e38600af5b7425e32e7cce61e226822db38ab4"
 metafile = true
 
 [[files]]
