@@ -4,7 +4,7 @@
   },
   "placements": {},
   "schematic_projects_manager": {},
-  "operation_mode": "PASTE_SCHEMATIC",
+  "operation_mode": "SCHEMATIC_PLACEMENT",
   "render_range": {
     "mode": "ALL",
     "axis": "Y",
@@ -17,21 +17,21 @@
     "hotkey_range_max": false
   },
   "area_simple": {
-    "name": "Bee Breeder",
-    "current": "Bee Breeder",
+    "name": "Unnamed",
+    "current": "Unnamed",
     "boxes": [
       {
         "pos1": [
-          -169,
-          55,
-          25
+          0,
+          0,
+          0
         ],
         "pos2": [
-          -177,
-          60,
-          33
+          0,
+          0,
+          0
         ],
-        "name": "Bee Breeder"
+        "name": "Unnamed"
       }
     ]
   },

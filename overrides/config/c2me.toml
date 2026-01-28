@@ -63,7 +63,7 @@ threadPoolPriority = "default"
 		enableExtRenderDistanceProtocol = "default"
 		# (Default: true) Whether to modify maximum view distance
 		enabled = "default"
-		# (Default: 60) Max render distance allowed in game options
+		# (Default: 43) Max render distance allowed in game options
 		maxViewDistance = "default"
 
 [noTickViewDistance]

@@ -3,9 +3,9 @@
     "40f91e9a-427b-47b7-9722-35c5ffd37ef8": {
       "helmetOpacity": 0.0,
       "chestOpacity": 0.0,
-      "legsOpacity": 1.0,
-      "bootsOpacity": 1.0,
-      "enableCombatDetection": true,
+      "legsOpacity": 0.0,
+      "bootsOpacity": 0.0,
+      "enableCombatDetection": false,
       "opacityAffectingElytra": false,
       "opacityAffectingHatOrSkull": false,
       "disableArmorHider": false,
@@ -13,10 +13,36 @@
       "usePlayerSettingsWhenUndeterminable": true,
       "playerId": "40f91e9a-427b-47b7-9722-35c5ffd37ef8",
       "playerName": "my_daarlin"
-    }
-  },
-  "playerNameConfigs": {
-    "my_daarlin": {
+    },
+    "53374bcc-ebf5-36df-a211-b8f0a669c959": {
+      "helmetOpacity": 0.0,
+      "chestOpacity": 0.0,
+      "legsOpacity": 0.0,
+      "bootsOpacity": 0.0,
+      "enableCombatDetection": false,
+      "opacityAffectingElytra": false,
+      "opacityAffectingHatOrSkull": false,
+      "disableArmorHider": false,
+      "disableArmorHiderForOthers": false,
+      "usePlayerSettingsWhenUndeterminable": true,
+      "playerId": "53374bcc-ebf5-36df-a211-b8f0a669c959",
+      "playerName": "madie"
+    },
+    "a61b24e8-d8c4-3964-a6f7-e1dba2cf3bd7": {
+      "helmetOpacity": 0.0,
+      "chestOpacity": 0.0,
+      "legsOpacity": 0.0,
+      "bootsOpacity": 0.0,
+      "enableCombatDetection": true,
+      "opacityAffectingElytra": false,
+      "opacityAffectingHatOrSkull": false,
+      "disableArmorHider": false,
+      "disableArmorHiderForOthers": false,
+      "usePlayerSettingsWhenUndeterminable": true,
+      "playerId": "a61b24e8-d8c4-3964-a6f7-e1dba2cf3bd7",
+      "playerName": "Maxie"
+    },
+    "0b41113f-adc4-3ea2-8ce1-0c2d7de2e187": {
       "helmetOpacity": 0.0,
       "chestOpacity": 0.0,
       "legsOpacity": 1.0,
@@ -27,8 +53,66 @@
       "disableArmorHider": false,
       "disableArmorHiderForOthers": false,
       "usePlayerSettingsWhenUndeterminable": true,
+      "playerId": "0b41113f-adc4-3ea2-8ce1-0c2d7de2e187",
+      "playerName": "Cumacek"
+    }
+  },
+  "playerNameConfigs": {
+    "my_daarlin": {
+      "helmetOpacity": 0.0,
+      "chestOpacity": 0.0,
+      "legsOpacity": 0.0,
+      "bootsOpacity": 0.0,
+      "enableCombatDetection": false,
+      "opacityAffectingElytra": false,
+      "opacityAffectingHatOrSkull": false,
+      "disableArmorHider": false,
+      "disableArmorHiderForOthers": false,
+      "usePlayerSettingsWhenUndeterminable": true,
       "playerId": "40f91e9a-427b-47b7-9722-35c5ffd37ef8",
       "playerName": "my_daarlin"
+    },
+    "madie": {
+      "helmetOpacity": 0.0,
+      "chestOpacity": 0.0,
+      "legsOpacity": 0.0,
+      "bootsOpacity": 0.0,
+      "enableCombatDetection": false,
+      "opacityAffectingElytra": false,
+      "opacityAffectingHatOrSkull": false,
+      "disableArmorHider": false,
+      "disableArmorHiderForOthers": false,
+      "usePlayerSettingsWhenUndeterminable": true,
+      "playerId": "53374bcc-ebf5-36df-a211-b8f0a669c959",
+      "playerName": "madie"
+    },
+    "Maxie": {
+      "helmetOpacity": 0.0,
+      "chestOpacity": 0.0,
+      "legsOpacity": 0.0,
+      "bootsOpacity": 0.0,
+      "enableCombatDetection": true,
+      "opacityAffectingElytra": false,
+      "opacityAffectingHatOrSkull": false,
+      "disableArmorHider": false,
+      "disableArmorHiderForOthers": false,
+      "usePlayerSettingsWhenUndeterminable": true,
+      "playerId": "a61b24e8-d8c4-3964-a6f7-e1dba2cf3bd7",
+      "playerName": "Maxie"
+    },
+    "Cumacek": {
+      "helmetOpacity": 0.0,
+      "chestOpacity": 0.0,
+      "legsOpacity": 1.0,
+      "bootsOpacity": 1.0,
+      "enableCombatDetection": true,
+      "opacityAffectingElytra": false,
+      "opacityAffectingHatOrSkull": false,
+      "disableArmorHider": false,
+      "disableArmorHiderForOthers": false,
+      "usePlayerSettingsWhenUndeterminable": true,
+      "playerId": "0b41113f-adc4-3ea2-8ce1-0c2d7de2e187",
+      "playerName": "Cumacek"
     }
   },
   "serverWideSettings": {

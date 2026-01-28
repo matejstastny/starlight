@@ -1,9 +1,9 @@
 {
   "helmetOpacity": 0.0,
   "chestOpacity": 0.0,
-  "legsOpacity": 1.0,
-  "bootsOpacity": 1.0,
-  "enableCombatDetection": true,
+  "legsOpacity": 0.0,
+  "bootsOpacity": 0.0,
+  "enableCombatDetection": false,
   "opacityAffectingElytra": false,
   "opacityAffectingHatOrSkull": false,
   "disableArmorHider": false,

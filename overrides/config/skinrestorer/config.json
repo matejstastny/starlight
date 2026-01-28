@@ -3,6 +3,7 @@
   "refreshSkinOnJoin": true,
   "skinApplyDelayOnJoin": 0,
   "fetchSkinOnFirstJoin": true,
+  "forceFirstJoinSkinFetch": false,
   "firstJoinSkinProvider": "MOJANG",
   "proxy": "",
   "requestTimeout": 10,
@@ -30,6 +31,15 @@
       "cache": {
         "enabled": true,
         "duration": 300
+      }
+    },
+    "collection": {
+      "sources": [],
+      "enabled": false,
+      "name": "collection",
+      "cache": {
+        "enabled": true,
+        "duration": 604800
       }
     }
   }

@@ -3,5 +3,5 @@
     "schematic_load": "/Users/matejstastny/minecraft/prism/Starlight/minecraft/schematics"
   },
   "create_placement_on_load": true,
-  "config_gui_tab": "HOTKEYS"
+  "config_gui_tab": "GENERIC"
 }

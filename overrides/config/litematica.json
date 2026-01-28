@@ -80,7 +80,7 @@
     "signTextPaste": true,
     "toolItemEnabled": true,
     "unhideSchematicVCS": false,
-    "pasteReplaceBehavior": "with_non_air",
+    "pasteReplaceBehavior": "none",
     "pasteLayerBehavior": "all",
     "schematicVcsDeleteMode": "matching_block",
     "selectionCornersMode": "corners",
@@ -159,7 +159,7 @@
       "keys": "K"
     },
     "openGuiMaterialList": {
-      "keys": "J"
+      "keys": ""
     },
     "openGuiPlacementSettings": {
       "keys": ""
@@ -180,7 +180,7 @@
       "keys": "M,C"
     },
     "operationModeChangeModifier": {
-      "keys": ""
+      "keys": "LEFT_CONTROL"
     },
     "pickBlockFirst": {
       "keys": ""
