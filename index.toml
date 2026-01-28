@@ -58,6 +58,11 @@ hash = "36dbd75fd60b39caffaf132ec93813bbacb36628aaa56dc4093ccbe3a62ff7d5"
 metafile = true
 
 [[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "9d07c9ba99c427bc750413e68552dcb497c6aec4f2483bf4a46bd93a19e886a3"
+metafile = true
+
+[[files]]
 file = "mods/clearviews.pw.toml"
 hash = "6b2ad1528c04ed7cae08d34100e603c65630edf7f93a7963a534ac0eaf5390f5"
 metafile = true
