@@ -188,6 +188,11 @@ hash = "9946fd3c2a85099bb68cff8a2168601c3f1c7879fc42d018171c7cf5f25693d2"
 metafile = true
 
 [[files]]
+file = "mods/mcwifipnp.pw.toml"
+hash = "566af9bfdb3be9bf9918420f31796a38509ddccba5a3c5aee27c72b0faa9de5d"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "7ff35cde15036641fbd5c677962321fa5cfc4da8d5c71193b670d4f15a981577"
 metafile = true
@@ -215,11 +220,6 @@ metafile = true
 [[files]]
 file = "mods/norecipebook.pw.toml"
 hash = "d1633f3ff4840e4c805cbb8085f4822ee3ee3dd6a15a52f8b0e57fe7c27c377b"
-metafile = true
-
-[[files]]
-file = "mods/offlinelan.pw.toml"
-hash = "96454b740926b091218cadeae79e75b334ec78172d85835b40803ecae27c02c9"
 metafile = true
 
 [[files]]
@@ -260,6 +260,16 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "22cff4ede67e4810127dfb952db897559bf64b000697dc78bf6b2b25eaedfb5c"
+metafile = true
+
+[[files]]
+file = "mods/ukulib.pw.toml"
+hash = "631f77d6dba0c2578f7ca8860e44cc22b5a003cec3176480a035a179be291d22"
+metafile = true
+
+[[files]]
+file = "mods/ukus-armor-hud.pw.toml"
+hash = "273b5830e9c7c02f65da4fa8080040c464dcacbabd4b56a9d92a46a5e7f3ada8"
 metafile = true
 
 [[files]]
