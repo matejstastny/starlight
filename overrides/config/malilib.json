@@ -20,6 +20,12 @@
         "keys": ""
       }
     },
+    "renderTransparencyFix": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "realmsCommonConfig": true
   },
   "Debug": {

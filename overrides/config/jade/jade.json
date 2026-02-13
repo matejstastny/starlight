@@ -1,19 +1,48 @@
 {
   "enableProfiles": false,
   "profileIndex": 0,
+  "general": {
+    "displayTooltip": true,
+    "displayBlocks": true,
+    "displayEntities": true,
+    "displayBosses": true,
+    "displayMode": "TOGGLE",
+    "fluidMode": "ANY",
+    "perspectiveMode": "CAMERA",
+    "extendedReach": 0.0,
+    "debug": false,
+    "itemModNameTooltip": false,
+    "bossBarOverlapMode": "PUSH_DOWN",
+    "builtinCamouflage": true,
+    "hideFromTabList": true,
+    "hideFromGUIs": true
+  },
+  "overlay": {
+    "activeTheme": "jade:dark",
+    "overlayPosX": 0.5,
+    "overlayPosY": 0.9719955,
+    "overlayScale": 1.0,
+    "overlayAnchorX": 0.5,
+    "overlayAnchorY": 0.0,
+    "autoScaleThreshold": 0.4,
+    "alpha": 0.7,
+    "iconMode": "TOP",
+    "animation": true,
+    "disappearingDelay": 0.0
+  },
   "formatting": {
     "itemModNameStyle": {
-      "italic": true,
-      "color": "blue"
+      "color": "blue",
+      "italic": true
     }
   },
   "accessibility": {
-    "textBackgroundOpacity": 0.0,
-    "flipMainHand": false,
-    "narrateKeys": false,
     "enableTextToSpeech": false,
     "ttsMode": "TOGGLE",
-    "enableAccessibilityPlugin": false
+    "enableAccessibilityPlugin": false,
+    "textBackgroundOpacity": 0.0,
+    "flipMainHand": false,
+    "narrateKeys": false
   },
   "plugin": {
     "minecraft": {
@@ -83,6 +112,7 @@
     },
     "jade": {
       "coordinates.rel": false,
+      "mod_name.translated": true,
       "registry_name.special": false,
       "block_states": false,
       "distance": false,
@@ -94,46 +124,18 @@
       "mod_name": "ON"
     }
   },
-  "general": {
-    "itemModNameTooltip": false,
-    "bossBarOverlapMode": "PUSH_DOWN",
-    "builtinCamouflage": true,
-    "hideFromTabList": true,
-    "hideFromGUIs": true,
-    "perspectiveMode": "CAMERA",
-    "extendedReach": 0.0,
-    "debug": false,
-    "displayBosses": true,
-    "displayMode": "TOGGLE",
-    "fluidMode": "ANY",
-    "displayTooltip": true,
-    "displayBlocks": true,
-    "displayEntities": true
-  },
-  "overlay": {
-    "iconMode": "TOP",
-    "animation": true,
-    "disappearingDelay": 0.0,
-    "overlayAnchorY": 0.0,
-    "autoScaleThreshold": 0.4,
-    "alpha": 0.7,
-    "overlayPosY": 0.9719955,
-    "overlayScale": 1.0,
-    "overlayAnchorX": 0.5,
-    "activeTheme": "jade:dark",
-    "overlayPosX": 0.5
-  },
   "history": {
+    "previewOverlay": true,
+    "hintOverlayToggle": true,
+    "hintNarratorToggle": true,
     "accessibilityModMemory": false,
     "themesHash": -825076755,
     "usersHash": [
       -1277623531,
       -328218781,
       -461566976,
-      481050641
-    ],
-    "previewOverlay": true,
-    "hintOverlayToggle": true,
-    "hintNarratorToggle": true
+      481050641,
+      -1343800581
+    ]
   }
 }

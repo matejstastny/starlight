@@ -197,6 +197,8 @@
       }
     },
     "zoomFov": 30.0,
+    "zoomFovDifference": 1.0,
+    "zoomFovDifferenceCtrl": 5.0,
     "zoomResetFovOnActivate": true
   },
   "GenericHotkeys": {
@@ -701,6 +703,12 @@
         "keys": ""
       }
     },
+    "disableTickRatePlayerSlowdown": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "disableTileEntityRendering": {
       "enabled": false,
       "hotkey": {
@@ -859,6 +867,9 @@
     "disableStatusEffectHud": {
       "keys": ""
     },
+    "disableTickRatePlayerSlowdown": {
+      "keys": ""
+    },
     "disableTileEntityRendering": {
       "keys": ""
     },
@@ -893,7 +904,7 @@
     "tweakChatTimestamp": false,
     "tweakCommandBlockExtraFields": false,
     "tweakCustomFlyDeceleration": false,
-    "tweakCustomInventoryScreenScale": true,
+    "tweakCustomInventoryScreenScale": false,
     "tweakDarknessVisibility": false,
     "tweakElytraCamera": false,
     "§6tweakEntityReachOverride§r": false,
@@ -923,7 +934,6 @@
     "tweakItemUnstackingProtection": false,
     "tweakLavaVisibility": false,
     "tweakMapPreview": false,
-    "tweakMatchingSkyFog": false,
     "tweakMovementKeysLast": false,
     "tweakPeriodicAttack": false,
     "tweakPeriodicUse": false,
@@ -1104,9 +1114,6 @@
       "keys": ""
     },
     "tweakMapPreview": {
-      "keys": ""
-    },
-    "tweakMatchingSkyFog": {
       "keys": ""
     },
     "tweakMovementKeysLast": {

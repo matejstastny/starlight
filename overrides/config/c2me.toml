@@ -26,12 +26,6 @@ globalExecutorParallelism = "default"
 threadPoolPriority = "default"
 
 [fixes]
-	# (Default: true) Whether to prevent early client ticks.
-	# 
-	# This avoids the player from falling through the world.
-	# Mitigates https://github.com/CaffeineMC/sodium/issues/3065
-	# 
-	preventEarlyClientMovementTicks = "default"
 	# (Default: true)  
 	#  Whether to disable the shutdown hook of log4j2 on dedicated servers.
 	#  Enabling this also makes the JVM exit when the dedicated server is considered fully shut down.
@@ -97,7 +91,7 @@ threadPoolPriority = "default"
 	# (may cause incompatibility with other mods)
 	# 
 	# Set to false for the following reasons: 
-	# Incompatible with architectury@18.0.8 (*) (defined in c2me) 
+	# Incompatible with architectury@19.0.1 (*) (defined in c2me) 
 	gcFreeChunkSerializer = "default"
 	# (Default: true) Whether to use the optimized implementation of IO system
 	replaceImpl = "default"

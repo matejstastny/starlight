@@ -1,9 +1,4 @@
 {
-  "quality": {
-    "weather_quality": "FAST",
-    "leaves_quality": "FAST",
-    "enable_vignette": true
-  },
   "advanced": {
     "enable_memory_tracing": false,
     "use_advanced_staging_buffers": true,

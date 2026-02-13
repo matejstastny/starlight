@@ -522,11 +522,13 @@
     "shapeRenderer": true,
     "debugChunkBorder": false,
     "debugEntityHitboxes": false,
+    "debugBlockOutline": false,
     "debugWaterEnabled": false,
     "debugHeightmapEnabled": false,
     "debugCollisionBoxEnabled": false,
     "debugSupportingBlock": false,
-    "debugLightEnabled": false,
+    "debugBlockLightEnabled": false,
+    "debugSkyLightEnabled": false,
     "debugSkylightSectionsEnabled": false,
     "debugChunkLoading": false,
     "debugChunkSectionOctree": false,
@@ -599,6 +601,9 @@
     "debugEntityHitboxes": {
       "keys": ""
     },
+    "debugBlockOutline": {
+      "keys": ""
+    },
     "debugWaterEnabled": {
       "keys": ""
     },
@@ -611,7 +616,10 @@
     "debugSupportingBlock": {
       "keys": ""
     },
-    "debugLightEnabled": {
+    "debugBlockLightEnabled": {
+      "keys": ""
+    },
+    "debugSkyLightEnabled": {
       "keys": ""
     },
     "debugSkylightSectionsEnabled": {

@@ -53,22 +53,22 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | 3D Skin Layers                              | Mod         | [Modrinth](https://modrinth.com/mod/zV5r3pPn) |
 | Architectury API                            | Mod         | [Modrinth](https://modrinth.com/mod/lhGA9TYQ) |
 | BadOptimizations                            | Mod         | [Modrinth](https://modrinth.com/mod/g96Z4WVZ) |
-| Bat Membrane (No Phantoms)                  | Mod         | [Modrinth](https://modrinth.com/mod/vz3NiXrd) |
 | Better Advancements                         | Mod         | [Modrinth](https://modrinth.com/mod/Q2OqKxDG) |
 | Better Block Entities                       | Mod         | [Modrinth](https://modrinth.com/mod/ONZm0H7Y) |
 | Concurrent Chunk Management Engine (Fabric) | Mod         | [Modrinth](https://modrinth.com/mod/VSNURh3q) |
 | Carpet                                      | Mod         | [Modrinth](https://modrinth.com/mod/TQTTVgYE) |
+| Cherished Worlds                            | Mod         | [Modrinth](https://modrinth.com/mod/3azQ6p0W) |
 | Clearviews                                  | Mod         | [Modrinth](https://modrinth.com/mod/TwYypE5e) |
 | ClickThrough Plus                           | Mod         | [Modrinth](https://modrinth.com/mod/fJi8nm80) |
 | Cloth Config API                            | Mod         | [Modrinth](https://modrinth.com/mod/9s6osm5g) |
 | Collective                                  | Mod         | [Modrinth](https://modrinth.com/mod/e0M1UDsY) |
 | Continuity                                  | Mod         | [Modrinth](https://modrinth.com/mod/1IjD5062) |
-| CustomSkinLoader                            | Mod         | [Modrinth](https://modrinth.com/mod/idMHQ4n2) |
 | Dynamic FPS                                 | Mod         | [Modrinth](https://modrinth.com/mod/LQ3K71Q1) |
 | Enderman Grief                              | Mod         | [Modrinth](https://modrinth.com/mod/LLomXBnX) |
 | Entity Culling                              | Mod         | [Modrinth](https://modrinth.com/mod/NNAgCjsB) |
 | Fabric API                                  | Mod         | [Modrinth](https://modrinth.com/mod/P7dR8mSH) |
 | Fabric Language Kotlin                      | Mod         | [Modrinth](https://modrinth.com/mod/Ha28R6CL) |
+| Fancy Entity Renderer                       | Mod         | [Modrinth](https://modrinth.com/mod/RQ6INv2n) |
 | FancyMenu                                   | Mod         | [Modrinth](https://modrinth.com/mod/Wq5SjeWM) |
 | FerriteCore                                 | Mod         | [Modrinth](https://modrinth.com/mod/uXXizFIs) |
 | Freecam                                     | Mod         | [Modrinth](https://modrinth.com/mod/XeEZ3fK2) |
@@ -83,20 +83,24 @@ Modrinth content in it's latest versions. Managed by `packwiz`.
 | Litematica                                  | Mod         | [Modrinth](https://modrinth.com/mod/bEpr0Arc) |
 | Lithium                                     | Mod         | [Modrinth](https://modrinth.com/mod/gvQqBUqZ) |
 | MaLiLib                                     | Mod         | [Modrinth](https://modrinth.com/mod/GcWjdA9I) |
+| LAN World Plug-n-Play (mcwifipnp)           | Mod         | [Modrinth](https://modrinth.com/mod/RTWpcTBp) |
 | Melody                                      | Mod         | [Modrinth](https://modrinth.com/mod/CVT4pFB2) |
 | MiniHUD                                     | Mod         | [Modrinth](https://modrinth.com/mod/UMxybHE8) |
 | MiniTeleport                                | Mod         | [Modrinth](https://modrinth.com/mod/gmfe94N8) |
 | Mod Menu                                    | Mod         | [Modrinth](https://modrinth.com/mod/mOgUt4GM) |
 | No Fortune Chest                            | Mod         | [Modrinth](https://modrinth.com/mod/4QufRNTv) |
 | NoRecipeBook                                | Mod         | [Modrinth](https://modrinth.com/mod/TvL1V8O5) |
-| OfflineLAN                                  | Mod         | [Modrinth](https://modrinth.com/mod/pimmstPB) |
+| Phantom Lucidity                            | Mod         | [Modrinth](https://modrinth.com/mod/jp5wZgsb) |
 | Text Placeholder API                        | Mod         | [Modrinth](https://modrinth.com/mod/eXts2L7r) |
 | Reese's Sodium Options                      | Mod         | [Modrinth](https://modrinth.com/mod/Bh37bMuy) |
 | Roughly Enough Items (REI)                  | Mod         | [Modrinth](https://modrinth.com/mod/nfn13YXA) |
 | Shulker Box Tooltip                         | Mod         | [Modrinth](https://modrinth.com/mod/2M01OLQq) |
+| Skin Restorer                               | Mod         | [Modrinth](https://modrinth.com/mod/ghrZDhGW) |
 | Sodium Extra                                | Mod         | [Modrinth](https://modrinth.com/mod/PtjYWJkn) |
 | Sodium                                      | Mod         | [Modrinth](https://modrinth.com/mod/AANobbMI) |
 | Tweakeroo                                   | Mod         | [Modrinth](https://modrinth.com/mod/t5wuYk45) |
+| ukulib                                      | Mod         | [Modrinth](https://modrinth.com/mod/Y8uFrUil) |
+| uku's Armor HUD                             | Mod         | [Modrinth](https://modrinth.com/mod/wF189hn9) |
 | Very Many Players (Fabric)                  | Mod         | [Modrinth](https://modrinth.com/mod/wnEe9KBa) |
 | WI Zoom                                     | Mod         | [Modrinth](https://modrinth.com/mod/o7DitHWP) |
 | WorldEdit                                   | Mod         | [Modrinth](https://modrinth.com/mod/1u6JkXh5) |
