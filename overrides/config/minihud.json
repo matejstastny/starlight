@@ -1,7 +1,6 @@
 {
   "InfoLineOrders": {
     "infoFPS": 0,
-    "infoGPU": 1,
     "infoMemoryUsage": 0,
     "infoTimeIRL": 0,
     "infoTimeWorld": 0,
@@ -72,6 +71,8 @@
     "blockGridOverlayColor": "#80FFFFFF",
     "conduitRange": "#2030FFFF",
     "conduitRangeOutlines": "#80FFFFFF",
+    "lightningRodRange": "#6030C0FF",
+    "lightningRodDamageZone": "#60FF4040",
     "lightLevelMarkerBlockLit": "#FF209040",
     "lightLevelMarkerDark": "#FFFF4848",
     "lightLevelMarkerDim": "#FFC0C040",
@@ -126,6 +127,7 @@
     "conduitRangeOverlayCombineQuads": true,
     "conduitRangeOverlayOutlines": false,
     "conduitRangeOverlayThrough": false,
+    "lightningRodRangeOverlayCombineQuads": true,
     "hudDataSync": {
       "enabled": false,
       "hotkey": {
@@ -168,6 +170,7 @@
     "speedUnits": "mps",
     "structuresRenderThrough": false,
     "structuresRenderOutlines": false,
+    "structuresRenderOutlinesWhite": false,
     "useCustomizedCoordinateFormat": true,
     "useFontShadow": false,
     "useTextBackground": true,
@@ -250,7 +253,6 @@
   },
   "InfoTypeToggles": {
     "infoFPS": false,
-    "infoGPU": false,
     "infoMemoryUsage": false,
     "infoTimeIRL": true,
     "infoTimeWorld": false,
@@ -315,9 +317,6 @@
   },
   "InfoHotkeys": {
     "infoFPS": {
-      "keys": ""
-    },
-    "infoGPU": {
       "keys": ""
     },
     "infoMemoryUsage": {
@@ -509,6 +508,7 @@
     "overlayBiomeBorder": false,
     "overlayBlockGrid": false,
     "overlayConduitRange": false,
+    "overlayLightningRodRange": false,
     "overlayLightLevel": false,
     "overlayRandomTicksFixed": false,
     "overlayRandomTicksPlayer": false,
@@ -560,6 +560,9 @@
       "keys": ""
     },
     "overlayConduitRange": {
+      "keys": ""
+    },
+    "overlayLightningRodRange": {
       "keys": ""
     },
     "overlayLightLevel": {

@@ -97,7 +97,6 @@ This is the list of content with links and versions. Most of it comes from `Modr
 | [rei](https://modrinth.com/project/nfn13YXA)                     | mod          | both   | 21.11.814+fabric         |
 | [shulkerboxtooltip](https://modrinth.com/project/2M01OLQq)       | mod          | both   | 5.2.15+1.21.11-fabric    |
 | [skinrestorer](https://modrinth.com/project/ghrZDhGW)            | mod          | server | 2.5.0+1.21.11-fabric     |
-| [sleep](https://modrinth.com/project/WTzuSu8P)                   | mod          | both   | v4.3.13-mc1.21.6++mod    |
 | [sodium-extra](https://modrinth.com/project/PtjYWJkn)            | mod          | client | mc1.21.11-0.8.3+fabric   |
 | [sodium](https://modrinth.com/project/AANobbMI)                  | mod          | client | mc1.21.11-0.8.4-fabric   |
 | [tweakeroo](https://modrinth.com/project/t5wuYk45)               | mod          | client | 0.27.5                   |

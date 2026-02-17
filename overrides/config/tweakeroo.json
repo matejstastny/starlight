@@ -77,6 +77,7 @@
     "snapAimIndicator": true,
     "snapAimOnlyCloseToAngle": true,
     "snapAimPitchOvershoot": false,
+    "utilityHandSlot": "main_hand",
     "zoomAdjustMouseSensitivity": true,
     "areaSelectionUseAll": false,
     "restrictionLayerHeight": 1,
@@ -86,6 +87,12 @@
     "entityTypeAttackRestrictionWarn": "message",
     "placementRestrictionMode": "plane",
     "hotbarSwapOverlayAlignment": "bottom_right",
+    "rocketSwapAllowExplosions": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "selectiveBlocksTrackPistons": false,
     "selectiveBlocksHideParticles": true,
     "selectiveBlocksHideEntities": false,
@@ -154,6 +161,12 @@
         "keys": ""
       }
     },
+    "toolSwapPreferFortuneOverride": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "toolSwapPreferSilkTouch": {
       "enabled": false,
       "hotkey": {
@@ -166,8 +179,20 @@
         "keys": ""
       }
     },
+    "toolSwapLeavesUsesHoeFirst": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "toolSwapNeedsShearsFirst": {
       "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "toolSwapNeedsPickaxeFirst": {
+      "enabled": false,
       "hotkey": {
         "keys": ""
       }
@@ -343,6 +368,9 @@
     "swapElytraChestplate": {
       "keys": ""
     },
+    "swapSpyglassAndActivate": {
+      "keys": ""
+    },
     "toggleAccuratePlacementProtocol": {
       "keys": ""
     },
@@ -374,7 +402,8 @@
     "gammaValueOriginal": 0.8,
     "hotbarScrollCurrentRow": 3,
     "slimeBlockSlipperinessOriginal": 0.800000011920929,
-    "shulkerMaxStackSize": 64
+    "shulkerMaxStackSize": 64,
+    "silenceNightVisionWarning": false
   },
   "Lists": {
     "blockTypeBreakRestrictionListType": "blacklist",
@@ -893,6 +922,7 @@
     "tweakAngelBlock": false,
     "tweakAreaSelector": false,
     "tweakAutoSwitchElytra": false,
+    "tweakAutoSwitchRockets": false,
     "§6tweakBlockReachOverride§r": false,
     "tweakBlockTypeBreakRestriction": false,
     "tweakBreakingGrid": false,
@@ -965,6 +995,7 @@
     "tweakSnapAimLock": false,
     "tweakSneak_1.15.2": false,
     "tweakSpectatorTeleport": false,
+    "tweakSpyglassUsesTweakZoom": false,
     "§6tweakStructureBlockLimit§r": false,
     "tweakSwapAlmostBrokenTools": false,
     "tweakTabCompleteCoordinate": false,
@@ -991,6 +1022,9 @@
       "keys": ""
     },
     "tweakAutoSwitchElytra": {
+      "keys": ""
+    },
+    "tweakAutoSwitchRockets": {
       "keys": ""
     },
     "§6tweakBlockReachOverride§r": {
@@ -1207,6 +1241,9 @@
       "keys": ""
     },
     "tweakSpectatorTeleport": {
+      "keys": ""
+    },
+    "tweakSpyglassUsesTweakZoom": {
       "keys": ""
     },
     "§6tweakStructureBlockLimit§r": {
