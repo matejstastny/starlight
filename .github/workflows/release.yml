@@ -46,8 +46,12 @@ jobs:
           files: |
             dist/*.mrpack
 
-      - name: Upload to Modrinth
-        run: python .github/scripts/modrinth_publish.py
-        env:
-          MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
-          MODRINTH_PROJECT_ID: starlightmodpack
+      - name: Create Modrinth Release
+        uses: cloudnode-pro/modrinth-publish@v2
+        with:
+          token: ${{ secrets.MODRINTH_TOKEN }}
+          project: starlightmodpack
+          version: ${{ steps.validate.outputs.version }}
+          loaders: fabric
+          game-versions: ${{ steps.validate.outputs.minecraft }}
+          files: dist/*.mrpack
