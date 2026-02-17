@@ -57,7 +57,7 @@ jobs:
         uses: cloudnode-pro/modrinth-publish@v2
         with:
           token: ${{ secrets.MODRINTH_TOKEN }}
-          project: starlightmodpack
+          project: kWqlGiOE
           version: ${{ steps.validate.outputs.version }}
           loaders: fabric
           game-versions: ${{ steps.validate.outputs.minecraft }}
