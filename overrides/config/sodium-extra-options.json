@@ -114,7 +114,7 @@
       "minecraft:spore_blossom_air": true,
       "minecraft:squid_ink": true,
       "minecraft:sweep_attack": true,
-      "minecraft:tinted_leaves": true,
+      "minecraft:tinted_leaves": false,
       "minecraft:totem_of_undying": true,
       "minecraft:trail": true,
       "minecraft:trial_omen": true,

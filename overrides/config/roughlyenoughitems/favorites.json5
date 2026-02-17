@@ -41,7 +41,12 @@
 		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:crafting_table\"}},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:redstone\"}},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:waxed_oxidized_copper_door\"}},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:flower_pot\"}},type:\"roughlyenoughitems:entry_stack\"}"
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:flower_pot\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:spruce_fence\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:stripped_jungle_log\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:birch_stairs\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:spruce_trapdoor\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:white_concrete\"}},type:\"roughlyenoughitems:entry_stack\"}"
 	],
 	"hiddenFavorites": [],
 	"displays": []

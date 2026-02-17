@@ -1,0 +1,283 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "/Users/matejstastny/minecraft/prism/Starlight/minecraft/schematics/crop-farm.litematic",
+        "name": "Unnamed",
+        "origin": [
+          71,
+          56,
+          52
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 10927575,
+        "verifier_type": "all",
+        "hash_code": "74a2dc5c-f1fc-4591-9f4b-806e294b0356",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                2,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "/Users/matejstastny/minecraft/prism/Starlight/minecraft/schematics/crop-farm.litematic",
+        "name": "Unnamed",
+        "origin": [
+          78,
+          56,
+          52
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 12648480,
+        "verifier_type": "all",
+        "hash_code": "b03b07c5-84b1-41c7-92c0-9e8730aef998",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                2,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "/Users/matejstastny/minecraft/prism/Starlight/minecraft/schematics/3gt Sea Pickle Farm 120k.litematic",
+        "name": "Unnamed",
+        "origin": [
+          51,
+          56,
+          49
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 13541986,
+        "verifier_type": "all",
+        "hash_code": "70e7e971-8c3a-4330-a4d6-cd3426cd4c99",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "/Users/matejstastny/minecraft/prism/Starlight/minecraft/schematics/box-unloader-1x.litematic",
+        "name": "Simple 1x Full-Featured Box Unloader",
+        "origin": [
+          11,
+          56,
+          129
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8482918,
+        "verifier_type": "all",
+        "hash_code": "d39c473b-04f1-41c0-bbec-5b3ce4bafc1d",
+        "placements": [
+          {
+            "name": "Simple 1x Full-Featured Box Unloader",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Simple 1x Full-Featured Box Unloader",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "/Users/matejstastny/minecraft/prism/Starlight/minecraft/schematics/box-unloader-1x.litematic",
+        "name": "Simple 1x Full-Featured Box Unloader",
+        "origin": [
+          8,
+          56,
+          139
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 32052,
+        "verifier_type": "all",
+        "hash_code": "1c9aa267-4526-47eb-844e-a1fb41423107",
+        "placements": [
+          {
+            "name": "Simple 1x Full-Featured Box Unloader",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Simple 1x Full-Featured Box Unloader",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "/Users/matejstastny/minecraft/prism/Starlight/minecraft/schematics/box-unloader-1x.litematic",
+        "name": "Simple 1x Full-Featured Box Unloader",
+        "origin": [
+          10,
+          56,
+          145
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16152206,
+        "verifier_type": "all",
+        "hash_code": "73392f1a-600f-4951-b792-03a0ef1a24f2",
+        "placements": [
+          {
+            "name": "Simple 1x Full-Featured Box Unloader",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Simple 1x Full-Featured Box Unloader",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 3,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "Y",
+    "layer_single": 0,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Unnamed",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          0,
+          0,
+          0
+        ],
+        "pos2": [
+          0,
+          0,
+          0
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  },
+  "block_entities": {}
+}

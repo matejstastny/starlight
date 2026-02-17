@@ -1,0 +1,19 @@
+{
+  "menuItems": [
+    {
+      "name": "Storage Fairy",
+      "icon": "minecraft:poppy",
+      "command": "player StorageFairy spawn at 25 46.06 -71 facing 0 0 in minecraft:overworld"
+    },
+    {
+      "name": "Gold Fairy",
+      "icon": "minecraft:gold_ingot",
+      "command": "player GoldFairy spawn at 1048 205 -2727 facing 0 0 in minecraft:overworld"
+    },
+    {
+      "name": "Smelter Fairy",
+      "icon": "minecraft:furnace",
+      "command": "player SmelterFairy spawn at -112 57 -61 facing 0 0 in minecraft:overworld"
+    }
+  ]
+}
