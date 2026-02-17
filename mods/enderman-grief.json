@@ -1,0 +1,14 @@
+{
+  "project_id": "LLomXBnX",
+  "slug": "enderman-grief",
+  "version_id": "Ds65gvBo",
+  "version_number": "1.21.11-1.0.2",
+  "side": "both",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/LLomXBnX/versions/Ds65gvBo/enderman-grief-1.21.11-1.0.2.zip",
+    "filename": "enderman-grief-1.21.11-1.0.2.zip",
+    "sha512": "5f1ce67c36fa0f2620df9f4bdac7b4bdf0f5e5ca1a6c9692c55746235b449f841a705d02dfaf8b566fb8c6cc6ef5aa8c3065ba9fedd183603754f650ae6ffc0e"
+  },
+  "explicit": true,
+  "dependencies": []
+}

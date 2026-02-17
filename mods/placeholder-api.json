@@ -1,0 +1,14 @@
+{
+  "project_id": "eXts2L7r",
+  "slug": "placeholder-api",
+  "version_id": "qxjzQ9xY",
+  "version_number": "2.8.2+1.21.10",
+  "side": "both",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/qxjzQ9xY/placeholder-api-2.8.2%2B1.21.10.jar",
+    "filename": "placeholder-api-2.8.2+1.21.10.jar",
+    "sha512": "507ab10b7938dcd14d33121b8462649bdbe575cef248e917dfdf7566078ab5d0195ca1add95eae4863de3f652eb56db0a8669a67d5b5344e094d086f9dab5a08"
+  },
+  "explicit": false,
+  "dependencies": []
+}

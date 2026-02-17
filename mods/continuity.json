@@ -1,0 +1,16 @@
+{
+  "project_id": "1IjD5062",
+  "slug": "continuity",
+  "version_id": "mX1iknM1",
+  "version_number": "3.0.1-beta.1+1.21.11",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/1IjD5062/versions/mX1iknM1/continuity-3.0.1-beta.1%2B1.21.11.jar",
+    "filename": "continuity-3.0.1-beta.1+1.21.11.jar",
+    "sha512": "b092e95668bf5e32d531842d920e99f865213eaf3e7c26759b51e5a95ef2702c2c0485bba6d8adf4543e8d71680d5a05fad68e94159e8e507033b516b736eb60"
+  },
+  "explicit": true,
+  "dependencies": [
+    "P7dR8mSH"
+  ]
+}

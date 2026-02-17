@@ -1,0 +1,16 @@
+{
+  "project_id": "RTWpcTBp",
+  "slug": "mcwifipnp",
+  "version_id": "E4vQK4Ec",
+  "version_number": "1.9.8",
+  "side": "both",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/RTWpcTBp/versions/E4vQK4Ec/mcwifipnp-1.9.8-1.21.11-fabric.jar",
+    "filename": "mcwifipnp-1.9.8-1.21.11-fabric.jar",
+    "sha512": "8334b9d853bcd74ec14b817685e75cc580f27fa5b0dcdbd0dcf4ccf4e983feb7b4302d4ac03a8e753197320f601a0b1f88a5c07e7efae6ce96b0883d6ba69cd9"
+  },
+  "explicit": true,
+  "dependencies": [
+    "P7dR8mSH"
+  ]
+}

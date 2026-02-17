@@ -1,0 +1,14 @@
+{
+  "project_id": "TvL1V8O5",
+  "slug": "norecipebook",
+  "version_id": "mrNiiO1w",
+  "version_number": "3.12+1.21.11",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/TvL1V8O5/versions/mrNiiO1w/norecipebook-3.12%2B1.21.11.jar",
+    "filename": "norecipebook-3.12+1.21.11.jar",
+    "sha512": "24dd28d333a482eefdd2a3b2c7fbfee03e51e4c5e9d143f1ab4a8f2e705ec6033b11d03cbb0f970ccfe72548a34299aa8c9219f958e2fde324c28a1640baabe2"
+  },
+  "explicit": true,
+  "dependencies": []
+}
