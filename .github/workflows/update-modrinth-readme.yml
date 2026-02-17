@@ -1,11 +1,11 @@
 name: Update Modrinth README
 
 on:
-    push:
-        branches:
-            - main
-        paths:
-            - "README.md"
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
 
 jobs:
   export:
@@ -19,7 +19,7 @@ jobs:
           python-version: 3.x
 
       - name: Clean README
-        run: python .github/scripts/modrinth-readme.py
+        run: python .github/scripts/modrinth_readme.py
 
       - name: Upload cleaned README to Modrinth
         run: |
