@@ -1,0 +1,50 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  validate-and-build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install Python dependencies
+        run: pip install requests
+
+      - name: Install Azalea
+        uses: threeal/pipx-install-action@v1.0.0
+        with:
+          packages: git+https://github.com/matejstastny/azalea.git
+
+      - name: Validate release versions
+        id: validate
+        run: python .github/scripts/validate_release.py
+
+      - name: Build mrpack
+        run: azalea export
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.ref_name }}
+          name: Starlight ${{ steps.validate.outputs.version }} for MC ${{ steps.validate.outputs.minecraft }}
+          generate_release_notes: true
+          body_path: CHANGELOG.md
+          files: |
+            dist/*.mrpack
+
+      - name: Upload to Modrinth
+        run: python .github/scripts/upload_modrinth.py
+        env:
+          MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
+          MODRINTH_PROJECT_ID: YOUR_PROJECT_ID_HERE
