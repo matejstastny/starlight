@@ -82,7 +82,7 @@ if os.path.exists("CHANGELOG.md"):
 # -----------------------------
 
 headers = {
-    "Authorization": token,
+    "Authorization": f"Bearer {token}",
     "User-Agent": "starlight-release-bot",
 }
 
@@ -99,17 +99,18 @@ payload = {
     "file_parts": ["file"],
 }
 
-files = {
-    "data": (None, json.dumps(payload), "application/json"),
-    "file": (mrpack.name, open(mrpack, "rb"), "application/octet-stream"),
-}
+with open(mrpack, "rb") as fp:
+    files = {
+        "data": (None, json.dumps(payload), "application/json"),
+        "file": (mrpack.name, fp, "application/octet-stream"),
+    }
 
-print("[INFO] Uploading to Modrinth…")
-r = requests.post(
-    "https://api.modrinth.com/v2/version",
-    headers=headers,
-    files=files,
-)
+    print("[INFO] Uploading to Modrinth…")
+    r = requests.post(
+        "https://api.modrinth.com/v2/version",
+        headers=headers,
+        files=files,
+    )
 
 if r.status_code not in (200, 201):
     print(r.text)
