@@ -1,0 +1,14 @@
+{
+  "project_id": "WTzuSu8P",
+  "slug": "sleep",
+  "version_id": "fUtpj4ud",
+  "version_number": "v4.3.13-mc1.21.6++mod",
+  "side": "both",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/WTzuSu8P/versions/fUtpj4ud/sleep-v4.3.13-mc1.21.6%2B.jar",
+    "filename": "sleep-v4.3.13-mc1.21.6+.jar",
+    "sha512": "28cef5fcc84754d43e5f8dd91689abbd05ada63184bddbf120b07c510e706a76951af4e8d4176e995438acbb232b26a94344f5f00e9c559095dda18e2b45be64"
+  },
+  "explicit": true,
+  "dependencies": []
+}
