@@ -1,3 +1,18 @@
+"""
+modrinth-readme.py
+
+Small helper script used in GitHub Actions.
+
+What it does:
+- Reads the repository README.md
+- Removes sections wrapped in
+  <!-- MODRINTH_REMOVE_START --> ... <!-- MODRINTH_REMOVE_END -->
+- Writes the cleaned result to public/README-modrinth.md
+
+This allows keeping extra info in the main README while
+publishing a trimmed version for Modrinth.
+"""
+
 import re
 
 with open("README.md", "r", encoding="utf-8") as readme_file:
