@@ -47,74 +47,68 @@ This is the list of content with links and versions. Most of it comes from `Modr
 
 <!-- AZALEA_MODLIST_START -->
 
-| Name                                        | Type        | Source                            |
-| ------------------------------------------- | ----------- | --------------------------------- |
-| "Limitless" Banners                         | Mod         | https://modrinth.com/mod/z4zsMANd |
-| 3D Skin Layers                              | Mod         | https://modrinth.com/mod/zV5r3pPn |
-| Architectury API                            | Mod         | https://modrinth.com/mod/lhGA9TYQ |
-| BadOptimizations                            | Mod         | https://modrinth.com/mod/g96Z4WVZ |
-| Better Advancements                         | Mod         | https://modrinth.com/mod/Q2OqKxDG |
-| Better Block Entities                       | Mod         | https://modrinth.com/mod/ONZm0H7Y |
-| Concurrent Chunk Management Engine (Fabric) | Mod         | https://modrinth.com/mod/VSNURh3q |
-| Carpet                                      | Mod         | https://modrinth.com/mod/TQTTVgYE |
-| Cherished Worlds                            | Mod         | https://modrinth.com/mod/3azQ6p0W |
-| Clearviews                                  | Mod         | https://modrinth.com/mod/TwYypE5e |
-| ClickThrough Plus                           | Mod         | https://modrinth.com/mod/fJi8nm80 |
-| Cloth Config API                            | Mod         | https://modrinth.com/mod/9s6osm5g |
-| Collective                                  | Mod         | https://modrinth.com/mod/e0M1UDsY |
-| Continuity                                  | Mod         | https://modrinth.com/mod/1IjD5062 |
-| Dynamic FPS                                 | Mod         | https://modrinth.com/mod/LQ3K71Q1 |
-| Enderman Grief                              | Mod         | https://modrinth.com/mod/LLomXBnX |
-| Entity Culling                              | Mod         | https://modrinth.com/mod/NNAgCjsB |
-| Fabric API                                  | Mod         | https://modrinth.com/mod/P7dR8mSH |
-| Fabric Language Kotlin                      | Mod         | https://modrinth.com/mod/Ha28R6CL |
-| Fancy Entity Renderer                       | Mod         | https://modrinth.com/mod/RQ6INv2n |
-| FancyMenu                                   | Mod         | https://modrinth.com/mod/Wq5SjeWM |
-| FerriteCore                                 | Mod         | https://modrinth.com/mod/uXXizFIs |
-| Freecam                                     | Mod         | https://modrinth.com/mod/XeEZ3fK2 |
-| ImmediatelyFast                             | Mod         | https://modrinth.com/mod/5ZwdcRci |
-| The Immersive Music Mod                     | Mod         | https://modrinth.com/mod/EgBj3Bnf |
-| Inventory Profiles Next                     | Mod         | https://modrinth.com/mod/O7RBXm3n |
-| Iris Shaders                                | Mod         | https://modrinth.com/mod/YL57xq9U |
-| Jade 🔍                                     | Mod         | https://modrinth.com/mod/nvQzSEkH |
-| Konkrete                                    | Mod         | https://modrinth.com/mod/J81TRJWm |
-| libIPN                                      | Mod         | https://modrinth.com/mod/onSQdWhM |
-| Lighty                                      | Mod         | https://modrinth.com/mod/yjvKidNM |
-| Litematica                                  | Mod         | https://modrinth.com/mod/bEpr0Arc |
-| Lithium                                     | Mod         | https://modrinth.com/mod/gvQqBUqZ |
-| MaLiLib                                     | Mod         | https://modrinth.com/mod/GcWjdA9I |
-| LAN World Plug-n-Play (mcwifipnp)           | Mod         | https://modrinth.com/mod/RTWpcTBp |
-| Melody                                      | Mod         | https://modrinth.com/mod/CVT4pFB2 |
-| MiniHUD                                     | Mod         | https://modrinth.com/mod/UMxybHE8 |
-| MiniTeleport                                | Mod         | https://modrinth.com/mod/gmfe94N8 |
-| Mod Menu                                    | Mod         | https://modrinth.com/mod/mOgUt4GM |
-| No Fortune Chest                            | Mod         | https://modrinth.com/mod/4QufRNTv |
-| NoRecipeBook                                | Mod         | https://modrinth.com/mod/TvL1V8O5 |
-| Phantom Lucidity                            | Mod         | https://modrinth.com/mod/jp5wZgsb |
-| Text Placeholder API                        | Mod         | https://modrinth.com/mod/eXts2L7r |
-| Reese's Sodium Options                      | Mod         | https://modrinth.com/mod/Bh37bMuy |
-| Roughly Enough Items (REI)                  | Mod         | https://modrinth.com/mod/nfn13YXA |
-| Shulker Box Tooltip                         | Mod         | https://modrinth.com/mod/2M01OLQq |
-| Skin Restorer                               | Mod         | https://modrinth.com/mod/ghrZDhGW |
-| Sodium Extra                                | Mod         | https://modrinth.com/mod/PtjYWJkn |
-| Sodium                                      | Mod         | https://modrinth.com/mod/AANobbMI |
-| Tweakeroo                                   | Mod         | https://modrinth.com/mod/t5wuYk45 |
-| ukulib                                      | Mod         | https://modrinth.com/mod/Y8uFrUil |
-| uku's Armor HUD                             | Mod         | https://modrinth.com/mod/wF189hn9 |
-| Very Many Players (Fabric)                  | Mod         | https://modrinth.com/mod/wnEe9KBa |
-| WI Zoom                                     | Mod         | https://modrinth.com/mod/o7DitHWP |
-| WorldEdit                                   | Mod         | https://modrinth.com/mod/1u6JkXh5 |
-| Xaero's Minimap                             | Mod         | https://modrinth.com/mod/1bokaNcj |
-| Xaero's World Map                           | Mod         | https://modrinth.com/mod/NcUtCpym |
-| YetAnotherConfigLib (YACL)                  | Mod         | https://modrinth.com/mod/1eAoo2KR |
-| Armor Hider                                 | Mod         | https://modrinth.com/mod/GgG2my3y |
-| 1.20 panorama with shaders (night)          | Texturepack | https://modrinth.com/mod/HmYNU7gu |
-| Small Totem                                 | Texturepack | https://modrinth.com/mod/O1D0aeBl |
-| Fast Better Grass                           | Texturepack | https://modrinth.com/mod/dspVZXKP |
-| Mob Crates                                  | Texturepack | https://modrinth.com/mod/bYcjtBki |
-| oSzoukaua's: Reduce Villagers               | Texturepack | https://modrinth.com/mod/2odW2Xnk |
-| New Glowing Ores                            | Texturepack | https://modrinth.com/mod/oL18adaQ |
-| 🌙 Night UI - A Dark Themed Resource Pack   | Texturepack | https://modrinth.com/mod/JEGWvrJj |
+| Name                                                             | Type         | Side   | Version                  |
+| ---------------------------------------------------------------- | ------------ | ------ | ------------------------ |
+| ["limitless"-banners](https://modrinth.com/project/z4zsMANd)     | mod          | server | 1.3.0                    |
+| [3dskinlayers](https://modrinth.com/project/zV5r3pPn)            | mod          | client | 1.10.1                   |
+| [architectury-api](https://modrinth.com/project/lhGA9TYQ)        | mod          | both   | 19.0.1+fabric            |
+| [badoptimizations](https://modrinth.com/project/g96Z4WVZ)        | mod          | client | 2.4.1                    |
+| [better-advancements](https://modrinth.com/project/Q2OqKxDG)     | mod          | client | 0.4.8.51                 |
+| [better-block-entities](https://modrinth.com/project/ONZm0H7Y)   | mod          | client | 1.3.0-rc.2+1.21.11       |
+| [c2me-fabric](https://modrinth.com/project/VSNURh3q)             | mod          | both   | 0.3.7+alpha.0.7+1.21.11  |
+| [carpet](https://modrinth.com/project/TQTTVgYE)                  | mod          | both   | 1.4.194                  |
+| [cherished-worlds](https://modrinth.com/project/3azQ6p0W)        | mod          | client | 15.1.0+1.21.11           |
+| [clearviews](https://modrinth.com/project/TwYypE5e)              | mod          | client | 2.0.6                    |
+| [clickthrough+](https://modrinth.com/project/fJi8nm80)           | mod          | client | 3.6.2+1.21.11-fabric     |
+| [cloth-config](https://modrinth.com/project/9s6osm5g)            | mod          | both   | 21.11.153+fabric         |
+| [continuity](https://modrinth.com/project/1IjD5062)              | mod          | client | 3.0.1-beta.1+1.21.11     |
+| [enderman-grief](https://modrinth.com/project/LLomXBnX)          | mod          | both   | 1.21.11-1.0.2            |
+| [entityculling](https://modrinth.com/project/NNAgCjsB)           | mod          | client | 1.9.5                    |
+| [fabric-api](https://modrinth.com/project/P7dR8mSH)              | mod          | both   | 0.141.3+1.21.11          |
+| [fabric-language-kotlin](https://modrinth.com/project/Ha28R6CL)  | mod          | both   | 1.13.9+kotlin.2.3.10     |
+| [fancy-entity-renderer](https://modrinth.com/project/RQ6INv2n)   | mod          | client | 0.5.4                    |
+| [fancymenu](https://modrinth.com/project/Wq5SjeWM)               | mod          | both   | 3.8.4-1.21.11-fabric     |
+| [fast-better-grass](https://modrinth.com/project/dspVZXKP)       | resourcepack | client | 1.21.11                  |
+| [ferrite-core](https://modrinth.com/project/uXXizFIs)            | mod          | both   | 8.2.0-fabric             |
+| [freecam](https://modrinth.com/project/XeEZ3fK2)                 | mod          | client | 1.3.6+mc1.21.11          |
+| [immediatelyfast](https://modrinth.com/project/5ZwdcRci)         | mod          | client | 1.14.2+1.21.11-fabric    |
+| [immersivemusicmod](https://modrinth.com/project/EgBj3Bnf)       | mod          | client | 1.1.1                    |
+| [inventory-profiles-next](https://modrinth.com/project/O7RBXm3n) | mod          | client | fabric-1.21.11-2.2.3     |
+| [iris](https://modrinth.com/project/YL57xq9U)                    | mod          | client | 1.10.5+1.21.11-fabric    |
+| [jade](https://modrinth.com/project/nvQzSEkH)                    | mod          | both   | 21.1.1+fabric            |
+| [konkrete](https://modrinth.com/project/J81TRJWm)                | mod          | both   | 1.9.18-1.21.11-fabric    |
+| [libipn](https://modrinth.com/project/onSQdWhM)                  | mod          | client | fabric-1.21.11-6.6.2     |
+| [lighty](https://modrinth.com/project/yjvKidNM)                  | mod          | client | 3.1.3+1.21.11            |
+| [litematica](https://modrinth.com/project/bEpr0Arc)              | mod          | client | 0.26.0                   |
+| [lithium](https://modrinth.com/project/gvQqBUqZ)                 | mod          | both   | mc1.21.11-0.21.3-fabric  |
+| [malilib](https://modrinth.com/project/GcWjdA9I)                 | mod          | client | 0.27.6                   |
+| [mcwifipnp](https://modrinth.com/project/RTWpcTBp)               | mod          | both   | 1.9.8                    |
+| [melody](https://modrinth.com/project/CVT4pFB2)                  | mod          | client | 1.0.15-1.21.11-fabric    |
+| [minihud](https://modrinth.com/project/UMxybHE8)                 | mod          | client | 0.38.3                   |
+| [miniteleport](https://modrinth.com/project/gmfe94N8)            | mod          | server | 1.1.0+mc1.21.11          |
+| [modmenu](https://modrinth.com/project/mOgUt4GM)                 | mod          | client | 17.0.0-beta.2            |
+| [new-glowing-ores](https://modrinth.com/project/oL18adaQ)        | resourcepack | client | 2.0-1.21-border          |
+| [night-ui](https://modrinth.com/project/JEGWvrJj)                | resourcepack | client | v1.4.2                   |
+| [nofortunechest](https://modrinth.com/project/4QufRNTv)          | mod          | client | 1.2+1.21.11              |
+| [norecipebook](https://modrinth.com/project/TvL1V8O5)            | mod          | client | 3.12+1.21.11             |
+| [phantom-lucidity](https://modrinth.com/project/jp5wZgsb)        | mod          | both   | 1.4.0                    |
+| [placeholder-api](https://modrinth.com/project/eXts2L7r)         | mod          | both   | 2.8.2+1.21.10            |
+| [reeses-sodium-options](https://modrinth.com/project/Bh37bMuy)   | mod          | client | mc1.21.11-2.0.3+fabric   |
+| [rei](https://modrinth.com/project/nfn13YXA)                     | mod          | both   | 21.11.814+fabric         |
+| [shulkerboxtooltip](https://modrinth.com/project/2M01OLQq)       | mod          | both   | 5.2.15+1.21.11-fabric    |
+| [skinrestorer](https://modrinth.com/project/ghrZDhGW)            | mod          | server | 2.5.0+1.21.11-fabric     |
+| [sodium-extra](https://modrinth.com/project/PtjYWJkn)            | mod          | client | mc1.21.11-0.8.3+fabric   |
+| [sodium](https://modrinth.com/project/AANobbMI)                  | mod          | client | mc1.21.11-0.8.4-fabric   |
+| [tweakeroo](https://modrinth.com/project/t5wuYk45)               | mod          | client | 0.27.5                   |
+| [ukulib](https://modrinth.com/project/Y8uFrUil)                  | mod          | client | 1.10.2+1.21.11           |
+| [ukus-armor-hud](https://modrinth.com/project/wF189hn9)          | mod          | client | 0.10.2+mc1.21.11         |
+| [vmp-fabric](https://modrinth.com/project/wnEe9KBa)              | mod          | both   | 0.2.0+beta.7.227+1.21.11 |
+| [wi-zoom](https://modrinth.com/project/o7DitHWP)                 | mod          | client | 1.7-MC1.21.11            |
+| [worldedit](https://modrinth.com/project/1u6JkXh5)               | mod          | server | 7.4.0                    |
+| [xaeros-minimap](https://modrinth.com/project/1bokaNcj)          | mod          | both   | fabric-1.21.11-25.3.10   |
+| [xaeros-world-map](https://modrinth.com/project/NcUtCpym)        | mod          | both   | fabric-1.21.11-1.40.11   |
+| [yacl](https://modrinth.com/project/1eAoo2KR)                    | mod          | both   | 3.8.2+1.21.11-fabric     |
+| [zannaghs-armor-hider](https://modrinth.com/project/GgG2my3y)    | mod          | both   | fabric-1.21.11-0.7.9     |
 
 <!-- AZALEA_MODLIST_END -->
 
@@ -123,15 +117,19 @@ This is the list of content with links and versions. Most of it comes from `Modr
 <details>
 <summary><b>External content</b></summary>
 
-| Name                     | Type        | Source                                           |
-| ------------------------ | ----------- | ------------------------------------------------ |
-| Alternate Bedrock        | Texturepack | https://vanillatweaks.net/picker/resource-packs/ |
-| Square Plus Crosshair    | Texturepack | https://vanillatweaks.net/picker/resource-packs/ |
-| Brighter Nether          | Texturepack | https://vanillatweaks.net/picker/resource-packs/ |
-| Golden Carrot Hunger Bar | Texturepack | https://vanillatweaks.net/picker/resource-packs/ |
-| Purple Hearts            | Texturepack | https://vanillatweaks.net/picker/resource-packs/ |
-| Quiter Minecarts         | Texturepack | https://vanillatweaks.net/picker/resource-packs/ |
-| Quiter Nether Portals    | Texturepack | https://vanillatweaks.net/picker/resource-packs/ |
-| Rainbow Expirience Bar   | Texturepack | https://vanillatweaks.net/picker/resource-packs/ |
+| Name                                                                                            | Type         | Side   | Version |
+| ----------------------------------------------------------------------------------------------- | ------------ | ------ | ------- |
+| [Alternate Bedrock](https://vanillatweaks.net/picker/resource-packs/)                           | resourcepack | client | -       |
+| [Square Plus Crosshair](https://vanillatweaks.net/picker/resource-packs/)                       | resourcepack | client | -       |
+| [Brighter Nether](https://vanillatweaks.net/picker/resource-packs/)                             | resourcepack | client | -       |
+| [Golden Carrot Hunger Bar](https://vanillatweaks.net/picker/resource-packs/)                    | resourcepack | client | -       |
+| [Purple Hearts](https://vanillatweaks.net/picker/resource-packs/)                               | resourcepack | client | -       |
+| [Quiter Minecarts](https://vanillatweaks.net/picker/resource-packs/)                            | resourcepack | client | -       |
+| [Quiter Nether Portals](https://vanillatweaks.net/picker/resource-packs/)                       | resourcepack | client | -       |
+| [Rainbow Expirience Bar](https://vanillatweaks.net/picker/resource-packs/)                      | resourcepack | client | -       |
+| [Reduce Villagers](https://modrinth.com/resourcepack/mute-villagers)                            | resourcepack | client | -       |
+| [Mod Crates](https://modrinth.com/resourcepack/mob-crates)                                      | resourcepack | client | -       |
+| [Panorama with shaders](<https://modrinth.com/resourcepack/1.20-panorama-with-shaders-(night)>) | resourcepack | client | -       |
+| [Small totem](https://modrinth.com/resourcepack/better-small-totem)                             | resourcepack | client | -       |
 
 </details>
