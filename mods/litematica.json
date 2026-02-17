@@ -1,0 +1,16 @@
+{
+  "project_id": "bEpr0Arc",
+  "slug": "litematica",
+  "version_id": "7LGBHMu9",
+  "version_number": "0.26.0",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/bEpr0Arc/versions/7LGBHMu9/litematica-fabric-1.21.11-0.26.0.jar",
+    "filename": "litematica-fabric-1.21.11-0.26.0.jar",
+    "sha512": "f2e17872c19762dcc8413bfe08e4cb8423c936fabf3e4191ed6c2b14725d4e49dce26a733b98d3847efbfb1dc5b30a850988ef67f081bea105cf3b31a21986de"
+  },
+  "explicit": true,
+  "dependencies": [
+    "GcWjdA9I"
+  ]
+}

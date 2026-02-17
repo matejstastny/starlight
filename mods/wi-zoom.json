@@ -1,0 +1,16 @@
+{
+  "project_id": "o7DitHWP",
+  "slug": "wi-zoom",
+  "version_id": "8TffgKNp",
+  "version_number": "1.7-MC1.21.11",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/o7DitHWP/versions/8TffgKNp/WI-Zoom-1.7-MC1.21.11.jar",
+    "filename": "WI-Zoom-1.7-MC1.21.11.jar",
+    "sha512": "10ec6f7a1f7f3fc95ef09a63dc8d100c3198991cdfa4b2ba5194157ab1e1721c5747f2986087ae24d7d794b25db4202f7235fdc82d5f089d0cf76d3c2b2d6040"
+  },
+  "explicit": true,
+  "dependencies": [
+    "P7dR8mSH"
+  ]
+}

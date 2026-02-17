@@ -1,0 +1,16 @@
+{
+  "project_id": "2M01OLQq",
+  "slug": "shulkerboxtooltip",
+  "version_id": "2lPKqJBJ",
+  "version_number": "5.2.15+1.21.11-fabric",
+  "side": "both",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/2M01OLQq/versions/2lPKqJBJ/shulkerboxtooltip-fabric-5.2.15%2B1.21.11.jar",
+    "filename": "shulkerboxtooltip-fabric-5.2.15+1.21.11.jar",
+    "sha512": "a8a969056af71e25e086c9566fdfc8b50780162e5b335fe41776fa4f0c0f2edbf0c95c42453dca0b0b72f9f71d9bfa433f756aa2272043e9dd17fe8fb6f488dd"
+  },
+  "explicit": true,
+  "dependencies": [
+    "P7dR8mSH"
+  ]
+}

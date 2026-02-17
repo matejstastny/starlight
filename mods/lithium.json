@@ -1,0 +1,14 @@
+{
+  "project_id": "gvQqBUqZ",
+  "slug": "lithium",
+  "version_id": "qvNsoO3l",
+  "version_number": "mc1.21.11-0.21.3-fabric",
+  "side": "both",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/qvNsoO3l/lithium-fabric-0.21.3%2Bmc1.21.11.jar",
+    "filename": "lithium-fabric-0.21.3+mc1.21.11.jar",
+    "sha512": "2883739303f0bb602d3797cc601ed86ce6833e5ec313ddce675f3d6af3ee6a40b9b0a06dafe39d308d919669325e95c0aafd08d78c97acd976efde899c7810fd"
+  },
+  "explicit": true,
+  "dependencies": []
+}

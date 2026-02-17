@@ -1,0 +1,16 @@
+{
+  "project_id": "4QufRNTv",
+  "slug": "nofortunechest",
+  "version_id": "rUWwS4QW",
+  "version_number": "1.2+1.21.11",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/4QufRNTv/versions/rUWwS4QW/NoFortuneChest-1.2%2B1.21.11.jar",
+    "filename": "NoFortuneChest-1.2+1.21.11.jar",
+    "sha512": "da9566dc0ebaf4d1b42956c7e8791d44ab7f197452e06feb81b0d6b656aa50a3362b810a187daea81e36aa91303b56848dd04aef6501c9ef6b742dfcc3a22a9d"
+  },
+  "explicit": true,
+  "dependencies": [
+    "P7dR8mSH"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "project_id": "1eAoo2KR",
+  "slug": "yacl",
+  "version_id": "pHWDw3Vc",
+  "version_number": "3.8.2+1.21.11-fabric",
+  "side": "both",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
+    "filename": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+    "sha512": "392db7d471030cca27483ecf58c626a14cd73d71a18afe6d4173c6b030948b8a925b36e708d4cc2c897dfa3f20a7f23b999fc18aa6d36c156da29037601153ac"
+  },
+  "explicit": false,
+  "dependencies": [
+    "P7dR8mSH"
+  ]
+}
