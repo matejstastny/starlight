@@ -45,7 +45,7 @@ This is the list of content with links and versions. Most of it comes from `Modr
 <details>
 <summary><b>Modrinth content</b></summary>
 
-<!-- MODLIST_START -->
+<!-- AZALEA_MODLIST_START -->
 
 | Name                                        | Type        | Source                            |
 | ------------------------------------------- | ----------- | --------------------------------- |
@@ -116,7 +116,7 @@ This is the list of content with links and versions. Most of it comes from `Modr
 | New Glowing Ores                            | Texturepack | https://modrinth.com/mod/oL18adaQ |
 | 🌙 Night UI - A Dark Themed Resource Pack   | Texturepack | https://modrinth.com/mod/JEGWvrJj |
 
-<!-- MODLIST_END -->
+<!-- AZALEA_MODLIST_END -->
 
 </details>
 
