@@ -47,7 +47,7 @@ jobs:
             dist/*.mrpack
 
       - name: Upload to Modrinth
-        run: python .github/scripts/upload_modrinth.py
+        run: python .github/scripts/modrinth_publish.py
         env:
           MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
-          MODRINTH_PROJECT_ID: YOUR_PROJECT_ID_HERE
+          MODRINTH_PROJECT_ID: starlightmodpack
