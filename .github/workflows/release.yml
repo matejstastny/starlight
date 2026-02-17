@@ -36,6 +36,13 @@ jobs:
       - name: Build mrpack
         run: azalea export
 
+      - name: Get mrpack filename
+        id: pack
+        run: |
+          FILE=$(ls dist/*.mrpack)
+          echo "file=$FILE" >> $GITHUB_OUTPUT
+          echo "Found pack: $FILE"
+
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
@@ -44,7 +51,7 @@ jobs:
           generate_release_notes: true
           body_path: CHANGELOG.md
           files: |
-            dist/*.mrpack
+            ${{ steps.pack.outputs.file }}
 
       - name: Create Modrinth Release
         uses: cloudnode-pro/modrinth-publish@v2
@@ -54,4 +61,4 @@ jobs:
           version: ${{ steps.validate.outputs.version }}
           loaders: fabric
           game-versions: ${{ steps.validate.outputs.minecraft }}
-          files: dist/*.mrpack
+          files: ${{ steps.pack.outputs.file }}
