@@ -53,12 +53,20 @@ jobs:
           files: |
             ${{ steps.pack.outputs.file }}
 
-      - name: Create Modrinth Release
-        uses: cloudnode-pro/modrinth-publish@v2
+      - name: Publish to Modrinth
+        uses: Kir-Antipov/mc-publish@v3.3
         with:
-          token: ${{ secrets.MODRINTH_TOKEN }}
-          project: kWqlGiOE
-          version: ${{ steps.validate.outputs.version }}
+          modrinth-id: kWqlGiOE
+          modrinth-featured: true
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          files: ${{ steps.pack.outputs.file }}
+
+          name: Starlight ${{ steps.validate.outputs.version }} for MC ${{ steps.validate.outputs.minecraft }}
+          version: ${{ github.ref_name }}
+          version-type: release
+          changelog-file: CHANGELOG.md
+
           loaders: fabric
           game-versions: ${{ steps.validate.outputs.minecraft }}
-          files: ${{ steps.pack.outputs.file }}
+          game-version-filter: none
+          fail-mode: fail
