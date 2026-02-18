@@ -7,6 +7,10 @@ on:
     paths:
       - "README.md"
 
+  workflow_run:
+    workflows: ["Update modlist"]
+    types: [completed]
+
 jobs:
   export:
     runs-on: ubuntu-latest
