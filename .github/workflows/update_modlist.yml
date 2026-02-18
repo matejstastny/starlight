@@ -1,9 +1,9 @@
 name: Update modlist
 
 on:
-  workflow_run:
-    workflows: ["Release"]
-    types: [completed]
+  push:
+    tags:
+      - "v*"
 
 permissions:
   contents: write
