@@ -2,9 +2,11 @@
 
 # Starlight
 
-<p align="left">
-  <a href="https://fabricmc.net/"><img src="https://img.shields.io/badge/Fabric-0.18.4-blueviolet?logo=fabric&logoColor=white" alt="Fabric Version"></a> <a href="https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-11"><img src="https://img.shields.io/badge/Minecraft-1.21.11-green?logo=minecraft" alt="Minecraft"></a> <a href="https://modrinth.com/modpack/starlightmodpack"><img src="https://img.shields.io/badge/Modrinth-Published-5da545?logo=modrinth&logoColor=white" alt="Modrinth"></a> <a href="https://packwiz.infra.link/"> <a href="https://github.com/my-daarlin/starlight"><img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+<!-- GITHUB_TAGS_START -->
+
+[![Fabric](https://img.shields.io/badge/Fabric-0.18.4-blueviolet?logo=fabric&logoColor=white)](https://fabricmc.net/) [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-green?logo=minecraft)](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-11) [![Modrinth](https://img.shields.io/badge/Modrinth-Published-5da545?logo=modrinth&logoColor=white)](https://modrinth.com/modpack/starlightmodpack) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/my-daarlin/starlight)
+
+<!-- GITHUB_TAGS_END -->
 
 A lightweight, dark themed **Fabric** modpack focused on performance, technical play, and subtle quality‑of‑life improvements. It includes mods like `litematica` or `carpet`, a lot of optimalization mods, bringing Minecraft from `30 fps` to around `300 fps` on my _Macbook M2 Air_, while not loosing quality.
 

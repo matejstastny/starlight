@@ -29,6 +29,24 @@ jobs:
       - name: Update modlist
         run: azalea readme
 
+      - name: Validate release versions
+        id: validate
+        run: python .github/scripts/validate_release.py
+
+      - name: Update README badges
+        run: |
+          if grep -q "GITHUB_TAGS_START" README.md && grep -q "GITHUB_TAGS_END" README.md; then
+            NEW_LINE="[![Fabric](https://img.shields.io/badge/Fabric-${{ steps.validate.outputs.fabric }}-blueviolet?logo=fabric&logoColor=white)](https://fabricmc.net/) [![Minecraft](https://img.shields.io/badge/Minecraft-${{ steps.validate.outputs.minecraft }}-green?logo=minecraft)](https://www.minecraft.net/en-us/article/minecraft-java-edition-${{ steps.validate.outputs.minecraft }}) [![Modrinth](https://img.shields.io/badge/Modrinth-Published-5da545?logo=modrinth&logoColor=white)](https://modrinth.com/modpack/starlightmodpack) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/matejstastny/starlight)"
+
+            awk -v repl="$NEW_LINE" '
+              /<!-- GITHUB_TAGS_START -->/ {print; print repl; skip=1; next}
+              /<!-- GITHUB_TAGS_END -->/ {skip=0}
+              !skip
+            ' README.md > README.tmp && mv README.tmp README.md
+          else
+            echo "Markers not found, skipping README badge update"
+          fi
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:

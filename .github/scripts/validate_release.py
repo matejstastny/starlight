@@ -60,6 +60,7 @@ with config_path.open() as f:
 
 json_version = data.get("version")
 json_mc = data.get("minecraft_version")
+fabric_version = data.get("loader_version")
 
 print(f"[INFO] JSON version: {json_version}")
 print(f"[INFO] JSON MC: {json_mc}")
@@ -96,5 +97,6 @@ if output_file:
     with open(output_file, "a") as f:
         f.write(f"version={tag_version}\n")
         f.write(f"minecraft={tag_mc}\n")
+        f.write(f"fabric={fabric_version}\n")
 
 print("[INFO] Done")
