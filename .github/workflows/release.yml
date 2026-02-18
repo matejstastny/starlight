@@ -57,7 +57,6 @@ jobs:
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           modrinth-id: kWqlGiOE
-          modrinth-featured: true
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           files: ${{ steps.pack.outputs.file }}
 
