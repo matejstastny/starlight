@@ -7,7 +7,8 @@
   "file": {
     "url": "https://cdn.modrinth.com/data/RQ6INv2n/versions/qbeaBGEk/fancy-entity-renderer-fabric-1.21.11-0.5.4.jar",
     "filename": "fancy-entity-renderer-fabric-1.21.11-0.5.4.jar",
-    "sha512": "fe4cab3e09e5bbe66464a3987ebad5cdc49cb4e2f9e6117c17092a493c00cd67cd4cf3178ec4c609c65b05bb1e4bc55b7474b4f80df0c88da00890e2535e4782"
+    "sha512": "fe4cab3e09e5bbe66464a3987ebad5cdc49cb4e2f9e6117c17092a493c00cd67cd4cf3178ec4c609c65b05bb1e4bc55b7474b4f80df0c88da00890e2535e4782",
+    "sha1": "8dbfa65e1f1ec93d3e74f4e803a5efa02137b9b2"
   },
   "explicit": true,
   "dependencies": [

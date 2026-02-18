@@ -7,7 +7,8 @@
   "file": {
     "url": "https://cdn.modrinth.com/data/gmfe94N8/versions/xWl6WdYX/miniteleport-1.1.0%2Bmc1.21.11.jar",
     "filename": "miniteleport-1.1.0+mc1.21.11.jar",
-    "sha512": "c55225c0100079420314546217cc79720208ef85cd4c3668b18b2bd8a88cdec2f5d63621b17690f749ba6c5ae0114747eeabef6e8887a1d170cbad9b2b8c73de"
+    "sha512": "c55225c0100079420314546217cc79720208ef85cd4c3668b18b2bd8a88cdec2f5d63621b17690f749ba6c5ae0114747eeabef6e8887a1d170cbad9b2b8c73de",
+    "sha1": "be4a2bfab15890c6b4d628d1ca219a0656dbbe66"
   },
   "explicit": true,
   "dependencies": [

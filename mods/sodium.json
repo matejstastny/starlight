@@ -7,7 +7,8 @@
   "file": {
     "url": "https://cdn.modrinth.com/data/AANobbMI/versions/1OWNgWVR/sodium-fabric-0.8.4%2Bmc1.21.11.jar",
     "filename": "sodium-fabric-0.8.4+mc1.21.11.jar",
-    "sha512": "c882e07f09ccc04b6258e79979a8e1429018de5b09da5fccea189d0a5de60ea5475f1884fc724f4d3ababc8abe730b9856d5e4864c3e418b21871dbaed21f0c3"
+    "sha512": "c882e07f09ccc04b6258e79979a8e1429018de5b09da5fccea189d0a5de60ea5475f1884fc724f4d3ababc8abe730b9856d5e4864c3e418b21871dbaed21f0c3",
+    "sha1": "c0a8ac43af978f8d8245bf033670944eb90d7b2e"
   },
   "explicit": true,
   "dependencies": []

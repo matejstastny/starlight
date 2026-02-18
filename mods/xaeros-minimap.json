@@ -7,7 +7,8 @@
   "file": {
     "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/avSqR3vF/xaerominimap-fabric-1.21.11-25.3.10.jar",
     "filename": "xaerominimap-fabric-1.21.11-25.3.10.jar",
-    "sha512": "8790be4aa5af58acf4080f88204c6a0558d99780687d9c54d1827960dd6b49a23da9e3e14e680cb4636f58495c19f317d2f445460990b132e05056d1cedccc3b"
+    "sha512": "8790be4aa5af58acf4080f88204c6a0558d99780687d9c54d1827960dd6b49a23da9e3e14e680cb4636f58495c19f317d2f445460990b132e05056d1cedccc3b",
+    "sha1": "4cb5a1d9121f7b1cd03fd17e901c002ba9cac62b"
   },
   "explicit": true,
   "dependencies": [

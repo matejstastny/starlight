@@ -7,7 +7,8 @@
   "file": {
     "url": "https://cdn.modrinth.com/data/EgBj3Bnf/versions/Z2N2FfqH/timm-1.1.1-1.21.11.jar",
     "filename": "timm-1.1.1-1.21.11.jar",
-    "sha512": "1278f4c35afbc27ec03509bd308db0289c458ad7885cfa581f742570428291af34263bb9c2137feae0aca5505af434ab6178228cff4eaaf57fd964592490e20d"
+    "sha512": "1278f4c35afbc27ec03509bd308db0289c458ad7885cfa581f742570428291af34263bb9c2137feae0aca5505af434ab6178228cff4eaaf57fd964592490e20d",
+    "sha1": "86304643b1ff3bcdc9ea2e56ab4d1493d84f3b0d"
   },
   "explicit": true,
   "dependencies": []

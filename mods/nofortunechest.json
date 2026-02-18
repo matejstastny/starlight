@@ -7,7 +7,8 @@
   "file": {
     "url": "https://cdn.modrinth.com/data/4QufRNTv/versions/rUWwS4QW/NoFortuneChest-1.2%2B1.21.11.jar",
     "filename": "NoFortuneChest-1.2+1.21.11.jar",
-    "sha512": "da9566dc0ebaf4d1b42956c7e8791d44ab7f197452e06feb81b0d6b656aa50a3362b810a187daea81e36aa91303b56848dd04aef6501c9ef6b742dfcc3a22a9d"
+    "sha512": "da9566dc0ebaf4d1b42956c7e8791d44ab7f197452e06feb81b0d6b656aa50a3362b810a187daea81e36aa91303b56848dd04aef6501c9ef6b742dfcc3a22a9d",
+    "sha1": "1d4475e2acf1620dfc050d3848301d79b154aa16"
   },
   "explicit": true,
   "dependencies": [

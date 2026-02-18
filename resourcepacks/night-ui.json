@@ -7,7 +7,8 @@
   "file": {
     "url": "https://cdn.modrinth.com/data/JEGWvrJj/versions/APbAFCuX/%C2%A7e%E2%98%BD%20%C2%A7d%C2%A7lNightUI%C2%A78%C2%A7o%20%C2%A78v1.4.2.zip",
     "filename": "\u00a7e\u263d \u00a7d\u00a7lNightUI\u00a78\u00a7o \u00a78v1.4.2.zip",
-    "sha512": "39db0183a4ac74f47e809c0da2dc398be8a722189638ecff2bf85117170d4e85b328a2af968c7093f3c11eeb163ddc31b23308a07c20b5a5aef942a749f13df9"
+    "sha512": "39db0183a4ac74f47e809c0da2dc398be8a722189638ecff2bf85117170d4e85b328a2af968c7093f3c11eeb163ddc31b23308a07c20b5a5aef942a749f13df9",
+    "sha1": "0c7553fb9a48d6768730bd5c2f19860262f1dbd9"
   },
   "explicit": true,
   "dependencies": []

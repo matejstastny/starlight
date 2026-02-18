@@ -7,7 +7,8 @@
   "file": {
     "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/ZIKgsH8x/skinrestorer-2.5.0%2B1.21.11-fabric.jar",
     "filename": "skinrestorer-2.5.0+1.21.11-fabric.jar",
-    "sha512": "bfd5d67852bb8e5d757aee8657edd1b8b6268d526462224337313b1c01dc5db581e44ba41085caa4961039e90e73a2fa0e014514351e3566adcb4de1fe3091b7"
+    "sha512": "bfd5d67852bb8e5d757aee8657edd1b8b6268d526462224337313b1c01dc5db581e44ba41085caa4961039e90e73a2fa0e014514351e3566adcb4de1fe3091b7",
+    "sha1": "06457106cf7e52e327a03b11e10f6a73584497de"
   },
   "explicit": true,
   "dependencies": []

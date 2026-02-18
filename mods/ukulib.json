@@ -7,7 +7,8 @@
   "file": {
     "url": "https://cdn.modrinth.com/data/Y8uFrUil/versions/t9ZJ7RPT/ukulib-1.10.2%2B1.21.11.jar",
     "filename": "ukulib-1.10.2+1.21.11.jar",
-    "sha512": "b910faa547c636a73d800d1b9afb66fe92fdfd33caf81a535057db04b814370898b36dce784b2fed8237965cea8c1e2f75871b91bf3c205bfd3382b64878c5a3"
+    "sha512": "b910faa547c636a73d800d1b9afb66fe92fdfd33caf81a535057db04b814370898b36dce784b2fed8237965cea8c1e2f75871b91bf3c205bfd3382b64878c5a3",
+    "sha1": "8dfeaf1cacb1dce35c06489d99f193e538a3827f"
   },
   "explicit": false,
   "dependencies": []

@@ -7,7 +7,8 @@
   "file": {
     "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/yIgAFMna/reeses-sodium-options-fabric-2.0.3%2Bmc1.21.11.jar",
     "filename": "reeses-sodium-options-fabric-2.0.3+mc1.21.11.jar",
-    "sha512": "13b54698be3cbecdcf544ff92186423652c6b1e91544864c979f51297a3159137f794db4e3ee21e0bae3abcf651bb4ecc0e2a5b4aa1eab1f1a81d6529fe82e59"
+    "sha512": "13b54698be3cbecdcf544ff92186423652c6b1e91544864c979f51297a3159137f794db4e3ee21e0bae3abcf651bb4ecc0e2a5b4aa1eab1f1a81d6529fe82e59",
+    "sha1": "fb452b122fd72e8540d32fbe3df01cc34a45ce41"
   },
   "explicit": true,
   "dependencies": [

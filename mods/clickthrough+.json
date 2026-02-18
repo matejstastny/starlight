@@ -7,7 +7,8 @@
   "file": {
     "url": "https://cdn.modrinth.com/data/fJi8nm80/versions/KwJ4yIqY/clickthrough-plus-3.6.1%2B1.21.11-fabric.jar",
     "filename": "clickthrough-plus-3.6.1+1.21.11-fabric.jar",
-    "sha512": "2c69a33d5c11fb622aa33d2112f62e14095df2484636440e2e108ea78e89dc105158383991dbe4996fbe84a76b352923374d3a4ad66c4fd53e78f2fcb5ea2878"
+    "sha512": "2c69a33d5c11fb622aa33d2112f62e14095df2484636440e2e108ea78e89dc105158383991dbe4996fbe84a76b352923374d3a4ad66c4fd53e78f2fcb5ea2878",
+    "sha1": "209cbd18f57fa2f0abfd9c945b99468648228798"
   },
   "explicit": true,
   "dependencies": [

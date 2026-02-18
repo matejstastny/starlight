@@ -7,7 +7,8 @@
   "file": {
     "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/xm69SB7D/skinlayers3d-fabric-1.10.1-mc1.21.11.jar",
     "filename": "skinlayers3d-fabric-1.10.1-mc1.21.11.jar",
-    "sha512": "3cbb1e0ddef00fdb54f9a42ede02a12b84dbc74358ff3395d6ed49a09913b989527e91aea2c7c1e80bca897f77d3e68b6932af1f689a633f63d146057408d8e6"
+    "sha512": "3cbb1e0ddef00fdb54f9a42ede02a12b84dbc74358ff3395d6ed49a09913b989527e91aea2c7c1e80bca897f77d3e68b6932af1f689a633f63d146057408d8e6",
+    "sha1": "00420fd22af05fc8dec38937f6efcfe25717a5f0"
   },
   "explicit": true,
   "dependencies": [

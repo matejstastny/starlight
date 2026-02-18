@@ -7,7 +7,8 @@
   "file": {
     "url": "https://cdn.modrinth.com/data/z4zsMANd/versions/VRqrQNsB/limitless-banners-1.3.0.jar",
     "filename": "limitless-banners-1.3.0.jar",
-    "sha512": "9458c6846abf00681c4ce38a1b0aeb7fb1009ef1fa18cedc7454cc4b6db0f0682ba9fc33215bf89a3044d0a36ae7b021629079218342d796daad1e32666a35f2"
+    "sha512": "9458c6846abf00681c4ce38a1b0aeb7fb1009ef1fa18cedc7454cc4b6db0f0682ba9fc33215bf89a3044d0a36ae7b021629079218342d796daad1e32666a35f2",
+    "sha1": "2b5f3270a25dd60f66801eb75d63aba792290f32"
   },
   "explicit": true,
   "dependencies": [

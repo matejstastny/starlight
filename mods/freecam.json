@@ -7,7 +7,8 @@
   "file": {
     "url": "https://cdn.modrinth.com/data/XeEZ3fK2/versions/34bZL2kK/freecam-fabric-1.3.6%2Bmc1.21.11.jar",
     "filename": "freecam-fabric-1.3.6+mc1.21.11.jar",
-    "sha512": "150d54dac8c8be01051799d62de25e76359a424ba2a1da4905024f9585a7af17b186d74b07bd0c3bdd12c12cd5c76cf251f2d5361d041eec3be5ba9b972eb5ca"
+    "sha512": "150d54dac8c8be01051799d62de25e76359a424ba2a1da4905024f9585a7af17b186d74b07bd0c3bdd12c12cd5c76cf251f2d5361d041eec3be5ba9b972eb5ca",
+    "sha1": "fa808166a5a266048a29cb235dd78fc24342e631"
   },
   "explicit": true,
   "dependencies": [

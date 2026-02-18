@@ -7,7 +7,8 @@
   "file": {
     "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xuX40TN5/cloth-config-21.11.153-fabric.jar",
     "filename": "cloth-config-21.11.153-fabric.jar",
-    "sha512": "8f455489d4b71069e998568cf4e1450116f4360a4eb481cd89117f629c6883164886cf63ca08ac4fc929dd13d1112152755a6216d4a1498ee6406ef102093e51"
+    "sha512": "8f455489d4b71069e998568cf4e1450116f4360a4eb481cd89117f629c6883164886cf63ca08ac4fc929dd13d1112152755a6216d4a1498ee6406ef102093e51",
+    "sha1": "4c224606a963bce223db5b27edb4959ecf40d4ee"
   },
   "explicit": false,
   "dependencies": []

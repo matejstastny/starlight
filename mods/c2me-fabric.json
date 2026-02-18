@@ -7,7 +7,8 @@
   "file": {
     "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/QdLiMUjx/c2me-fabric-mc1.21.11-0.3.7%2Balpha.0.7.jar",
     "filename": "c2me-fabric-mc1.21.11-0.3.7+alpha.0.7.jar",
-    "sha512": "f9543febe2d649a82acd6d5b66189b6a3d820cf24aa503ba493fdb3bbd4e52e30912c4c763fe50006f9a46947ae8cd737d420838c61b93429542573ed67f958e"
+    "sha512": "f9543febe2d649a82acd6d5b66189b6a3d820cf24aa503ba493fdb3bbd4e52e30912c4c763fe50006f9a46947ae8cd737d420838c61b93429542573ed67f958e",
+    "sha1": "dfbcbbd89047e312626e83efdf057956ff1e1017"
   },
   "explicit": true,
   "dependencies": []

@@ -7,7 +7,8 @@
   "file": {
     "url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/4KeJMj6s/malilib-fabric-1.21.11-0.27.6.jar",
     "filename": "malilib-fabric-1.21.11-0.27.6.jar",
-    "sha512": "a357dc94ec6f4e46d8dad85165d8aa4746fb1fbda5beb9c9e17477129f00e81a15e5217b600d9847c5ee4626677c69da9875d23126bafd04c8a200803b9891aa"
+    "sha512": "a357dc94ec6f4e46d8dad85165d8aa4746fb1fbda5beb9c9e17477129f00e81a15e5217b600d9847c5ee4626677c69da9875d23126bafd04c8a200803b9891aa",
+    "sha1": "7f4a095bed99677450277921011f613f83e44a75"
   },
   "explicit": false,
   "dependencies": []

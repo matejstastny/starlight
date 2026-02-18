@@ -7,7 +7,8 @@
   "file": {
     "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/Q3Dusz2j/BadOptimizations-2.4.1-1.21.11.jar",
     "filename": "BadOptimizations-2.4.1-1.21.11.jar",
-    "sha512": "ff91f1866f21a13a32d379080b8efb5d4e07577591228c1d307b34d052696c9bdcbaf7706208dfbac56abc2c29482a15edcbf11f69fc0a01e459c4c20a5c2c28"
+    "sha512": "ff91f1866f21a13a32d379080b8efb5d4e07577591228c1d307b34d052696c9bdcbaf7706208dfbac56abc2c29482a15edcbf11f69fc0a01e459c4c20a5c2c28",
+    "sha1": "70fa28d5a7a1fdd61dd804ca6ac411750da1473f"
   },
   "explicit": true,
   "dependencies": []

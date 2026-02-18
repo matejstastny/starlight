@@ -7,7 +7,8 @@
   "file": {
     "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/o645q0Oo/worldedit-mod-7.4.0.jar",
     "filename": "worldedit-mod-7.4.0.jar",
-    "sha512": "1ad3e994cd314e50e561281a77696107dbd7124fcec8e9e0c0d4043fa081840ef8087aaec99cacde6b6270ff283a8d3c7ea5c113558524468f8c58e5e13f9a4a"
+    "sha512": "1ad3e994cd314e50e561281a77696107dbd7124fcec8e9e0c0d4043fa081840ef8087aaec99cacde6b6270ff283a8d3c7ea5c113558524468f8c58e5e13f9a4a",
+    "sha1": "1bb1f8ade981e1e388cb9f114fa515c2294e0019"
   },
   "explicit": true,
   "dependencies": []
