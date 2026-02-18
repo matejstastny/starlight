@@ -4,7 +4,7 @@
 
 <!-- GITHUB_TAGS_START -->
 
-[![Fabric](https://img.shields.io/badge/Fabric-0.18.4-blueviolet?logo=fabric&logoColor=white)](https://fabricmc.net/) [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-green?logo=minecraft)](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-11) [![Modrinth](https://img.shields.io/badge/Modrinth-Published-5da545?logo=modrinth&logoColor=white)](https://modrinth.com/modpack/starlightmodpack) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/my-daarlin/starlight)
+[![Fabric](https://img.shields.io/badge/Fabric-0.18.4-blueviolet?logo=fabric&logoColor=white)](https://fabricmc.net/) [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-green?logo=minecraft)](https://www.minecraft.net/en-us/article/minecraft-java-edition-1.21.11) [![Modrinth](https://img.shields.io/badge/Modrinth-Published-5da545?logo=modrinth&logoColor=white)](https://modrinth.com/modpack/starlightmodpack) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/matejstastny/starlight)
 
 <!-- GITHUB_TAGS_END -->
 
@@ -110,7 +110,7 @@ This is the list of content with links and versions. Most of it comes from `Modr
 | [xaeros-minimap](https://modrinth.com/project/1bokaNcj)          | mod          | both   | fabric-1.21.11-25.3.10   |
 | [xaeros-world-map](https://modrinth.com/project/NcUtCpym)        | mod          | both   | fabric-1.21.11-1.40.11   |
 | [yacl](https://modrinth.com/project/1eAoo2KR)                    | mod          | both   | 3.8.2+1.21.11-fabric     |
-| [zannaghs-armor-hider](https://modrinth.com/project/GgG2my3y)    | mod          | both   | fabric-1.21.11-0.7.9     |
+| [zannaghs-armor-hider](https://modrinth.com/project/GgG2my3y)    | mod          | both   | fabric-1.21.11-0.7.10    |
 
 <!-- AZALEA_MODLIST_END -->
 
