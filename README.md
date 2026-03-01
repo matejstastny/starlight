@@ -1,4 +1,4 @@
-<img src="https://github.com/my-daarlin/starlight/blob/main/public/icon.png?raw=true" alt="Modpack icon" width="20%" align="right">
+<img src="https://github.com/matejstastny/starlight/blob/main/public/icon.png?raw=true" alt="Modpack icon" width="20%" align="right">
 
 # Starlight
 
