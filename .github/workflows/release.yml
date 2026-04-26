@@ -4,6 +4,12 @@ on:
   push:
     tags:
       - "v*"
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Tag to release (e.g. v1.2.3)"
+        required: true
+        type: string
 
 permissions:
   contents: write
@@ -15,6 +21,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.tag || github.ref }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -33,35 +41,43 @@ jobs:
         id: validate
         run: python .github/scripts/validate_release.py
 
-      - name: Build mrpack
-        run: azalea export
+      - name: Resolve release tag
+        id: release_tag
+        run: echo "tag=${{ github.event.inputs.tag || github.ref_name }}" >> $GITHUB_OUTPUT
 
-      - name: Get mrpack filename
+      - name: Build mrpacks
+        run: |
+          azalea export
+          azalea export -c
+
+      - name: Get mrpack filenames
         id: pack
         run: |
-          FILE=$(ls dist/*.mrpack)
-          echo "file=$FILE" >> $GITHUB_OUTPUT
-          echo "Found pack: $FILE"
+          echo "files<<EOF" >> $GITHUB_OUTPUT
+          ls dist/*.mrpack >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+          echo "Found packs:"
+          ls dist/*.mrpack
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: ${{ github.ref_name }}
+          tag_name: ${{ steps.release_tag.outputs.tag }}
           name: Starlight ${{ steps.validate.outputs.version }} for MC ${{ steps.validate.outputs.minecraft }}
           generate_release_notes: true
           body_path: CHANGELOG.md
           files: |
-            ${{ steps.pack.outputs.file }}
+            ${{ steps.pack.outputs.files }}
 
       - name: Publish to Modrinth
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           modrinth-id: kWqlGiOE
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          files: ${{ steps.pack.outputs.file }}
+          files: ${{ steps.pack.outputs.files }}
 
           name: Starlight ${{ steps.validate.outputs.version }} for MC ${{ steps.validate.outputs.minecraft }}
-          version: ${{ github.ref_name }}
+          version: ${{ steps.release_tag.outputs.tag }}
           version-type: release
           changelog-file: CHANGELOG.md
 
