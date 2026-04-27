@@ -37,6 +37,8 @@ jobs:
 
       - name: Validate release versions
         id: validate
+        env:
+          GITHUB_REF_NAME: ${{ github.event.inputs.tag || github.ref_name }}
         run: python .github/scripts/validate_release.py
 
       - name: Resolve release tag
