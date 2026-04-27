@@ -22,6 +22,8 @@
     "commandUseStrict": true,
     "customSchematicBaseDirectoryEnabled": false,
     "debugHudMode": "default",
+    "debugHudWorld": true,
+    "debugHudPMThreads": false,
     "debugLogging": false,
     "displayFileOpsFeedback": false,
     "datafixerMode": "always",
