@@ -20,10 +20,10 @@ import sys
 from pathlib import Path
 
 
-TAG = os.getenv("GITHUB_REF_NAME")
+TAG = os.getenv("RELEASE_TAG") or os.getenv("GITHUB_REF_NAME")
 
 if not TAG:
-    print("[ERROR] GITHUB_REF_NAME not set.")
+    print("[ERROR] RELEASE_TAG or GITHUB_REF_NAME not set.")
     sys.exit(1)
 
 print(f"[INFO] Validating tag: {TAG}")
