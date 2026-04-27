@@ -1,0 +1,16 @@
+{
+  "project_id": "xERacUfv",
+  "slug": "lower-shield",
+  "version_id": "uY600uWm",
+  "version_number": "1.0",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/xERacUfv/versions/uY600uWm/lower_shield_1.14-1.20.4.zip",
+    "filename": "lower_shield_1.14-1.20.4.zip",
+    "sha512": "9b2da8bef2caf70ae50a5c33af0757246883780113f4da93bfe6148c577289b3f484a8e6b6dee9db2eda6b88dea397b7f26946c28879fc2afd3fe6f4cd69c3d3",
+    "sha1": "15e0de79c58ca5c40a45cdfa1c5e7b599770c3b1",
+    "size": 5320
+  },
+  "explicit": true,
+  "dependencies": []
+}
