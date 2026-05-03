@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: "Tag to release (e.g. v1.2.3)"
+        description: "Tag to release (e.g. v2.1.2+1.21.11)"
         required: true
         type: string
 
@@ -33,7 +33,7 @@ jobs:
       - name: Install Azalea
         uses: threeal/pipx-install-action@v1.0.0
         with:
-          packages: git+https://github.com/matejstastny/azalea.git
+          packages: git+https://github.com/matejstastny/azalea.git@client-export-presets
 
       - name: Validate release versions
         id: validate
@@ -45,19 +45,10 @@ jobs:
         id: release_tag
         run: echo "tag=${{ github.event.inputs.tag || github.ref_name }}" >> $GITHUB_OUTPUT
 
-      - name: Build mrpacks
+      - name: Build dist
         run: |
           azalea export
           azalea export -c
-
-      - name: Get mrpack filenames
-        id: pack
-        run: |
-          echo "files<<EOF" >> $GITHUB_OUTPUT
-          ls dist/*.mrpack >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
-          echo "Found packs:"
-          ls dist/*.mrpack
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
@@ -67,14 +58,15 @@ jobs:
           generate_release_notes: true
           body_path: CHANGELOG.md
           files: |
-            ${{ steps.pack.outputs.files }}
+            dist/*.mrpack
+            dist/*.zip
 
       - name: Publish to Modrinth
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           modrinth-id: kWqlGiOE
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          files: ${{ steps.pack.outputs.files }}
+          files: dist/*.mrpack
 
           name: Starlight ${{ steps.validate.outputs.version }} for MC ${{ steps.validate.outputs.minecraft }}
           version: ${{ steps.release_tag.outputs.tag }}
