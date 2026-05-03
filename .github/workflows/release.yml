@@ -33,7 +33,7 @@ jobs:
       - name: Install Azalea
         uses: threeal/pipx-install-action@v1.0.0
         with:
-          packages: git+https://github.com/matejstastny/azalea.git@client-export-presets
+          packages: git+https://github.com/matejstastny/azalea.git
 
       - name: Validate release versions
         id: validate
