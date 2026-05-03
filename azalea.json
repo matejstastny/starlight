@@ -1,7 +1,7 @@
 {
   "name": "Starlight",
   "author": "Matej Stastny",
-  "version": "v2.1.2",
+  "version": "v2.1.3",
   "license": "MIT",
   "minecraft_version": "1.21.11",
   "loader": "fabric",
