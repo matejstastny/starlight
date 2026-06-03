@@ -1,0 +1,16 @@
+{
+  "project_id": "2odW2Xnk",
+  "slug": "mute-villagers",
+  "version_id": "a5tYeExm",
+  "version_number": "1.3",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/2odW2Xnk/versions/a5tYeExm/%C2%A7fReduce%20Villagers.zip",
+    "filename": "\u00a7fReduce Villagers.zip",
+    "sha512": "969ac9572e7abbd7e358fad507ba52bac88bbfb9515ecaf3d84b2650782a6f5d4f1ed619998e9dfd7fc0adcd750c17ace47377d1506ba33d01206e61e3b8a725",
+    "sha1": "e08e69e75a511962775f5ca45d913c833db7d71c",
+    "size": 61394
+  },
+  "explicit": true,
+  "dependencies": []
+}
