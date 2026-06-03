@@ -1,0 +1,16 @@
+{
+  "project_id": "eqntBJEV",
+  "slug": "show-my-recipes!",
+  "version_id": "UlGjEZma",
+  "version_number": "1.1",
+  "side": "both",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/eqntBJEV/versions/UlGjEZma/Show%20My%20Recipes.jar",
+    "filename": "Show My Recipes.jar",
+    "sha512": "1a5734417785d19224d2db223a757233929a5f5ed5ef280d8d5b44482df87bd6e4fda859966dbd46bbacfd174bf5d4114b0e446e9d3cbd634edd092c21e14826",
+    "sha1": "c97dd090a1ead5c583eb5197a5c4d1e85796c54d",
+    "size": 2851
+  },
+  "explicit": true,
+  "dependencies": []
+}

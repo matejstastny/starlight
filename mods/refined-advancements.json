@@ -1,0 +1,16 @@
+{
+  "project_id": "60PfR426",
+  "slug": "refined-advancements",
+  "version_id": "xy4BZEoW",
+  "version_number": "1.0.9",
+  "side": "both",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/60PfR426/versions/xy4BZEoW/refined_advancements-v1.0.9.jar",
+    "filename": "refined_advancements-v1.0.9.jar",
+    "sha512": "3964654655e593a18efed67c1d1bd922a8a51fbb72363f2e14dc68b2326e16aaad9048e664de03d4985a56a1829f63951fb8b6b9ea6f028bb60575c0551fd6ae",
+    "sha1": "484edeeccbf1ee2c62d6342b3949b529abe19ecb",
+    "size": 156886
+  },
+  "explicit": true,
+  "dependencies": []
+}
