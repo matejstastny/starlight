@@ -1,14 +1,15 @@
 {
   "project_id": "Q2OqKxDG",
   "slug": "better-advancements",
-  "version_id": "wPZWTfJd",
-  "version_number": "0.4.8.51",
+  "version_id": "8im6QWDT",
+  "version_number": "0.4.8.54",
   "side": "client",
   "file": {
-    "url": "https://cdn.modrinth.com/data/Q2OqKxDG/versions/wPZWTfJd/BetterAdvancements-Fabric-1.21.11-0.4.8.51.jar",
-    "filename": "BetterAdvancements-Fabric-1.21.11-0.4.8.51.jar",
-    "sha512": "e2f58bf27a22a70ce460a00ffde00dd4d2698e8287e5b08b88ffbe5d2e5d8d8ac9b43b7ab1101b8dffcc2a1241e9be8def16093a0d827f32df34ddbea2e066f4",
-    "sha1": "725979fd23a9b478fbcbeedfd5c7bbabd88ce7d1"
+    "url": "https://cdn.modrinth.com/data/Q2OqKxDG/versions/8im6QWDT/BetterAdvancements-Fabric-1.21.11-0.4.8.54.jar",
+    "filename": "BetterAdvancements-Fabric-1.21.11-0.4.8.54.jar",
+    "sha512": "101a4ce5b6713058612ea63819667d4d5918bd8bc0af678ce356cb7a6974fdefef358cbbb8ff3e3c04e606b9341013a8c486947ab13692eff29237ff6f0ab6bc",
+    "sha1": "b816a30ec627c4a45a6ee4cf62d8b1c31e42d7e5",
+    "size": 103189
   },
   "explicit": true,
   "dependencies": []

@@ -1,14 +1,15 @@
 {
   "project_id": "GgG2my3y",
   "slug": "zannaghs-armor-hider",
-  "version_id": "oS8MtcL1",
-  "version_number": "fabric-1.21.11-0.7.10",
+  "version_id": "lNHQCJsv",
+  "version_number": "fab-mc-1.21.11-0.11.4",
   "side": "both",
   "file": {
-    "url": "https://cdn.modrinth.com/data/GgG2my3y/versions/oS8MtcL1/armor-hider-fabric-1.21.11-0.7.10.jar",
-    "filename": "armor-hider-fabric-1.21.11-0.7.10.jar",
-    "sha512": "b6acf9f81fbd4590e6822a7b6503a39806c590d007fc616158df7dbc50b2aa44e33b2fb23397aa9d07197e2129776f5e8baaecf9b8aa23f13d47bf82e7f5353c",
-    "sha1": "b21238e42688274c13f391f4ca30f9bc2ad0ecb9"
+    "url": "https://cdn.modrinth.com/data/GgG2my3y/versions/lNHQCJsv/armor-hider-fabric-0.11.4%2Bmc-1.21.11.jar",
+    "filename": "armor-hider-fabric-0.11.4+mc-1.21.11.jar",
+    "sha512": "34dcc8270674f9a95304ae38638971d407dfa38fb8ccb5bea0940a0d342e3648b9ef246527960d2153c29a27a20ed696d0bab3e5dc697a49e04e0fd03e73a93a",
+    "sha1": "6a39ad48bd698600134e29764ffe07b61b9fe658",
+    "size": 335215
   },
   "explicit": true,
   "dependencies": []

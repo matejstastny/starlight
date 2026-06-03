@@ -1,19 +1,20 @@
 {
   "project_id": "O7RBXm3n",
   "slug": "inventory-profiles-next",
-  "version_id": "hUyBZiaa",
-  "version_number": "fabric-1.21.11-2.2.3",
+  "version_id": "YKjWPbto",
+  "version_number": "fabric-1.21.11-2.2.6",
   "side": "client",
   "file": {
-    "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/hUyBZiaa/InventoryProfilesNext-fabric-1.21.11-2.2.3.jar",
-    "filename": "InventoryProfilesNext-fabric-1.21.11-2.2.3.jar",
-    "sha512": "ea6eb09d27c1e53a56e1220e03f5364fa833c8cf6fc2fdd0c0352dab07fab66c9476c0aa7e70859e9bc6c785afa1cbb633a8820d671bb193de3286c5ffa9b891",
-    "sha1": "7835dac2b68a976a339856146f934e76f3e0e4b4"
+    "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/YKjWPbto/InventoryProfilesNext-fabric-1.21.11-2.2.6.jar",
+    "filename": "InventoryProfilesNext-fabric-1.21.11-2.2.6.jar",
+    "sha512": "48bfe840f935229308df47e3b30581a76532bcde3a1c24fa218b4348e47d0dca507fa136c24f62e47c99211a35b901df586f272b2816522cc1f3d066da645660",
+    "sha1": "0abb512cdd1cd8ea473c13a809b44a993ab05f51",
+    "size": 1331339
   },
   "explicit": true,
   "dependencies": [
+    "Ha28R6CL",
     "onSQdWhM",
-    "P7dR8mSH",
-    "Ha28R6CL"
+    "P7dR8mSH"
   ]
 }

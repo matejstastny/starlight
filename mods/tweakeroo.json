@@ -1,14 +1,15 @@
 {
   "project_id": "t5wuYk45",
   "slug": "tweakeroo",
-  "version_id": "fpfkwRe2",
-  "version_number": "0.27.5",
+  "version_id": "CkMiy6Ld",
+  "version_number": "0.27.9",
   "side": "client",
   "file": {
-    "url": "https://cdn.modrinth.com/data/t5wuYk45/versions/fpfkwRe2/tweakeroo-fabric-1.21.11-0.27.5.jar",
-    "filename": "tweakeroo-fabric-1.21.11-0.27.5.jar",
-    "sha512": "5c980477ed58f1952781fa89def378309d6ffc9be16abcfbd4b1f92217d929db3d465ab2cd373535c9ea8e578304e731321d480a1fa7aa3a1b044e0f673f3e0e",
-    "sha1": "65207d9258f3a821d93b4b0c3b9c6952d6b2f5f9"
+    "url": "https://cdn.modrinth.com/data/t5wuYk45/versions/CkMiy6Ld/tweakeroo-fabric-1.21.11-0.27.9.jar",
+    "filename": "tweakeroo-fabric-1.21.11-0.27.9.jar",
+    "sha512": "b0ac5654812ee2664e899b2fac2f58451c380a0883897a2cae72088419c35b91cbf334e369cd87f02c34c7a98f2708d8835b4582c1717d2881646dab171c0bef",
+    "sha1": "70a268773584b1cffa75229f2e4f979020cd413b",
+    "size": 648935
   },
   "explicit": true,
   "dependencies": [

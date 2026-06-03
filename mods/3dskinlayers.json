@@ -1,14 +1,15 @@
 {
   "project_id": "zV5r3pPn",
   "slug": "3dskinlayers",
-  "version_id": "xm69SB7D",
-  "version_number": "1.10.1",
+  "version_id": "ntxaPFv3",
+  "version_number": "1.11.1",
   "side": "client",
   "file": {
-    "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/xm69SB7D/skinlayers3d-fabric-1.10.1-mc1.21.11.jar",
-    "filename": "skinlayers3d-fabric-1.10.1-mc1.21.11.jar",
-    "sha512": "3cbb1e0ddef00fdb54f9a42ede02a12b84dbc74358ff3395d6ed49a09913b989527e91aea2c7c1e80bca897f77d3e68b6932af1f689a633f63d146057408d8e6",
-    "sha1": "00420fd22af05fc8dec38937f6efcfe25717a5f0"
+    "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/ntxaPFv3/skinlayers3d-fabric-1.11.1-mc1.21.11.jar",
+    "filename": "skinlayers3d-fabric-1.11.1-mc1.21.11.jar",
+    "sha512": "d3d4d20a19c695a6935a5bd6fb6c159bf2ace2c4e4501b8a81096aa75bfab00372af4a4d5ffb18490b53ade1cc128e53f3181e06bf465c878dad09b291dbad33",
+    "sha1": "a95c49c23db05d98d88e6a225894ca93e4e86b3c",
+    "size": 1971642
   },
   "explicit": true,
   "dependencies": [

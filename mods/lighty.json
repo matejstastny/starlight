@@ -1,14 +1,15 @@
 {
   "project_id": "yjvKidNM",
   "slug": "lighty",
-  "version_id": "QBVfrALF",
-  "version_number": "3.1.3+1.21.11",
+  "version_id": "uwqfMaXv",
+  "version_number": "3.1.4+1.21.11",
   "side": "client",
   "file": {
-    "url": "https://cdn.modrinth.com/data/yjvKidNM/versions/QBVfrALF/lighty-fabric-3.1.3%2B1.21.11.jar",
-    "filename": "lighty-fabric-3.1.3+1.21.11.jar",
-    "sha512": "6155b2ece9a1283e457126c9bd25e9550e4332f58418cc5b746c22a992192c0c72c9fd855f17bb8a7c9f0598db6f2097dbd7929372e43adc258cc4f34ca550a3",
-    "sha1": "1f0ab3363cf54f060f22c35658a5580c66209bc2"
+    "url": "https://cdn.modrinth.com/data/yjvKidNM/versions/uwqfMaXv/lighty-fabric-3.1.4%2B1.21.11.jar",
+    "filename": "lighty-fabric-3.1.4+1.21.11.jar",
+    "sha512": "15a23e70fa003e898c4d840c280b4949ede99cf65c6196f7589c817e9551ee075b6b2bf7c725518225363e285889968f2f9d93213b15c3cef911c239e19308d8",
+    "sha1": "217ee411b692042e9d877f64853a78b023d2acfb",
+    "size": 100489
   },
   "explicit": true,
   "dependencies": [

@@ -1,14 +1,15 @@
 {
   "project_id": "AANobbMI",
   "slug": "sodium",
-  "version_id": "1OWNgWVR",
-  "version_number": "mc1.21.11-0.8.4-fabric",
+  "version_id": "NFkjnzWE",
+  "version_number": "mc1.21.11-0.8.12-fabric",
   "side": "client",
   "file": {
-    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/1OWNgWVR/sodium-fabric-0.8.4%2Bmc1.21.11.jar",
-    "filename": "sodium-fabric-0.8.4+mc1.21.11.jar",
-    "sha512": "c882e07f09ccc04b6258e79979a8e1429018de5b09da5fccea189d0a5de60ea5475f1884fc724f4d3ababc8abe730b9856d5e4864c3e418b21871dbaed21f0c3",
-    "sha1": "c0a8ac43af978f8d8245bf033670944eb90d7b2e"
+    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/NFkjnzWE/sodium-fabric-0.8.12%2Bmc1.21.11.jar",
+    "filename": "sodium-fabric-0.8.12+mc1.21.11.jar",
+    "sha512": "17fdb8240670d069e9bb4d00cd3d17afe28ea3f7ea7daf27fd32844f302516e7a889686429db81f2c7b73ad4afce703cac8963a8c3943cfebf45d2c570bd8256",
+    "sha1": "4d80592bef36674e7469ae2737a7704b826289ae",
+    "size": 1905890
   },
   "explicit": true,
   "dependencies": []

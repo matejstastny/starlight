@@ -1,14 +1,15 @@
 {
   "project_id": "nvQzSEkH",
   "slug": "jade",
-  "version_id": "HKUAgY3D",
-  "version_number": "21.1.1+fabric",
+  "version_id": "swJhAyak",
+  "version_number": "21.1.6+fabric",
   "side": "both",
   "file": {
-    "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/HKUAgY3D/Jade-1.21.11-Fabric-21.1.1.jar",
-    "filename": "Jade-1.21.11-Fabric-21.1.1.jar",
-    "sha512": "566a7cf3fa17a8170dcdc52a61d9965bc7848a7b503ecf3b18a7e3caa617f28a77a1d6787ac4e49ac30436d235c8ff01f67e92771546a0b319b34392a47b0baf",
-    "sha1": "4dba64f66f97cd06cbf43cbe7768ca67a68b528c"
+    "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/swJhAyak/Jade-1.21.11-Fabric-21.1.6.jar",
+    "filename": "Jade-1.21.11-Fabric-21.1.6.jar",
+    "sha512": "6dee10effa6d68c822c59b7704f5506fe674c50d6195da25171641decfa684dc4f14d919656f768fe8fc39003c6193126cb05bb59eed8a1a2bd354dc53875e6d",
+    "sha1": "b48b23fe3b9175641bd63ce5c3373977f8f15723",
+    "size": 950484
   },
   "explicit": true,
   "dependencies": [

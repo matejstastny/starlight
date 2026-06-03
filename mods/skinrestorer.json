@@ -1,14 +1,15 @@
 {
   "project_id": "ghrZDhGW",
   "slug": "skinrestorer",
-  "version_id": "ZIKgsH8x",
-  "version_number": "2.5.0+1.21.11-fabric",
+  "version_id": "64YNvBfd",
+  "version_number": "2.7.0+1.21.11-fabric",
   "side": "server",
   "file": {
-    "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/ZIKgsH8x/skinrestorer-2.5.0%2B1.21.11-fabric.jar",
-    "filename": "skinrestorer-2.5.0+1.21.11-fabric.jar",
-    "sha512": "bfd5d67852bb8e5d757aee8657edd1b8b6268d526462224337313b1c01dc5db581e44ba41085caa4961039e90e73a2fa0e014514351e3566adcb4de1fe3091b7",
-    "sha1": "06457106cf7e52e327a03b11e10f6a73584497de"
+    "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/64YNvBfd/skinrestorer-2.7.0%2B1.21.11-fabric.jar",
+    "filename": "skinrestorer-2.7.0+1.21.11-fabric.jar",
+    "sha512": "5a32010cde723696841709b3250256e543b593fe5c1e8c088078f64854a08baffb2b5f1e8addc7e8a6a90607a5ecd6549f457fead247e5a6fb7989868c50f739",
+    "sha1": "f6e725c0c88f67fc1e4a00faaf19ef6e41dd72e3",
+    "size": 252134
   },
   "explicit": true,
   "dependencies": []
