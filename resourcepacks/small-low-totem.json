@@ -1,0 +1,16 @@
+{
+  "project_id": "bAO2sCFV",
+  "slug": "small-low-totem",
+  "version_id": "9NMwidJZ",
+  "version_number": "1.2",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/bAO2sCFV/versions/9NMwidJZ/Small%20Low%20Totem.zip",
+    "filename": "Small Low Totem.zip",
+    "sha512": "cb81cb765d1cdcd04baf546c0de2c5938837881f07600d5420115ee6f9ecc542d038a3f57797c3d962c0d75ef061a76c64f23e7cae44d2fe5beb28ebece1dfd4",
+    "sha1": "0f99044379031f1c6cdcc3a4e2ac324d680f229a",
+    "size": 195835
+  },
+  "explicit": true,
+  "dependencies": []
+}
