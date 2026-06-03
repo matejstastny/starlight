@@ -1,2 +1,3 @@
-Removed `phantom-lucidity` making the server be connectable using any client (vanilla, fabric anything else) added bluemap for server side maps.
-Added bluemap config
+- Added some server mods like pronouns mod, day counter mod and similar
+- Switched from journeymap to xaero
+- Added back missing resourcepacks

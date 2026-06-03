@@ -1,6 +1,7 @@
 {
   "minDelay": 0,
   "maxDelay": 0,
+  "enableMusicFading": true,
   "fadeDelay": 3,
   "fadeDuration": 5,
   "resetDelayOnBiomeSwitch": false,

@@ -13,6 +13,7 @@
     "schematicOverlayColorWrongState": "#4CFF9010"
   },
   "Generic": {
+    "placementManagerThreadCount": 2,
     "areaSelectionsPerWorld": true,
     "changeSelectedCornerOnMove": true,
     "cloneAtOriginalPosition": false,
@@ -28,6 +29,7 @@
     "displayFileOpsFeedback": false,
     "datafixerMode": "always",
     "datafixerDefaultSchema": 1139,
+    "deduplicateSchematicEntities": false,
     "easyPlaceClickAdjacent": false,
     "easyPlaceFirst": true,
     "easyPlaceHoldEnabled": true,
@@ -76,6 +78,7 @@
     "placementReplaceBehavior": "all",
     "placementRestriction": false,
     "placementRestrictionWarn": "actionbar",
+    "reverseOperationModeDirection": false,
     "renderMaterialListInGuis": true,
     "renderThreadNoTimeout": true,
     "serverNbtRequestRate": 2,
@@ -97,7 +100,9 @@
     "easyPlaceSwapInterval": 0,
     "pickBlockableSlots": "1,2,3,4,5",
     "toolItem": "minecraft:wooden_shovel",
-    "toolItemComponents": "empty"
+    "toolItemComponents": "empty",
+    "translationLanguage": "en_us",
+    "translationMode": "vanilla"
   },
   "Hotkeys": {
     "addSelectionBox": {
@@ -365,14 +370,60 @@
     "verifierErrorHilightMaxPositions": 1000
   },
   "Visuals": {
-    "enableRendering": false,
-    "enableSchematicRendering": true,
-    "enableAreaSelectionBoxesRendering": true,
-    "enablePlacementBoxesRendering": true,
-    "enableSchematicBlocksRendering": true,
-    "enableSchematicFluidRendering": true,
-    "enableSchematicFakeLighting": true,
-    "enableSchematicOverlay": true,
+    "enableRendering": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "enableSchematicRendering": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "enableAreaSelectionBoxesRendering": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "enablePlacementBoxesRendering": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "enableSchematicBlocksRendering": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "enableSchematicFluidRendering": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "enableSchematicEntityHitboxes": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "enableSchematicFakeLighting": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "enableSchematicOverlay": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "enableSchematicOverlayCulling": {
       "enabled": true,
       "hotkey": {
@@ -382,31 +433,116 @@
     "ignoreExistingFluids": false,
     "ignoreExistingBlocks": false,
     "ignorableExistingBlocks": [],
-    "overlayReducedInnerSides": false,
-    "renderAOModernEnable": false,
+    "overlayReducedInnerSides": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "renderAOModernEnable": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "renderAreaSelectionBoxSides": true,
-    "renderBlocksAsTranslucent": false,
+    "renderBlocksAsTranslucent": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "renderEnableTranslucentResorting": true,
-    "renderCollidingSchematicBlocks": false,
+    "renderCollidingSchematicBlocks": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "renderErrorMarkerConnections": false,
     "renderErrorMarkerSides": true,
     "renderFakeLightingLevel": 15,
     "renderPlacementBoxSides": false,
     "renderPlacementEnclosingBox": true,
     "renderPlacementEnclosingBoxSides": false,
-    "renderSchematicEntities": true,
-    "renderSchematicTileEntities": true,
-    "renderTranslucentBlockInnerSides": false,
-    "schematicOverlayEnableOutlines": true,
-    "schematicOverlayEnableSides": true,
-    "schematicOverlayModelOutline": true,
-    "schematicOverlayModelSides": false,
-    "schematicOverlayRenderThroughBlocks": false,
-    "schematicOverlayTypeDiffBlock": true,
-    "schematicOverlayTypeExtra": true,
-    "schematicOverlayTypeMissing": true,
-    "schematicOverlayTypeWrongBlock": true,
-    "schematicOverlayTypeWrongState": true,
+    "renderSchematicEntities": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "renderSchematicTileEntities": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "renderTranslucentBlockInnerSides": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "schematicOverlayEnableOutlines": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "schematicOverlayEnableSides": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "schematicOverlayModelOutline": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "schematicOverlayModelSides": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "schematicOverlayRenderThroughBlocks": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "schematicOverlayTypeDiffBlock": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "schematicOverlayTypeExtra": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "schematicOverlayTypeMissing": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "schematicOverlayTypeWrongBlock": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "schematicOverlayTypeWrongState": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "ghostBlockAlpha": 0.5,
     "placementBoxSideAlpha": 0.2,
     "schematicOverlayOutlineWidth": 1.0,

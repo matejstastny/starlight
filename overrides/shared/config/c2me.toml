@@ -44,8 +44,6 @@ threadPoolPriority = "default"
 	# 
 	enforceSafeWorldRandomAccess = "default"
 
-[clientSideConfig]
-
 	[clientSideConfig.modifyMaxVDConfig]
 		# (Default: true) Enable client-side support for extended render distance protocol (c2me:ext_render_distance_v1)
 		# This allows requesting render distances higher than 127 chunks from the server
@@ -57,7 +55,7 @@ threadPoolPriority = "default"
 		enableExtRenderDistanceProtocol = "default"
 		# (Default: true) Whether to modify maximum view distance
 		enabled = "default"
-		# (Default: 43) Max render distance allowed in game options
+		# (Default: 55) Max render distance allowed in game options
 		maxViewDistance = "default"
 
 [noTickViewDistance]
@@ -80,6 +78,11 @@ threadPoolPriority = "default"
 	# Requires Fabric API (currently available)
 	# 
 	enableExtRenderDistanceProtocol = "default"
+	# (Default: true) Whether to enable no-tick view distance
+	# 
+	# Faster alternative implementation of simulation distance, and additionally support up to 65530 view distance
+	# 
+	enabled = "default"
 
 [ioSystem]
 	# (Default: false) EXPERIMENTAL FEATURE
@@ -212,4 +215,3 @@ threadPoolPriority = "default"
 	# in a single world instance
 	# 
 	allowPOIUnloading = "default"
-
