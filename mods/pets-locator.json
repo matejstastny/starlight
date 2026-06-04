@@ -1,0 +1,16 @@
+{
+  "project_id": "xafqcCCg",
+  "slug": "pets-locator",
+  "version_id": "G49fVnRE",
+  "version_number": "1.0.4",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/xafqcCCg/versions/G49fVnRE/petslocator-fabric-1.21.11-1.0.4.jar",
+    "filename": "petslocator-fabric-1.21.11-1.0.4.jar",
+    "sha512": "237da7637fccfe4c926563f0de01f9826bdff8ecafb11e20ec2a99f263a0b66da69aed5134c594d3199444754acdee2f556ce8c50975fbb1717a3f725658c848",
+    "sha1": "49643f7b2eb2692247dbd0e3db0450d69707a73a",
+    "size": 352606
+  },
+  "explicit": true,
+  "dependencies": []
+}
