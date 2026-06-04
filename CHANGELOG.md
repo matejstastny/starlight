@@ -1,3 +1,1 @@
-- Added some server mods like pronouns mod, day counter mod and similar
-- Switched from journeymap to xaero
-- Added back missing resourcepacks
+Updated to Fabric 0.19.3
