@@ -8,4 +8,7 @@ Icon?
 .Trashes
 
 ### export ###
-dist
+dist/
+
+### testing ###
+server-temp/
