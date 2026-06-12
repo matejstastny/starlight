@@ -1,0 +1,16 @@
+{
+  "project_id": "w7qrBleX",
+  "slug": "cat-crosshair",
+  "version_id": "oaahpfwB",
+  "version_number": "v2.0",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/w7qrBleX/versions/oaahpfwB/CatCrosshair_v2.0.zip",
+    "filename": "CatCrosshair_v2.0.zip",
+    "sha512": "826302aa9037151fa40a457ed90f2fbead03df577c09b665f70d584c8867121ba7e51fe3f0bb80727afd89c097f0aa3e026f2fc35d67e443d6111ba7ebb4042a",
+    "sha1": "c7940c53332bd0628a67b5762812601c4b8c0e72",
+    "size": 3940
+  },
+  "explicit": true,
+  "dependencies": []
+}

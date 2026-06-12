@@ -1,0 +1,16 @@
+{
+  "project_id": "4XOSYHAs",
+  "slug": "koncipet-ui",
+  "version_id": "MvDaYTUE",
+  "version_number": "2.2.1",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/4XOSYHAs/versions/MvDaYTUE/KonciPET%20UI%202.2.1.zip",
+    "filename": "KonciPET UI 2.2.1.zip",
+    "sha512": "03d4cf40cb3d7d81eac70e1b54f5d5a532bf9c33763e2f9142c4eb364857b74972132c4d402cdaac6542b124bb0fcbfb90006cb5b19a2d3ccd096ee38324defe",
+    "sha1": "f7d253a9cb17295ad45bb181fd9175890a4933fd",
+    "size": 247932
+  },
+  "explicit": true,
+  "dependencies": []
+}

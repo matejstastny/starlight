@@ -1,0 +1,16 @@
+{
+  "project_id": "Ro1nQlm2",
+  "slug": "gdp",
+  "version_id": "qRktUgVJ",
+  "version_number": "GDP-1.0-RELEASE",
+  "side": "both",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/Ro1nQlm2/versions/qRktUgVJ/gdp-1.0-RELEASE.jar",
+    "filename": "gdp-1.0-RELEASE.jar",
+    "sha512": "03c065af5fc8faa68c8dba85ef479180110976dd910cb1892da09e382e133aa5b9e1fe698ea0bc3df9c6cc50d6bb815ae966e5966dbca8bcca6960363b13d953",
+    "sha1": "d61163173eedc2c3da8383358c549d15564ebf2c",
+    "size": 67422
+  },
+  "explicit": true,
+  "dependencies": []
+}
