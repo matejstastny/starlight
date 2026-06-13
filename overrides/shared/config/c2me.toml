@@ -93,8 +93,6 @@ threadPoolPriority = "default"
 	# Whether to use the fast reduced allocation chunk serializer
 	# (may cause incompatibility with other mods)
 	# 
-	# Set to false for the following reasons: 
-	# Incompatible with architectury@19.0.1 (*) (defined in c2me) 
 	gcFreeChunkSerializer = "default"
 	# (Default: true) Whether to use the optimized implementation of IO system
 	replaceImpl = "default"

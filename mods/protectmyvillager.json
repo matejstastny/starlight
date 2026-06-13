@@ -1,0 +1,18 @@
+{
+  "project_id": "q4DkatAi",
+  "slug": "protectmyvillager",
+  "version_id": "1XBsl32V",
+  "version_number": "1.2.4",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/q4DkatAi/versions/1XBsl32V/ProtectMyVillager-1.2.4.jar",
+    "filename": "ProtectMyVillager-1.2.4.jar",
+    "sha512": "87fb39e8cc47a3fdf7e54988194f7d56e82bb39ff0e27f1cacbca4b0c879309d5d67e8dd8e1fe18c6e26ec66a11660a69ad62067f37e254f746fb2778c786a75",
+    "sha1": "4bf4c2e21aedbbfd87b575192f949fda47a88f35",
+    "size": 29912
+  },
+  "explicit": true,
+  "dependencies": [
+    "P7dR8mSH"
+  ]
+}

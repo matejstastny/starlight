@@ -1,0 +1,16 @@
+{
+  "project_id": "3sV1gvyJ",
+  "slug": "shrimps-immersive-interfaces",
+  "version_id": "rhXvPOmr",
+  "version_number": "0.8.2",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/3sV1gvyJ/versions/rhXvPOmr/%C2%A76Immersive%C2%A78_%C2%A76Interfaces%C2%A78.zip",
+    "filename": "\u00a76Immersive\u00a78_\u00a76Interfaces\u00a78.zip",
+    "sha512": "a8eb22e41c2aa1c72517240b7f1d5ca2640542b5782a794d1068eba5d6189356548e3aadba293d5e570d5ab04f465161c8123efdb34f4a9d11b9f7493c1c5eab",
+    "sha1": "176aa5cf21d2c6b6a24d11cf0e74aed4c4ca9621",
+    "size": 1197001
+  },
+  "explicit": true,
+  "dependencies": []
+}

@@ -1,0 +1,18 @@
+{
+  "project_id": "LemPa6PG",
+  "slug": "command-menu",
+  "version_id": "xhtcTj1G",
+  "version_number": "1.0.1",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/LemPa6PG/versions/xhtcTj1G/CommandMenu-1.0.1%2B1.21.11.jar",
+    "filename": "CommandMenu-1.0.1+1.21.11.jar",
+    "sha512": "38d8978ad0f6024c2be7f15a0387741b11b4394e14be5961b66db603c7a3dfa68bac3352ddd9a1a1ba02f8622bf291f1d3f8aeddb4a228866785bd5545db7a95",
+    "sha1": "0d85102f25f16ffc1182ee7f9f45d9f312f60648",
+    "size": 146048
+  },
+  "explicit": true,
+  "dependencies": [
+    "P7dR8mSH"
+  ]
+}
