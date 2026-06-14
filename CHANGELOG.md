@@ -1,1 +1,1 @@
-Revamped some of the mods, added a different music mod, ambient soudns and changed UI.
+Reverted most of the UI and sound changes cause I did not like them. Added some minor details.
