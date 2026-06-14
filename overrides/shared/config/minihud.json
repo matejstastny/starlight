@@ -20,7 +20,6 @@
     "infoSpeedAxis": 0,
     "infoSpeedHV": 0,
     "infoSprinting": 0,
-    "§6infoSculkWarningLevel§r": 20,
     "infoServerTPS": 0,
     "§6infoServux§r": 0,
     "infoPing": 0,
@@ -125,7 +124,6 @@
     "bundleDisplayRowWidth": 9,
     "debugMessages": false,
     "dontClearStoredSeedOnDimensionChange": true,
-    "beaconRangeOverlayCheckPrimaryEffect": false,
     "conduitRangeOverlayCombineQuads": true,
     "conduitRangeOverlayOutlines": false,
     "conduitRangeOverlayThrough": false,
@@ -173,8 +171,6 @@
     "structuresRenderThrough": false,
     "structuresRenderOutlines": false,
     "structuresRenderOutlinesWhite": false,
-    "translationLanguage": "en_us",
-    "translationMode": "vanilla",
     "useCustomizedCoordinateFormat": true,
     "useFontShadow": false,
     "useTextBackground": true,
@@ -253,8 +249,7 @@
     "villagerOfferPriceRange": true,
     "villagerOfferHighestLevelOnly": false,
     "villagerOfferLowestPriceNearby": false,
-    "villagerOfferPriceThreshold": 1.0,
-    "villagerTextScale": 2.0
+    "villagerOfferPriceThreshold": 1.0
   },
   "InfoTypeToggles": {
     "infoFPS": false,
@@ -277,7 +272,6 @@
     "infoSpeedAxis": false,
     "infoSpeedHV": false,
     "infoSprinting": false,
-    "§6infoSculkWarningLevel§r": false,
     "infoServerTPS": false,
     "§6infoServux§r": false,
     "infoPing": false,
@@ -380,9 +374,6 @@
       "keys": ""
     },
     "infoSprinting": {
-      "keys": ""
-    },
-    "§6infoSculkWarningLevel§r": {
       "keys": ""
     },
     "infoServerTPS": {
@@ -533,7 +524,6 @@
     "debugEntityHitboxes": false,
     "debugBlockOutline": false,
     "debugWaterEnabled": false,
-    "debugLavaEnabled": false,
     "debugHeightmapEnabled": false,
     "debugCollisionBoxEnabled": false,
     "debugSupportingBlock": false,
@@ -618,9 +608,6 @@
       "keys": ""
     },
     "debugWaterEnabled": {
-      "keys": ""
-    },
-    "debugLavaEnabled": {
       "keys": ""
     },
     "debugHeightmapEnabled": {

@@ -1,8 +1,18 @@
 {
   "menuItems": [
     {
+      "name": "Bot",
+      "icon": "minecraft:azalea",
+      "command": "player Bot spawn"
+    },
+    {
+      "name": "Slaya",
+      "icon": "minecraft:diamond_sword",
+      "command": "player Slaya spawn"
+    },
+    {
       "name": "Storage Fairy",
-      "icon": "minecraft:poppy",
+      "icon": "minecraft:chest",
       "command": "player StorageFairy spawn at 25 46.06 -71 facing 0 0 in minecraft:overworld"
     },
     {
@@ -14,6 +24,26 @@
       "name": "Smelter Fairy",
       "icon": "minecraft:furnace",
       "command": "player SmelterFairy spawn at -112 57 -61 facing 0 0 in minecraft:overworld"
+    },
+    {
+      "name": "Wither Fairy",
+      "icon": "minecraft:wither_skeleton_skull",
+      "command": "player WitherFairy spawn at 2688 220 -1537 facing 0 0 in minecraft:overworld"
+    },
+    {
+      "name": "Wither Kill",
+      "icon": "minecraft:coal",
+      "command": "player Slaya spawn at 335.4 208.06 -191.7 facing -157.7 -4.8 in minecraft:the_nether"
+    },
+    {
+      "name": "Creeper Kill",
+      "icon": "minecraft:gunpowder",
+      "command": "player Slaya spawn at -1258.6 192 761 facing 13.2 -5.1 in minecraft:overworld"
+    },
+    {
+      "name": "Withch Kill",
+      "icon": "minecraft:redstone",
+      "command": "player Slaya spawn at -875.41 185.49 1042.00 facing -179 2.9 in minecraft:overworld"
     }
   ]
 }

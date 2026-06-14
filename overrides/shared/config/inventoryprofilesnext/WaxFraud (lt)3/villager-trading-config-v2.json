@@ -4,19 +4,9 @@
         "butcher": [],
         "cartographer": [],
         "cleric": [],
-        "farmer": [
-            {
-                "resultItem": "minecraft:golden_carrot",
-                "priceItem1": "minecraft:emerald"
-            }
-        ],
+        "farmer": [],
         "fisherman": [],
-        "fletcher": [
-            {
-                "resultItem": "minecraft:emerald",
-                "priceItem1": "minecraft:stick"
-            }
-        ],
+        "fletcher": [],
         "leatherworker": [],
         "librarian": [],
         "mason": [],
@@ -24,8 +14,7 @@
         "toolsmith": [],
         "weaponsmith": [],
         "nitwit": [],
-        "none": [],
-        "___+++___ wandering ___+++___": []
+        "none": []
     },
     "globalBookmarks1": {
         "armorer": [],
@@ -42,8 +31,7 @@
         "toolsmith": [],
         "weaponsmith": [],
         "nitwit": [],
-        "none": [],
-        "___+++___ wandering ___+++___": []
+        "none": []
     },
     "globalBookmarks2": {
         "armorer": [],
@@ -60,7 +48,6 @@
         "toolsmith": [],
         "weaponsmith": [],
         "nitwit": [],
-        "none": [],
-        "___+++___ wandering ___+++___": []
+        "none": []
     }
 }

@@ -2,7 +2,51 @@
   "selections": {
     "mode": "SIMPLE"
   },
-  "placements": {},
+  "placements": {
+    "placements": [
+      {
+        "schematic": "/Users/matejstastny/minecraft/prism/Starlight/minecraft/schematics/bartering-farm/Potato Noir 1.21 Barter Module.litematic",
+        "name": "Potato_Noir 1.21 73k Barter Module",
+        "origin": [
+          79,
+          230,
+          -327
+        ],
+        "rotation": "NONE",
+        "mirror": "LEFT_RIGHT",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "hash_code": "78a53633-9358-4882-8232-9475dfa55dc0",
+        "placements": [
+          {
+            "name": "Potato_Noir 1.21 73k Barter Module",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Potato_Noir 1.21 73k Barter Module",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 0,
+    "origin_selected": true
+  },
   "schematic_projects_manager": {},
   "operation_mode": "SCHEMATIC_PLACEMENT",
   "render_range": {

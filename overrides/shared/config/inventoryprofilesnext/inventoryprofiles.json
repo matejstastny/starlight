@@ -32,6 +32,13 @@
     "SortSettings": {
         "sort_order": "ACCUMULATED_COUNT_DESCENDING"
     },
+    "LockedSlotsSettings": {
+        "lock_slots_switch_config_modifier": {
+            "main": {
+                "keys": "LEFT_SUPER"
+            }
+        }
+    },
     "AutoRefillSettings": {
         "ignore_locked_slots": false,
         "refill_armor": {

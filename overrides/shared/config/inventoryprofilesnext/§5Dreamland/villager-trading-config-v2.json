@@ -11,7 +11,12 @@
             }
         ],
         "fisherman": [],
-        "fletcher": [],
+        "fletcher": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:stick"
+            }
+        ],
         "leatherworker": [],
         "librarian": [],
         "mason": [],
@@ -19,7 +24,8 @@
         "toolsmith": [],
         "weaponsmith": [],
         "nitwit": [],
-        "none": []
+        "none": [],
+        "___+++___ wandering ___+++___": []
     },
     "globalBookmarks1": {
         "armorer": [],
@@ -36,7 +42,8 @@
         "toolsmith": [],
         "weaponsmith": [],
         "nitwit": [],
-        "none": []
+        "none": [],
+        "___+++___ wandering ___+++___": []
     },
     "globalBookmarks2": {
         "armorer": [],
@@ -53,6 +60,7 @@
         "toolsmith": [],
         "weaponsmith": [],
         "nitwit": [],
-        "none": []
+        "none": [],
+        "___+++___ wandering ___+++___": []
     }
 }

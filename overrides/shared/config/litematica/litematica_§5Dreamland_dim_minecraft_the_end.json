@@ -4,34 +4,34 @@
   },
   "placements": {},
   "schematic_projects_manager": {},
-  "operation_mode": "AREA_SELECTION",
+  "operation_mode": "PASTE_SCHEMATIC",
   "render_range": {
     "mode": "ALL",
     "axis": "Y",
     "layer_single": 0,
     "layer_above": 0,
-    "layer_below": 0,
+    "layer_below": 69,
     "layer_range_min": 0,
     "layer_range_max": 0,
     "hotkey_range_min": false,
     "hotkey_range_max": false
   },
   "area_simple": {
-    "name": "MAIN HOOOME raw",
-    "current": "MAIN HOOOME raw",
+    "name": "Unnamed",
+    "current": "Unnamed",
     "boxes": [
       {
         "pos1": [
-          -210,
-          87,
-          310
+          0,
+          0,
+          0
         ],
         "pos2": [
-          -156,
-          126,
-          266
+          0,
+          0,
+          0
         ],
-        "name": "MAIN HOOOME raw"
+        "name": "Unnamed"
       }
     ]
   },

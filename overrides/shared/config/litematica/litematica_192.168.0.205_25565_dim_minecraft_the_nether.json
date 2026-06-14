@@ -4,7 +4,7 @@
   },
   "placements": {},
   "schematic_projects_manager": {},
-  "operation_mode": "AREA_SELECTION",
+  "operation_mode": "SCHEMATIC_PLACEMENT",
   "render_range": {
     "mode": "ALL",
     "axis": "Y",
@@ -17,21 +17,21 @@
     "hotkey_range_max": false
   },
   "area_simple": {
-    "name": "MAIN HOOOME raw",
-    "current": "MAIN HOOOME raw",
+    "name": "Unnamed",
+    "current": "Unnamed",
     "boxes": [
       {
         "pos1": [
-          -210,
-          87,
-          310
+          0,
+          0,
+          0
         ],
         "pos2": [
-          -156,
-          126,
-          266
+          0,
+          0,
+          0
         ],
-        "name": "MAIN HOOOME raw"
+        "name": "Unnamed"
       }
     ]
   },

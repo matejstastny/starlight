@@ -1,20 +1,12 @@
 {
   "language": "en_us",
-  "join": {
-    "refreshSkin": true,
-    "skipRefreshProviders": [],
-    "applyDelay": 0,
-    "autoFetch": {
-      "enabled": true,
-      "overrideExisting": false,
-      "provider": "mojang"
-    }
-  },
-  "request": {
-    "proxy": "",
-    "timeout": 10,
-    "userAgent": ""
-  },
+  "refreshSkinOnJoin": true,
+  "skinApplyDelayOnJoin": 0,
+  "fetchSkinOnFirstJoin": true,
+  "forceFirstJoinSkinFetch": false,
+  "firstJoinSkinProvider": "MOJANG",
+  "proxy": "",
+  "requestTimeout": 10,
   "providers": {
     "mojang": {
       "enabled": true,
@@ -34,7 +26,6 @@
     },
     "mineskin": {
       "apiKey": "",
-      "proxyUrlUpload": false,
       "enabled": true,
       "name": "web",
       "cache": {
@@ -50,8 +41,6 @@
         "enabled": true,
         "duration": 604800
       }
-    },
-    "custom": []
-  },
-  "version": 2
+    }
+  }
 }

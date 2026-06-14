@@ -17,21 +17,21 @@
     "hotkey_range_max": false
   },
   "area_simple": {
-    "name": "MAIN HOOOME raw",
-    "current": "MAIN HOOOME raw",
+    "name": "wax",
+    "current": "wax",
     "boxes": [
       {
         "pos1": [
-          -210,
-          87,
-          310
+          -1001,
+          31,
+          109
         ],
         "pos2": [
-          -156,
-          126,
-          266
+          -1079,
+          106,
+          190
         ],
-        "name": "MAIN HOOOME raw"
+        "name": "wax"
       }
     ]
   },

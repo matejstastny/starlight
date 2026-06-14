@@ -44,6 +44,8 @@ threadPoolPriority = "default"
 	# 
 	enforceSafeWorldRandomAccess = "default"
 
+[clientSideConfig]
+
 	[clientSideConfig.modifyMaxVDConfig]
 		# (Default: true) Enable client-side support for extended render distance protocol (c2me:ext_render_distance_v1)
 		# This allows requesting render distances higher than 127 chunks from the server
@@ -78,11 +80,6 @@ threadPoolPriority = "default"
 	# Requires Fabric API (currently available)
 	# 
 	enableExtRenderDistanceProtocol = "default"
-	# (Default: true) Whether to enable no-tick view distance
-	# 
-	# Faster alternative implementation of simulation distance, and additionally support up to 65530 view distance
-	# 
-	enabled = "default"
 
 [ioSystem]
 	# (Default: false) EXPERIMENTAL FEATURE
@@ -93,6 +90,8 @@ threadPoolPriority = "default"
 	# Whether to use the fast reduced allocation chunk serializer
 	# (may cause incompatibility with other mods)
 	# 
+	# Set to false for the following reasons: 
+	# Incompatible with architectury@19.0.1 (*) (defined in c2me) 
 	gcFreeChunkSerializer = "default"
 	# (Default: true) Whether to use the optimized implementation of IO system
 	replaceImpl = "default"
@@ -213,3 +212,4 @@ threadPoolPriority = "default"
 	# in a single world instance
 	# 
 	allowPOIUnloading = "default"
+

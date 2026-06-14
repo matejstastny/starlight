@@ -1,24 +1,18 @@
 {
-  "data_storage": {
-    "distance_pos": [
-      0.0,
-      0.0,
-      0.0
-    ]
-  },
-  "hud_data": {},
-  "entities": {},
   "shapes": {
     "shapes": [
       {
         "type": "circle",
         "color": 1613803696,
+        "color_lines": -1,
         "enabled": true,
         "display_name": "Circle / Cylinder",
+        "render_lines": false,
+        "render_through": false,
         "render_type": "full_block",
         "layers": {
           "mode": "ALL",
-          "axis": "y",
+          "axis": "Y",
           "layer_single": 0,
           "layer_above": 0,
           "layer_below": 0,
