@@ -1,15 +1,15 @@
 {
   "project_id": "XeEZ3fK2",
   "slug": "freecam",
-  "version_id": "RrbBdzBA",
-  "version_number": "1.4.0-rc.1",
+  "version_id": "vTdGrEKS",
+  "version_number": "1.4.1-beta.1",
   "side": "client",
   "file": {
-    "url": "https://cdn.modrinth.com/data/XeEZ3fK2/versions/RrbBdzBA/freecam-fabric-1.4.0-rc.1%2Bmc1.21.11.jar",
-    "filename": "freecam-fabric-1.4.0-rc.1+mc1.21.11.jar",
-    "sha512": "8522ad2044e4ab8cc13b91d751ef9e858acc7d695f6f167be54dc907e5d1773df228ffe661c5354d85d6ae2b0216379337962dee92226b6ac4955dee07821b0f",
-    "sha1": "5d58f4370b7734139950597be8c1efe4b066106b",
-    "size": 1142500
+    "url": "https://cdn.modrinth.com/data/XeEZ3fK2/versions/vTdGrEKS/freecam-fabric-1.4.1-beta.1%2Bmc1.21.11.jar",
+    "filename": "freecam-fabric-1.4.1-beta.1+mc1.21.11.jar",
+    "sha512": "f843d323d92a13bb1bda02db56814d14d8f21fdcd538cc0b8cc32cfcb0c32ecdf291d5b29bd77d4609f0c7141dad7ec10574cc172ada7a565a70f66c507042ff",
+    "sha1": "f41cc86752f655217dda1e69980ff2d0d93220c1",
+    "size": 1142633
   },
   "explicit": true,
   "dependencies": [

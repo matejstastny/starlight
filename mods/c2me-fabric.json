@@ -1,15 +1,15 @@
 {
   "project_id": "VSNURh3q",
   "slug": "c2me-fabric",
-  "version_id": "UeCYljaE",
-  "version_number": "0.3.7+alpha.0.10+1.21.11",
+  "version_id": "OOPL1nCG",
+  "version_number": "0.4.0-alpha.0.19+1.21.11",
   "side": "both",
   "file": {
-    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/UeCYljaE/c2me-fabric-mc1.21.11-0.3.7%2Balpha.0.10.jar",
-    "filename": "c2me-fabric-mc1.21.11-0.3.7+alpha.0.10.jar",
-    "sha512": "2bec8077fc0209082776730b183633f08e328e570ecea9b3095bded6b09526cb694d0165046538c13f456e67c66895cd4dc2cebf91e2588f1cca76dc522b9962",
-    "sha1": "fdd8c2009852fb41118d5c5c0969a6e274d7426c",
-    "size": 4687632
+    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/OOPL1nCG/c2me-fabric-mc1.21.11-0.4.0-alpha.0.19.jar",
+    "filename": "c2me-fabric-mc1.21.11-0.4.0-alpha.0.19.jar",
+    "sha512": "6d0381025da64ce608e3a64b65bd06fa597e1e275d07aac4821e5352b2e1fe3dacb90da2b29bf2122fe4dfdcf363338da053b7074e60bd261f0f9aff6c892e07",
+    "sha1": "9e87a1d9066f8b4c6eee20e6556834e20c7cc1e8",
+    "size": 3777364
   },
   "explicit": true,
   "dependencies": []

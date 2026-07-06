@@ -1,14 +1,15 @@
 {
   "project_id": "Bh37bMuy",
   "slug": "reeses-sodium-options",
-  "version_id": "yIgAFMna",
-  "version_number": "mc1.21.11-2.0.3+fabric",
+  "version_id": "a0OPChhe",
+  "version_number": "mc1.21.11-2.2.2+fabric",
   "side": "client",
   "file": {
-    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/yIgAFMna/reeses-sodium-options-fabric-2.0.3%2Bmc1.21.11.jar",
-    "filename": "reeses-sodium-options-fabric-2.0.3+mc1.21.11.jar",
-    "sha512": "13b54698be3cbecdcf544ff92186423652c6b1e91544864c979f51297a3159137f794db4e3ee21e0bae3abcf651bb4ecc0e2a5b4aa1eab1f1a81d6529fe82e59",
-    "sha1": "fb452b122fd72e8540d32fbe3df01cc34a45ce41"
+    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/a0OPChhe/reeses-sodium-options-fabric-2.2.2%2Bmc1.21.11.jar",
+    "filename": "reeses-sodium-options-fabric-2.2.2+mc1.21.11.jar",
+    "sha512": "a7f2c12a2613affc8731ac24781d5ae8e3d4502de2463081bdf638a5d75b5308c4a8202b4d444e0effc095a66c8d8401e98cd6e7e7bdf19a00ebeca3e8b7468b",
+    "sha1": "725fb4ec98f5501b09e99c641f2d1e971438fe36",
+    "size": 257849
   },
   "explicit": true,
   "dependencies": [

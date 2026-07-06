@@ -1,20 +1,20 @@
 {
   "project_id": "Wq5SjeWM",
   "slug": "fancymenu",
-  "version_id": "vKTyaZIK",
-  "version_number": "3.9.1-1.21.11-fabric",
+  "version_id": "UvucrFQM",
+  "version_number": "3.9.6-1.21.11-fabric",
   "side": "both",
   "file": {
-    "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/vKTyaZIK/fancymenu_fabric_3.9.1_MC_1.21.11.jar",
-    "filename": "fancymenu_fabric_3.9.1_MC_1.21.11.jar",
-    "sha512": "3a8d62e5b89f6852bc42d4f6493e2916984c1317bd39642a0431b593c22b8a29f6e81f1c88f822b4990982fa011c792c79c9bacf68a33b43f8f1b69ac17079dd",
-    "sha1": "6088dfa3d0f37acf3003321b3e6fcdeaa9a80af4",
-    "size": 25668026
+    "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/UvucrFQM/fancymenu_fabric_3.9.6_MC_1.21.11.jar",
+    "filename": "fancymenu_fabric_3.9.6_MC_1.21.11.jar",
+    "sha512": "bb9e32d9102e69b3bbb483adbec4b1e33f48e5ca08e79b11cd0e6431b08bc479f19f32c29fbae2dcb12b5a9591972b80df2dcc5091f7397bf3f400e4d342a3be",
+    "sha1": "27374450f6216108f4069cf35eaa90cc218fb908",
+    "size": 25676643
   },
   "explicit": true,
   "dependencies": [
+    "CVT4pFB2",
     "J81TRJWm",
-    "P7dR8mSH",
-    "CVT4pFB2"
+    "P7dR8mSH"
   ]
 }

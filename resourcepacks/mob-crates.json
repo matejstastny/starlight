@@ -1,15 +1,15 @@
 {
   "project_id": "bYcjtBki",
   "slug": "mob-crates",
-  "version_id": "EhCbAhZB",
-  "version_number": "26.1_v2.3",
+  "version_id": "zwHXYfgU",
+  "version_number": "26.2_v2.4",
   "side": "client",
   "file": {
-    "url": "https://cdn.modrinth.com/data/bYcjtBki/versions/EhCbAhZB/MobCrates_26.1_v2.3.zip",
-    "filename": "MobCrates_26.1_v2.3.zip",
-    "sha512": "69c49d82ffda7f62436527da46273e0b0061dc232580aa96568074ea6c93a75685fbd9c688ba78d01efe8e3edc34ffea508483fb3d6733612928024ebcafa88a",
-    "sha1": "636e2b5514e1e8cb9266727e0f93f654070522b7",
-    "size": 287387
+    "url": "https://cdn.modrinth.com/data/bYcjtBki/versions/zwHXYfgU/MobCrates_26.2_v2.4.zip",
+    "filename": "MobCrates_26.2_v2.4.zip",
+    "sha512": "5e48b36f1ffeb342aa5698ccc7a1733aa04dd70175d5f4a5ba5f1a94aa2999d6175699ea42092e6d72d5fd3c97cf9c364597bfe90ab112010addacbf53d6221b",
+    "sha1": "4232c6448507c4d85558d0a403637f2f15810b76",
+    "size": 291545
   },
   "explicit": true,
   "dependencies": []
