@@ -85,7 +85,7 @@
     "breakingRestrictionMode": "line",
     "elytraCameraIndicator": "with_key",
     "entityTypeAttackRestrictionWarn": "message",
-    "placementRestrictionMode": "plane",
+    "placementRestrictionMode": "face",
     "hotbarSwapOverlayAlignment": "bottom_right",
     "rocketSwapAllowExplosions": {
       "enabled": false,
@@ -215,6 +215,14 @@
         "keys": ""
       }
     },
+    "toolSwapPickaxeOverride": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "translationLanguage": "en_us",
+    "translationMode": "vanilla",
     "weaponSwapBetterEnchants": {
       "enabled": false,
       "hotkey": {
@@ -453,6 +461,7 @@
       "minecraft:water_bucket"
     ],
     "handRestockWhiteList": [],
+    "pickaxeOverride": [],
     "potionWarningBlackList": [
       "minecraft:hunger",
       "minecraft:mining_fatigue",
@@ -606,7 +615,19 @@
         "keys": ""
       }
     },
+    "disableFireOverlay": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "disableFirstPersonEffectParticles": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableFreezeOverlay": {
       "enabled": false,
       "hotkey": {
         "keys": ""
@@ -631,12 +652,6 @@
       }
     },
     "disableNauseaEffect": {
-      "enabled": false,
-      "hotkey": {
-        "keys": ""
-      }
-    },
-    "disableNetherFog": {
       "enabled": false,
       "hotkey": {
         "keys": ""
@@ -833,7 +848,13 @@
     "disableFallingBlockEntityRendering": {
       "keys": ""
     },
+    "disableFireOverlay": {
+      "keys": ""
+    },
     "disableFirstPersonEffectParticles": {
+      "keys": ""
+    },
+    "disableFreezeOverlay": {
       "keys": ""
     },
     "disableInventoryEffectRendering": {
@@ -846,9 +867,6 @@
       "keys": ""
     },
     "disableNauseaEffect": {
-      "keys": ""
-    },
-    "disableNetherFog": {
       "keys": ""
     },
     "disableNetherPortalSound": {
@@ -923,7 +941,7 @@
     "tweakAreaSelector": false,
     "tweakAutoSwitchElytra": false,
     "tweakAutoSwitchRockets": false,
-    "§6tweakBlockReachOverride§r": false,
+    "tweakBlockReachOverride": false,
     "tweakBlockTypeBreakRestriction": false,
     "tweakBreakingGrid": false,
     "tweakBreakingRestriction": false,
@@ -937,9 +955,9 @@
     "tweakCustomInventoryScreenScale": false,
     "tweakDarknessVisibility": false,
     "tweakElytraCamera": false,
-    "§6tweakEntityReachOverride§r": false,
+    "tweakEntityReachOverride": false,
     "tweakEntityTypeAttackRestriction": false,
-    "§6tweakEmptyShulkerBoxesStack§r": false,
+    "tweakEmptyShulkerBoxesStack": false,
     "tweakExplosionReducedParticles": false,
     "tweakF3Cursor": false,
     "tweakFakeSneaking": false,
@@ -947,7 +965,7 @@
     "tweakFastBlockPlacement": false,
     "tweakFastLeftClick": false,
     "tweakFastRightClick": false,
-    "§6tweakFillCloneLimit§r": false,
+    "tweakFillCloneLimit": false,
     "tweakFlySpeed": false,
     "tweakFlexibleBlockPlacement": true,
     "tweakFreeCamera": false,
@@ -960,7 +978,7 @@
     "tweakHotbarSlotCycle": false,
     "tweakHotbarSlotRandomizer": false,
     "tweakHotbarSwap": false,
-    "§6tweakInventoryPreview§r": false,
+    "tweakInventoryPreview": false,
     "tweakItemUnstackingProtection": false,
     "tweakLavaVisibility": false,
     "tweakMapPreview": false,
@@ -986,7 +1004,7 @@
     "tweakRenderLimitEntities": false,
     "tweakRepairMode": false,
     "tweakScaffoldPlace": false,
-    "§6tweakSculkPulseLength§r": false,
+    "tweakSculkPulseLength": false,
     "tweakSelectiveBlocksRendering": false,
     "tweakSelectiveBlocksRenderOutline": false,
     "tweakShulkerBoxDisplay": false,
@@ -996,7 +1014,7 @@
     "tweakSneak_1.15.2": false,
     "tweakSpectatorTeleport": false,
     "tweakSpyglassUsesTweakZoom": false,
-    "§6tweakStructureBlockLimit§r": false,
+    "tweakStructureBlockLimit": false,
     "tweakSwapAlmostBrokenTools": false,
     "tweakTabCompleteCoordinate": false,
     "tweakToolSwitch": false,
@@ -1027,7 +1045,7 @@
     "tweakAutoSwitchRockets": {
       "keys": ""
     },
-    "§6tweakBlockReachOverride§r": {
+    "tweakBlockReachOverride": {
       "keys": ""
     },
     "tweakBlockTypeBreakRestriction": {
@@ -1069,13 +1087,13 @@
     "tweakElytraCamera": {
       "keys": ""
     },
-    "§6tweakEntityReachOverride§r": {
+    "tweakEntityReachOverride": {
       "keys": ""
     },
     "tweakEntityTypeAttackRestriction": {
       "keys": ""
     },
-    "§6tweakEmptyShulkerBoxesStack§r": {
+    "tweakEmptyShulkerBoxesStack": {
       "keys": ""
     },
     "tweakExplosionReducedParticles": {
@@ -1099,7 +1117,7 @@
     "tweakFastRightClick": {
       "keys": ""
     },
-    "§6tweakFillCloneLimit§r": {
+    "tweakFillCloneLimit": {
       "keys": ""
     },
     "tweakFlySpeed": {
@@ -1138,7 +1156,7 @@
     "tweakHotbarSwap": {
       "keys": ""
     },
-    "§6tweakInventoryPreview§r": {
+    "tweakInventoryPreview": {
       "keys": ""
     },
     "tweakItemUnstackingProtection": {
@@ -1216,7 +1234,7 @@
     "tweakScaffoldPlace": {
       "keys": ""
     },
-    "§6tweakSculkPulseLength§r": {
+    "tweakSculkPulseLength": {
       "keys": ""
     },
     "tweakSelectiveBlocksRendering": {
@@ -1246,7 +1264,7 @@
     "tweakSpyglassUsesTweakZoom": {
       "keys": ""
     },
-    "§6tweakStructureBlockLimit§r": {
+    "tweakStructureBlockLimit": {
       "keys": ""
     },
     "tweakSwapAlmostBrokenTools": {

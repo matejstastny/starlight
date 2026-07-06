@@ -110,6 +110,11 @@
       "entity": true,
       "entity_variant": true
     },
+    "reputation": {
+      "iron_golem": true,
+      "villager_snitch": true,
+      "villager_reputation": true
+    },
     "jade": {
       "coordinates.rel": false,
       "mod_name.translated": true,
@@ -135,7 +140,9 @@
       -328218781,
       -461566976,
       481050641,
-      -1343800581
+      -1343800581,
+      676841016,
+      -927566256
     ]
   }
 }

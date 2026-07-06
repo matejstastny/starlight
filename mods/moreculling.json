@@ -1,0 +1,18 @@
+{
+  "project_id": "51shyZVL",
+  "slug": "moreculling",
+  "version_id": "wOzykoLV",
+  "version_number": "1.6.2",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/wOzykoLV/moreculling-fabric-1.21.11-1.6.2.jar",
+    "filename": "moreculling-fabric-1.21.11-1.6.2.jar",
+    "sha512": "58cec88e84835c543d8604411f89a0984abe51f0332860354355ede290d2442fc33a86ecda1766e0b1a82ba4edfab27f3c9f6855c0af3234e200218b892756f2",
+    "sha1": "11a929de62650cc536244d4c2ba889fa84c1c0f2",
+    "size": 340975
+  },
+  "explicit": true,
+  "dependencies": [
+    "9s6osm5g"
+  ]
+}

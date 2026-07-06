@@ -1,0 +1,18 @@
+{
+  "project_id": "m5T5xmUy",
+  "slug": "bettergrassify",
+  "version_id": "kCu7aUmj",
+  "version_number": "1.8.7+fabric.1.21.11",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/m5T5xmUy/versions/kCu7aUmj/BetterGrassify-1.8.7%2Bfabric.1.21.11.jar",
+    "filename": "BetterGrassify-1.8.7+fabric.1.21.11.jar",
+    "sha512": "0ad59c792499457fce7b4c992af4b9595e1a142a2b5278b4497737c3b5ac0a93a48a2b081f729320f10d96a27f2c7a998c7991fa1e5f2d99d697973f4d625816",
+    "sha1": "7169f35f91ddaf3d9989de45f46072247c37e05c",
+    "size": 88975
+  },
+  "explicit": true,
+  "dependencies": [
+    "P7dR8mSH"
+  ]
+}

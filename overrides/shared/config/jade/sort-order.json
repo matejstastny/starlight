@@ -61,5 +61,8 @@
   "minecraft:total_enchantment_power": null,
   "minecraft:villager_profession": null,
   "minecraft:waxed": null,
-  "minecraft:zombie_villager": null
+  "minecraft:zombie_villager": null,
+  "reputation:iron_golem": null,
+  "reputation:villager_reputation": null,
+  "reputation:villager_snitch": null
 }

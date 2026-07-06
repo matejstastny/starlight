@@ -1,0 +1,16 @@
+{
+  "project_id": "pJogNFap",
+  "slug": "paginatedadvancements",
+  "version_id": "wXMkMWnp",
+  "version_number": "2.8.0+1.21.11",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/pJogNFap/versions/wXMkMWnp/paginatedadvancements-2.8.0%2B1.21.11.jar",
+    "filename": "paginatedadvancements-2.8.0+1.21.11.jar",
+    "sha512": "0dc5340ac9a1487ace42faa07c46e974a0771263f598398fbea10dccf608e5b344ec19b74b8f1ee7adceb754087c5d0bfac924b12ccbb933e4dc5051e3a87d34",
+    "sha1": "ac6c5721f567e679f3406b12c96c15a1341cb586",
+    "size": 80039
+  },
+  "explicit": true,
+  "dependencies": []
+}

@@ -1,0 +1,18 @@
+{
+  "project_id": "ohNO6lps",
+  "slug": "forge-config-api-port",
+  "version_id": "uXrWPsCu",
+  "version_number": "21.11.1",
+  "side": "both",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/uXrWPsCu/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
+    "filename": "ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
+    "sha512": "28791c992d613da14b8685505d3ef632ed53b5f1e1d517f0b41677d10f8419f192dfbde991308df6cda5d0f113c0aa8fc18ecf4a0834029403b16d2f68dc52d6",
+    "sha1": "61aa1b5fafd75afc44552d0213cac39bc938bc2d",
+    "size": 598009
+  },
+  "explicit": false,
+  "dependencies": [
+    "P7dR8mSH"
+  ]
+}

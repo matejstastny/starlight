@@ -18,6 +18,7 @@
         "show_fast_rename_checkbox": {
             "value": false
         },
+        "continuous_crafting_saved_value": false,
         "show_regular_sort_button": {
             "value": false
         },
@@ -31,13 +32,6 @@
     },
     "SortSettings": {
         "sort_order": "ACCUMULATED_COUNT_DESCENDING"
-    },
-    "LockedSlotsSettings": {
-        "lock_slots_switch_config_modifier": {
-            "main": {
-                "keys": "LEFT_SUPER"
-            }
-        }
     },
     "AutoRefillSettings": {
         "ignore_locked_slots": false,

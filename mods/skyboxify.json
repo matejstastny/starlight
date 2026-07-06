@@ -1,0 +1,18 @@
+{
+  "project_id": "DWuwk8aA",
+  "slug": "skyboxify",
+  "version_id": "cFlOxVHf",
+  "version_number": "3.1",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/DWuwk8aA/versions/cFlOxVHf/skyboxify-3.1%2B1.21.11-fabric.jar",
+    "filename": "skyboxify-3.1+1.21.11-fabric.jar",
+    "sha512": "580af083a4859f92e2689fd722ab4a5203bf4889ed08464f12681738ab20e5f7c1b8f4ba0abb4f5aa2aeb55d629079aa773eafc2b60252bc0fecf3f3738b8e8f",
+    "sha1": "5134041fb98b342829bbef16a0c3f72bc3c54112",
+    "size": 303410
+  },
+  "explicit": true,
+  "dependencies": [
+    "P7dR8mSH"
+  ]
+}

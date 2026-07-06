@@ -1,0 +1,19 @@
+{
+  "project_id": "LDDiefBA",
+  "slug": "fast-quit",
+  "version_id": "HLqUKOEa",
+  "version_number": "1.0",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/LDDiefBA/versions/HLqUKOEa/Fast-Quit-1.0.jar",
+    "filename": "Fast-Quit-1.0.jar",
+    "sha512": "946987a7cfd093e6477771b4babb36f660dc0a673a78dc027796d045ec7eb33715cc8fb7b99531074f88ea3b8882e1484512b600894a48d6cb4ba5e3de813b3e",
+    "sha1": "331fc7273d93b7daaab6e2893dbb9f3ffcff7e2f",
+    "size": 7855
+  },
+  "explicit": true,
+  "dependencies": [
+    "P7dR8mSH",
+    "9s6osm5g"
+  ]
+}

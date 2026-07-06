@@ -1,0 +1,6 @@
+{
+  "include_zombie_villagers": false,
+  "include_wandering_traders": false,
+  "remove_hand_swing": false,
+  "pass_when_holding_sword": true
+}
