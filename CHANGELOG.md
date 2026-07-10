@@ -1,1 +1,1 @@
-Updated the mod 
+Updated the modpack to be optimized for Linux instead of MacOS as it was before, as I switched to Linux (ik selfish lol). Chore updated mods, cleaned up configs, and copied some configs from Fabulously optimized as their modpack is absolutely amazing.
