@@ -1,19 +1,19 @@
 {
   "project_id": "mOgUt4GM",
   "slug": "modmenu",
-  "version_id": "Tyk71iSw",
-  "version_number": "17.0.0",
+  "version_id": "j2vTurvl",
+  "version_number": "17.0.1-beta.1",
   "side": "client",
   "file": {
-    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/Tyk71iSw/modmenu-17.0.0.jar",
-    "filename": "modmenu-17.0.0.jar",
-    "sha512": "146f8c356f86c32e5aab76598e021ac123779c89fc7a51a486fccd2871d2751b02046b4eea3194e52f2e7f38abbb5f78301c8f49bde6e60e1839677db9c84e33",
-    "sha1": "544a8b340ac3918d85bcc7d02eaff5372814354b",
-    "size": 1115809
+    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/j2vTurvl/modmenu-17.0.1-beta.1.jar",
+    "filename": "modmenu-17.0.1-beta.1.jar",
+    "sha512": "41dfe92fd56928974635e90579eb08aee056ebfce52b80658e4a12288a57d18ec909107e3f3d1af5eae2f98e55fb16aa929e67f47d8aa5040fc44c548cadf3a2",
+    "sha1": "3fdcb2b8ec85ebdab1c344f0eec19ddf37512ca1",
+    "size": 958351
   },
   "explicit": true,
   "dependencies": [
-    "eXts2L7r",
-    "P7dR8mSH"
+    "P7dR8mSH",
+    "eXts2L7r"
   ]
 }

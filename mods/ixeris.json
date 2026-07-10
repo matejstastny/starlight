@@ -1,15 +1,15 @@
 {
   "project_id": "p8RJPJIC",
   "slug": "ixeris",
-  "version_id": "W2pqKeWq",
-  "version_number": "4.5.1+1.21.11-fabric",
+  "version_id": "pVkPZGzG",
+  "version_number": "4.5.2+1.21.11-fabric",
   "side": "client",
   "file": {
-    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/W2pqKeWq/Ixeris-4.5.1%2B1.21.11-fabric.jar",
-    "filename": "Ixeris-4.5.1+1.21.11-fabric.jar",
-    "sha512": "9298868308d97c17938f387fee88bc16244b2fc112e6d07d4dfe80d5e6fae74beacd49bb419b01de8b39769decc4a3dcef1fa338e7ce43cf1d92256986a26ac1",
-    "sha1": "f015044347a81af6e749047d0354c999cf3e17d5",
-    "size": 723353
+    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/pVkPZGzG/Ixeris-4.5.2%2B1.21.11-fabric.jar",
+    "filename": "Ixeris-4.5.2+1.21.11-fabric.jar",
+    "sha512": "6be28a4cc101cc88458f8d4d386b91336cbef5ddd03d9ee2fdf819a2de6c2a802c95c96b9058b116d305219bfc02bd4eb0749a57534ecc52f265803f05e0152e",
+    "sha1": "64da6c204a1a2af10b189dc96d15837e496e41c2",
+    "size": 724107
   },
   "explicit": true,
   "dependencies": []
