@@ -33,7 +33,7 @@
     "easyPlaceClickAdjacent": false,
     "easyPlaceFirst": true,
     "easyPlaceHoldEnabled": true,
-    "easyPlaceMode": false,
+    "easyPlaceMode": true,
     "easyPlacePostRewrite": false,
     "easyPlaceSinglePlayerHandling": true,
     "easyPlaceSinglePlayerValidation": true,
@@ -49,7 +49,6 @@
     },
     "entityDataSyncBackup": true,
     "entityDataSyncCacheTimeout": 2.0,
-    "entityDataSyncLoadNbt": true,
     "executeRequireHoldingTool": true,
     "fixChestMirror": true,
     "fixRailRotation": true,
@@ -187,7 +186,7 @@
       "keys": "M,C"
     },
     "operationModeChangeModifier": {
-      "keys": "LEFT_CONTROL"
+      "keys": "LEFT_ALT"
     },
     "pickBlockFirst": {
       "keys": ""
@@ -371,13 +370,13 @@
   },
   "Visuals": {
     "enableRendering": {
-      "enabled": false,
+      "enabled": true,
       "hotkey": {
         "keys": ""
       }
     },
     "enableSchematicRendering": {
-      "enabled": false,
+      "enabled": true,
       "hotkey": {
         "keys": ""
       }

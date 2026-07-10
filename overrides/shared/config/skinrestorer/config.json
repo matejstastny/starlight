@@ -7,7 +7,9 @@
     "autoFetch": {
       "enabled": true,
       "overrideExisting": false,
-      "provider": "mojang"
+      "providers": [
+        "mojang"
+      ]
     }
   },
   "request": {
@@ -53,5 +55,5 @@
     },
     "custom": []
   },
-  "version": 2
+  "version": 3
 }

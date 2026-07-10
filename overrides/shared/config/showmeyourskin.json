@@ -1,0 +1,44 @@
+{
+  "globalEnabled": true,
+  "overridesEnabledInServerMode": false,
+  "combatCooldown": 16.0,
+  "fadeOutTime": 2.0,
+  "global": {
+    "head": {
+      "trim": true,
+      "base": true,
+      "glint": true
+    },
+    "chest": {
+      "trim": true,
+      "base": true,
+      "glint": true
+    },
+    "legs": {
+      "trim": true,
+      "base": true,
+      "glint": true
+    },
+    "feet": {
+      "trim": true,
+      "base": true,
+      "glint": true
+    },
+    "elytra": {
+      "base": true,
+      "glint": true
+    },
+    "shield": {
+      "base": true,
+      "glint": true
+    },
+    "hat": {
+      "base": true,
+      "glint": true
+    },
+    "showInCombat": true,
+    "showNameTag": true,
+    "forceElytraWhenFlying": true
+  },
+  "overrides": {}
+}

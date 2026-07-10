@@ -1,5 +1,7 @@
 {
-  "last_directories": {},
+  "last_directories": {
+    "schematic_load": "/home/elara/.local/share/PrismLauncher/instances/Starlight-v2.2.1-mc1.21.11-azalea-dev/minecraft/schematics/Chromoss Archive By Shadowed/1x1 Cubes"
+  },
   "create_placement_on_load": true,
-  "config_gui_tab": "GENERIC"
+  "config_gui_tab": "HOTKEYS"
 }

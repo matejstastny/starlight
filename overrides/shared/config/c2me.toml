@@ -59,16 +59,9 @@ threadPoolPriority = "default"
 		maxViewDistance = "default"
 
 [noTickViewDistance]
-	# (Default: 10) No-tick view distance max concurrent chunk loads 
+	# (Default: 15) No-tick view distance max concurrent chunk loads 
 	#  Lower this for a better latency and higher this for a faster loading
 	maxConcurrentChunkLoads = "default"
-	# (Default: true) Whether to attempt to smooth out chunk sending rate
-	# 
-	# Due to the nature of chunk loading and generation, chunks reach full status in bursts,
-	# which can cause frame time stability if the server also delivers chunks in a bursty way
-	# This config attempts to smooth out the bursty stream of chunks to help frame time stability
-	# 
-	smoothChunkSendingRate = "default"
 	# (Default: false) Whether to ensure correct chunks within normal render distance 
 	#  This will send chunks twice increasing network load
 	ensureChunkCorrectness = "default"
@@ -78,11 +71,12 @@ threadPoolPriority = "default"
 	# Requires Fabric API (currently available)
 	# 
 	enableExtRenderDistanceProtocol = "default"
-	# (Default: true) Whether to enable no-tick view distance
+	# (Default: 200) Applies a multiplier *in percentage* to the target chunk sending rate from vanilla
+	# Setting this to 0 disables rate limiting
 	# 
-	# Faster alternative implementation of simulation distance, and additionally support up to 65530 view distance
+	# Defaults to 200, which is 200%
 	# 
-	enabled = "default"
+	chunkSendingSpeedMultiplierPercentage = "default"
 
 [ioSystem]
 	# (Default: false) EXPERIMENTAL FEATURE
@@ -108,19 +102,6 @@ threadPoolPriority = "default"
 	# (Default: true) Whether to enable aquifer optimizations to accelerate overworld worldgen
 	# (may cause incompatibility with other mods)
 	optimizeAquifer = "default"
-	# (Default: true) Whether to use density function compiler to accelerate world generation
-	# 
-	# Density function: https://minecraft.wiki/w/Density_function
-	# 
-	# This functionality compiles density functions from world generation
-	# datapacks (including vanilla generation) to JVM bytecode to increase
-	# performance by allowing JVM JIT to better optimize the code
-	# 
-	# Currently, all functions provided by vanilla are implemented.
-	# Chunk upgrades from pre-1.18 versions are not implemented and will
-	# fall back to the unoptimized version of density functions.
-	# 
-	useDensityFunctionCompiler = "default"
 	# (Default: true) Whether to enable End Biome Cache to accelerate The End worldgen 
 	# This is no longer included in lithium-fabric 
 	# (may cause incompatibility with other mods)
@@ -213,3 +194,10 @@ threadPoolPriority = "default"
 	# in a single world instance
 	# 
 	allowPOIUnloading = "default"
+	# (Default: false) Whether to delay full chunk events to after full chunk future have been completed
+	# This restores the buggy behavior in NeoForge that the ecosystem have been relying on
+	# 
+	# Enabling this will almost certainly break vanilla behavior, disabled by default on fabric
+	# Do not change this unless you know what you are doing
+	# 
+	delayFullChunkEvents = "default"

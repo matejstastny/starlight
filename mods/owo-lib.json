@@ -1,0 +1,18 @@
+{
+  "project_id": "ccKDOlHs",
+  "slug": "owo-lib",
+  "version_id": "33Ei8Thm",
+  "version_number": "0.13.0+1.21.11",
+  "side": "both",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/33Ei8Thm/owo-lib-0.13.0%2B1.21.11.jar",
+    "filename": "owo-lib-0.13.0+1.21.11.jar",
+    "sha512": "acdd14f068a1751ec9e9baa4c6febc1a807a522ada80c2d999abf07e4a5693892fc92497f13043fbb7fc6e04c1eb42fb59a364a6ef813302f60833355a489c2e",
+    "sha1": "5baf520ec1e69210ee430a8413a6493cc402764d",
+    "size": 2254955
+  },
+  "explicit": false,
+  "dependencies": [
+    "P7dR8mSH"
+  ]
+}

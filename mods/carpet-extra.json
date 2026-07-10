@@ -1,0 +1,16 @@
+{
+  "project_id": "VX3TgwQh",
+  "slug": "carpet-extra",
+  "version_id": "aQr1yD5l",
+  "version_number": "1.4.185",
+  "side": "server",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/VX3TgwQh/versions/aQr1yD5l/carpet-extra-1.21.9-1.4.185.jar",
+    "filename": "carpet-extra-1.21.9-1.4.185.jar",
+    "sha512": "12b221e42bddeff937fb3573c56f10df6e6188d221485751090ecc53b93f9c224d7ad32ed984cd9d6d23e2946171888f2bf5dbc1387d5129094e316cd0d5d026",
+    "sha1": "3d067948d554eaee3cc1e9720dc04e0005284ddf",
+    "size": 172806
+  },
+  "explicit": true,
+  "dependencies": []
+}
