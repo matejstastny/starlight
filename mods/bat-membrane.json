@@ -1,0 +1,18 @@
+{
+  "project_id": "vz3NiXrd",
+  "slug": "bat-membrane",
+  "version_id": "YlbJtQa5",
+  "version_number": "v3.1.5+mod",
+  "side": "both",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/vz3NiXrd/versions/YlbJtQa5/bat-membrane-v3.1.5.jar",
+    "filename": "bat-membrane-v3.1.5.jar",
+    "sha512": "cd309fc875a4e012f43d8d85b199fe946ae531ca6f3b09ba85c2f9dc25d5126ceba00699290e9aa7a4be63d24717ca2d6bfc5bb4ccd4b1650008cbba48a156db",
+    "sha1": "d7253b7344eb2f70a490576d04ce37b1ebfe4a1d",
+    "size": 49325
+  },
+  "explicit": true,
+  "dependencies": [
+    "Lr1LVAwO"
+  ]
+}

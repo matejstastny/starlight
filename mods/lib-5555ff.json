@@ -1,0 +1,16 @@
+{
+  "project_id": "Lr1LVAwO",
+  "slug": "lib-5555ff",
+  "version_id": "1Qt19x6c",
+  "version_number": "v1.1.4+mod",
+  "side": "both",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/Lr1LVAwO/versions/1Qt19x6c/lib-5555ff-v1.1.4.jar",
+    "filename": "lib-5555ff-v1.1.4.jar",
+    "sha512": "d203d5adfd43066f51c251d398397ac82663797dd54c2b3d72e196711dd85ca2a08cb95605e3c4bddc31526735527a0274e6319e094ad679553bc2af17a84d11",
+    "sha1": "504595e71514542f340fdfcf29e5394a1eeab9bd",
+    "size": 1293144
+  },
+  "explicit": false,
+  "dependencies": []
+}
