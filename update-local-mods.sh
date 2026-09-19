@@ -7,6 +7,7 @@ DEST="$ROOT/overrides/shared/mods"
 MOD_DIRS=(
 	"$ROOT/../your-reputation"
 	"$ROOT/../global-villager-discounts"
+	"$ROOT/../dog-commands"
 )
 
 TARGET_MC_VERSION=$(jq -r '.minecraft_version' "$ROOT/azalea.json")
