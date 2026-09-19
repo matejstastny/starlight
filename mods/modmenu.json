@@ -1,15 +1,15 @@
 {
   "project_id": "mOgUt4GM",
   "slug": "modmenu",
-  "version_id": "j2vTurvl",
-  "version_number": "17.0.1-beta.1",
+  "version_id": "WdLLrOzD",
+  "version_number": "20.0.2",
   "side": "client",
   "file": {
-    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/j2vTurvl/modmenu-17.0.1-beta.1.jar",
-    "filename": "modmenu-17.0.1-beta.1.jar",
-    "sha512": "41dfe92fd56928974635e90579eb08aee056ebfce52b80658e4a12288a57d18ec909107e3f3d1af5eae2f98e55fb16aa929e67f47d8aa5040fc44c548cadf3a2",
-    "sha1": "3fdcb2b8ec85ebdab1c344f0eec19ddf37512ca1",
-    "size": 958351
+    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/WdLLrOzD/modmenu-20.0.2.jar",
+    "filename": "modmenu-20.0.2.jar",
+    "sha512": "9baebd229ff5a0a377a0269f2a8783dd9bde682b0773d9ce380dedf61b214676f1d13b9904e84403afb418c13d3ee23c3120e09032c53cb4c762091af1a4b0fb",
+    "sha1": "4e02b8bfb7f4eb693f22b611b02bc2b7385614a7",
+    "size": 616610
   },
   "explicit": true,
   "dependencies": [

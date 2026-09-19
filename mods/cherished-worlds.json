@@ -1,15 +1,15 @@
 {
   "project_id": "3azQ6p0W",
   "slug": "cherished-worlds",
-  "version_id": "DqsFlkZr",
-  "version_number": "15.2.0+1.21.11",
+  "version_id": "VhoXPFdC",
+  "version_number": "17.0.0+26.2",
   "side": "client",
   "file": {
-    "url": "https://cdn.modrinth.com/data/3azQ6p0W/versions/DqsFlkZr/cherishedworlds-fabric-15.2.0%2B1.21.11.jar",
-    "filename": "cherishedworlds-fabric-15.2.0+1.21.11.jar",
-    "sha512": "f975bd50726bdab5b23dc35488bafdcce16348641d2949c6ce47727bf20848e65aafe7538778f318ff87f419e4f160af9762090d3961b1b62df0d869d7a73501",
-    "sha1": "752ff65385e4fd665a4924fd1a9ff7272999b09c",
-    "size": 582894
+    "url": "https://cdn.modrinth.com/data/3azQ6p0W/versions/VhoXPFdC/cherishedworlds-fabric-17.0.0%2B26.2.jar",
+    "filename": "cherishedworlds-fabric-17.0.0+26.2.jar",
+    "sha512": "f2d1482ee9c4e8e725e21fbc0168baee9f77ccaf606ec831e2ab5a49accb6eb8e4c352798e63f33c02a57ca8e728c946f7e3ed0dbc2a11c44d0d7810d9f4189d",
+    "sha1": "78510781000844c1d8893f0b24324587d145a838",
+    "size": 590802
   },
   "explicit": true,
   "dependencies": [

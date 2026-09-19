@@ -1,15 +1,15 @@
 {
   "project_id": "1bokaNcj",
   "slug": "xaeros-minimap",
-  "version_id": "z6442Xnl",
-  "version_number": "fabric-1.21.11-26.2.0",
+  "version_id": "VlMbRW2O",
+  "version_number": "fabric-26.2-26.5.1",
   "side": "both",
   "file": {
-    "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/z6442Xnl/xaerominimap-fabric-1.21.11-26.2.0.jar",
-    "filename": "xaerominimap-fabric-1.21.11-26.2.0.jar",
-    "sha512": "6b9e28081f300ede43c8cb3cbd410277a704ecdeb7a2b77fa7f1a746dbc4a09652a1a91a328e4e1d523a9edc94ae9817f29c9e0f0fefe6f78d2d8dd23ce8e3d7",
-    "sha1": "7a3d174fd12c0406db8a8106b3d76c655e86b207",
-    "size": 2190380
+    "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/VlMbRW2O/xaerominimap-fabric-26.2-26.5.1.jar",
+    "filename": "xaerominimap-fabric-26.2-26.5.1.jar",
+    "sha512": "ceee38ce9f7dac967b7ff42eb940c00cc50596b0d9da8401a59b55be904fee703d91a72ea00d0e235f33c7fe5d75f7804ac055de92d34b0873cbc1043a101c0d",
+    "sha1": "97fb08e926a341c9c546879c25b1e1f32215dfc9",
+    "size": 2221890
   },
   "explicit": true,
   "dependencies": [

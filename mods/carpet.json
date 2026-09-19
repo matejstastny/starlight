@@ -1,15 +1,16 @@
 {
   "project_id": "TQTTVgYE",
   "slug": "carpet",
-  "version_id": "HzPcczDK",
-  "version_number": "1.4.194",
+  "version_id": "bGrLxJ8v",
+  "version_number": "26.2",
   "side": "both",
   "file": {
-    "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/HzPcczDK/fabric-carpet-1.21.11-1.4.194%2Bv251223.jar",
-    "filename": "fabric-carpet-1.21.11-1.4.194+v251223.jar",
-    "sha512": "1135807e44b34a628c89674a4df94d617120aea932c24c7d4a375410103884e94713b4252d29035d1722d149cc65465afef24eafbfc476c51bc64b6fffff57e0",
-    "sha1": "7825091272979cd8ed4f88f13408fdbba08f9e8d"
+    "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/bGrLxJ8v/fabric-carpet-26.2%2Bv260616.jar",
+    "filename": "fabric-carpet-26.2+v260616.jar",
+    "sha512": "8b8fac6979bd3153f5cfb4faa6bab52e1357eab814492a6658f3c0e1ac2856ad37a626c0a03a0839c39abb7bf56661f77b09d05d10ac01173bcdd373a33c6265",
+    "sha1": "cf66116e59f7fc68a8d9287c619067c685539df1",
+    "size": 1536362
   },
-  "explicit": true,
+  "explicit": false,
   "dependencies": []
 }

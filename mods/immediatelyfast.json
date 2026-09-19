@@ -1,15 +1,15 @@
 {
   "project_id": "5ZwdcRci",
   "slug": "immediatelyfast",
-  "version_id": "4EwhsTu7",
-  "version_number": "1.14.3+1.21.11-fabric",
+  "version_id": "pMWERcSu",
+  "version_number": "1.16.5+26.2-fabric",
   "side": "client",
   "file": {
-    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/4EwhsTu7/ImmediatelyFast-Fabric-1.14.3%2B1.21.11.jar",
-    "filename": "ImmediatelyFast-Fabric-1.14.3+1.21.11.jar",
-    "sha512": "2564cb28259352c3aa5759aceca62667de08a7860a40910dad40a043af851a074b2d75cef50b9fa6f1971febb3a5ecebe4067cbd4b60e63ef711b85f4bc21407",
-    "sha1": "43e451464f979bdf9ff4ac288b358a2f91b79ed8",
-    "size": 302709
+    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/pMWERcSu/ImmediatelyFast-Fabric-1.16.5%2B26.2.jar",
+    "filename": "ImmediatelyFast-Fabric-1.16.5+26.2.jar",
+    "sha512": "5836b089072c0fd796613d42c3bd01c7e401b6ad53de80328bb9d74d585de9be0ff0cfc4d6ffa1ed41008750573b0525eff8c064162a2f724ad16817a8fdaf22",
+    "sha1": "0286260261591fe77ba0d332d5d5a2d2e868c2c6",
+    "size": 100500
   },
   "explicit": true,
   "dependencies": []

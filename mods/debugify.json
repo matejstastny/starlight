@@ -1,19 +1,16 @@
 {
   "project_id": "QwxR6Gcd",
   "slug": "debugify",
-  "version_id": "xVevtAGn",
-  "version_number": "1.21.11+1.1",
+  "version_id": "V2I3yC58",
+  "version_number": "26.2.0.0",
   "side": "both",
   "file": {
-    "url": "https://cdn.modrinth.com/data/QwxR6Gcd/versions/xVevtAGn/debugify-1.21.11%2B1.1.jar",
-    "filename": "debugify-1.21.11+1.1.jar",
-    "sha512": "156732558bf7c6280c8cb59160fa3842a22da196c8dd3f6fba3ef8b07367c1c793a42e928ac9d53917e1d00e7cff7f72ae13f6e5f233bd32d0db31acd8b43cbd",
-    "sha1": "a8852a320c6d1a448cfc0f7cb0369e0a3c858146",
-    "size": 376878
+    "url": "https://cdn.modrinth.com/data/QwxR6Gcd/versions/V2I3yC58/debugify-26.2.0.0.jar",
+    "filename": "debugify-26.2.0.0.jar",
+    "sha512": "41999eeff94c6a69810d65571bb09cb49a6c29a1e134f49fe31fe826e41f7a6cf7997350fb0d175270fe10c81e5e6433738562f8a22a57725a6f76544414e396",
+    "sha1": "a1b34d3b6f069569df9ad99b1e40eb765f0baa06",
+    "size": 368634
   },
   "explicit": true,
-  "dependencies": [
-    "1eAoo2KR",
-    "P7dR8mSH"
-  ]
+  "dependencies": []
 }

@@ -1,19 +1,19 @@
 {
   "project_id": "TwYypE5e",
   "slug": "clearviews",
-  "version_id": "3fOqx0Bd",
-  "version_number": "2.0.6",
+  "version_id": "qpsakkze",
+  "version_number": "2.1.7+26.2",
   "side": "client",
   "file": {
-    "url": "https://cdn.modrinth.com/data/TwYypE5e/versions/3fOqx0Bd/clearviews-2.0.6%2B1.21.11-fabric.jar",
-    "filename": "clearviews-2.0.6+1.21.11-fabric.jar",
-    "sha512": "73c3e5a0a3aba5eb9c25d11a5237faaffae4f70dbff8b111f2972f65b381cd48bc93d88f88fcf73ba5571e2f494c6bc5578fb6bb6026b17b8b78cefd1ad19680",
-    "sha1": "a8a5795c7eb93ae89604e7820e18b26f80536bad"
+    "url": "https://cdn.modrinth.com/data/TwYypE5e/versions/qpsakkze/clearviews-2.1.7%2B26.2.jar",
+    "filename": "clearviews-2.1.7+26.2.jar",
+    "sha512": "1df42f4bec8a937548b4e431971cf592a9bae31872c3a04a2a7a8714ac79866dafb968d68b83024ff1e1cb3db7cc1b003c5f2a0802aea74b1b9845838e479af2",
+    "sha1": "80b018732e8db0552735637ce5c7e26f9628627f",
+    "size": 35869
   },
   "explicit": true,
   "dependencies": [
-    "1eAoo2KR",
     "P7dR8mSH",
-    "mOgUt4GM"
+    "1eAoo2KR"
   ]
 }

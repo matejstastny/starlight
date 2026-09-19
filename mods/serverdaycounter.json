@@ -1,16 +1,18 @@
 {
   "project_id": "ij6pO0iY",
   "slug": "serverdaycounter",
-  "version_id": "CTMjlPbH",
-  "version_number": "1.21+1.0.0-fabric",
+  "version_id": "HQenKYOX",
+  "version_number": "1.1.1+26.2",
   "side": "server",
   "file": {
-    "url": "https://cdn.modrinth.com/data/ij6pO0iY/versions/CTMjlPbH/ServerDayCounter-1.21%2B1.0.0-fabric.jar",
-    "filename": "ServerDayCounter-1.21+1.0.0-fabric.jar",
-    "sha512": "e748257d51e2878962bfdd3e12fb023823d73f022de8b68c74a8c9779b00f5362ad2bfcadd6477fb2e4ce185e8553b29845e7e000ab19cac779f5f1f85b22e81",
-    "sha1": "a858cf6649429ac145189de35d733e236c749627",
-    "size": 57200
+    "url": "https://cdn.modrinth.com/data/ij6pO0iY/versions/HQenKYOX/ServerDayCounter-1.1.1%2B26.2.jar",
+    "filename": "ServerDayCounter-1.1.1+26.2.jar",
+    "sha512": "6c5b378699673f0542c6b31e8adc411ac31c57c568cc5408a64994745c3e4ebdfa56a9d3e5e08f55e60f82ba788e889e28e38b7cbc0e92802879d9a22b4b108d",
+    "sha1": "3b3e09cf43130e220ec19536e5c680ee2ded5009",
+    "size": 66582
   },
   "explicit": true,
-  "dependencies": []
+  "dependencies": [
+    "P7dR8mSH"
+  ]
 }

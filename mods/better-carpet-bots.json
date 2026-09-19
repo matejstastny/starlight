@@ -1,0 +1,18 @@
+{
+  "project_id": "qpkdLIQ4",
+  "slug": "better-carpet-bots",
+  "version_id": "gWOJky8t",
+  "version_number": "1.3.1",
+  "side": "both",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/qpkdLIQ4/versions/gWOJky8t/better-carpet-bots-1.3.1.jar",
+    "filename": "better-carpet-bots-1.3.1.jar",
+    "sha512": "155633b91f24dcf8ae7c01641c86fc069236b61c3e9ab845cb9c6bdc0c6d12243d61dc09482e25de09447f76c5e9b3663dee5511f33569ac38f982b3e2d41bf7",
+    "sha1": "3b1e57e53b15ca3205033bd17227559b0d4e5754",
+    "size": 196099
+  },
+  "explicit": true,
+  "dependencies": [
+    "TQTTVgYE"
+  ]
+}

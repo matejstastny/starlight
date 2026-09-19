@@ -1,14 +1,15 @@
 {
   "project_id": "wF189hn9",
   "slug": "ukus-armor-hud",
-  "version_id": "ZDZWmIsH",
-  "version_number": "0.10.2+mc1.21.11",
+  "version_id": "K6G1JNFw",
+  "version_number": "0.12.0+mc26.2-fabric",
   "side": "client",
   "file": {
-    "url": "https://cdn.modrinth.com/data/wF189hn9/versions/ZDZWmIsH/ukus-armor-hud-0.10.2%2Bmc1.21.11.jar",
-    "filename": "ukus-armor-hud-0.10.2+mc1.21.11.jar",
-    "sha512": "eb5e7b09b101782e220cfab6e5f9791c0b1d9c668d84017080818febe2fac579acbc03855c000b60a27dc5b50b6a384646e1396c9b853554c5bcb97567b4d3ec",
-    "sha1": "e11951aab0ff32626feb48045da0574260784543"
+    "url": "https://cdn.modrinth.com/data/wF189hn9/versions/K6G1JNFw/ukus-armor-hud-fabric-0.12.0%2Bmc26.2.jar",
+    "filename": "ukus-armor-hud-fabric-0.12.0+mc26.2.jar",
+    "sha512": "d2e4d74bd27bbc6a1943a333e8887ee51b1fcc1585e4cbd4814a8e9c5f385f0417d74d653970087eb206177b3d8d43a70fbf476e3e3298d7c2a2b318c9f9eeea",
+    "sha1": "73e2e9a61258f55d03107cffd5531d397fd86b24",
+    "size": 49661
   },
   "explicit": true,
   "dependencies": [

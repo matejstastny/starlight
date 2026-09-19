@@ -1,15 +1,15 @@
 {
   "project_id": "ONZm0H7Y",
   "slug": "better-block-entities",
-  "version_id": "VTUyYQyY",
-  "version_number": "1.3.4+mc1.21.11",
+  "version_id": "Sr2VjbpG",
+  "version_number": "1.3.8-beta.1+mc26.2",
   "side": "client",
   "file": {
-    "url": "https://cdn.modrinth.com/data/ONZm0H7Y/versions/VTUyYQyY/bbe-fabric-1.3.4%2Bmc1.21.11.jar",
-    "filename": "bbe-fabric-1.3.4+mc1.21.11.jar",
-    "sha512": "1c8a513af8d9694cf9c41765cb8359aa3680ba9a1b8806d99c472ae325597db2c493a0389e602e3cf07b33c938b35012192504d5775c9cd3f308ab8c16376280",
-    "sha1": "e9f247278ef17128fbfcd2b0e248ac02a3de279b",
-    "size": 243720
+    "url": "https://cdn.modrinth.com/data/ONZm0H7Y/versions/Sr2VjbpG/bbe-fabric-1.3.8-beta.1%2Bmc26.2.jar",
+    "filename": "bbe-fabric-1.3.8-beta.1+mc26.2.jar",
+    "sha512": "c8b41ee9b3eac297d4e699cfb9b042bbc5895cc9e8fca2c1998743e4a59503ac079b5694704337a1d296e5ac3d418220649d6a50a740b15f21559eb7727b257c",
+    "sha1": "ec08648cdda68dc05bf8866289c046ddfefb09a2",
+    "size": 206826
   },
   "explicit": true,
   "dependencies": [

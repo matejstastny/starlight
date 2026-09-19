@@ -1,15 +1,15 @@
 {
   "project_id": "GcWjdA9I",
   "slug": "malilib",
-  "version_id": "oaU4Ys3J",
-  "version_number": "0.27.16",
+  "version_id": "KvjmGjAV",
+  "version_number": "0.29.6",
   "side": "client",
   "file": {
-    "url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/oaU4Ys3J/malilib-fabric-1.21.11-0.27.16.jar",
-    "filename": "malilib-fabric-1.21.11-0.27.16.jar",
-    "sha512": "a4cb460bfaf7eba4c0ad860216bed4cb96067ff53c064a0815fad35025e016608c695f60eec8b02544998394b7ad838a315c803bce5ddccadd7b7ee682f7416e",
-    "sha1": "fc6930259e301a878f35576ecf55a770be0b4089",
-    "size": 2080247
+    "url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/KvjmGjAV/malilib-fabric-26.2-0.29.6.jar",
+    "filename": "malilib-fabric-26.2-0.29.6.jar",
+    "sha512": "0fab398f835d9c4736dac65510f707c77a60be6e6051bfd008225c20a5ff13e146296da258bee551d39fa28102b8854d77fa25b2ecb6b0f89fb3c874bac563db",
+    "sha1": "8e4959313bec2d413ac898d1a030f1d73d419d5a",
+    "size": 2037195
   },
   "explicit": false,
   "dependencies": []

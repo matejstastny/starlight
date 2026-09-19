@@ -1,14 +1,15 @@
 {
   "project_id": "Y8uFrUil",
   "slug": "ukulib",
-  "version_id": "t9ZJ7RPT",
-  "version_number": "1.10.2+1.21.11",
+  "version_id": "olOAyH3N",
+  "version_number": "2.1.1+26.2-fabric",
   "side": "client",
   "file": {
-    "url": "https://cdn.modrinth.com/data/Y8uFrUil/versions/t9ZJ7RPT/ukulib-1.10.2%2B1.21.11.jar",
-    "filename": "ukulib-1.10.2+1.21.11.jar",
-    "sha512": "b910faa547c636a73d800d1b9afb66fe92fdfd33caf81a535057db04b814370898b36dce784b2fed8237965cea8c1e2f75871b91bf3c205bfd3382b64878c5a3",
-    "sha1": "8dfeaf1cacb1dce35c06489d99f193e538a3827f"
+    "url": "https://cdn.modrinth.com/data/Y8uFrUil/versions/olOAyH3N/ukulib-fabric-2.1.1%2B26.2.jar",
+    "filename": "ukulib-fabric-2.1.1+26.2.jar",
+    "sha512": "d996515191c6c36343607e28706c3036a5887f1be7fa1d0e59c09127fbd22e2be3da9a990be73196defd8ef4d75ac32d51b641bb17a51d19950ca9497e0702d7",
+    "sha1": "9ee183b0ed4ef105691ecfe99a00588acc3c086b",
+    "size": 456607
   },
   "explicit": false,
   "dependencies": []

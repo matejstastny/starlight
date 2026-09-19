@@ -1,14 +1,15 @@
 {
   "project_id": "eXts2L7r",
   "slug": "placeholder-api",
-  "version_id": "qxjzQ9xY",
-  "version_number": "2.8.2+1.21.10",
+  "version_id": "NDqH16LT",
+  "version_number": "3.1.0-beta.1+26.2",
   "side": "both",
   "file": {
-    "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/qxjzQ9xY/placeholder-api-2.8.2%2B1.21.10.jar",
-    "filename": "placeholder-api-2.8.2+1.21.10.jar",
-    "sha512": "507ab10b7938dcd14d33121b8462649bdbe575cef248e917dfdf7566078ab5d0195ca1add95eae4863de3f652eb56db0a8669a67d5b5344e094d086f9dab5a08",
-    "sha1": "bbdc920ecff993148cd6e81a208536132245ce40"
+    "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/NDqH16LT/placeholder-api-3.1.0-beta.1%2B26.2.jar",
+    "filename": "placeholder-api-3.1.0-beta.1+26.2.jar",
+    "sha512": "07b6fc802559d54ec6577f6e2788926ef391d755206c2bfb0528280977885cae4bc0c517d8a53eb6f34092015ebe6c41210627d255aa6504662daefa8fb76397",
+    "sha1": "99b57ccc1d4323c4ef71887828dac25ce4ce2103",
+    "size": 254973
   },
   "explicit": false,
   "dependencies": []

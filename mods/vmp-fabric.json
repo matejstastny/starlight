@@ -1,14 +1,15 @@
 {
   "project_id": "wnEe9KBa",
   "slug": "vmp-fabric",
-  "version_id": "7Cxc2cAR",
-  "version_number": "0.2.0+beta.7.227+1.21.11",
+  "version_id": "d6FfpWFI",
+  "version_number": "0.2.0+beta.7.236+26.2",
   "side": "both",
   "file": {
-    "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/7Cxc2cAR/vmp-fabric-mc1.21.11-0.2.0%2Bbeta.7.227-all.jar",
-    "filename": "vmp-fabric-mc1.21.11-0.2.0+beta.7.227-all.jar",
-    "sha512": "5534a5b0ec88b58f1a395753e4810dde9a8f0f97a88898f4b61e960bd219ec28ea60c6676d7ee24d5b465939a4ff9470520d9015bb9cdb10d9357ff82c36fdab",
-    "sha1": "6d665e488ea4f301d639cdf9fd4abf3ffdb44e0d"
+    "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/d6FfpWFI/vmp-fabric-mc26.2-0.2.0%2Bbeta.7.236-all.jar",
+    "filename": "vmp-fabric-mc26.2-0.2.0+beta.7.236-all.jar",
+    "sha512": "2e0fd87e66f35f00f634176d4072a6c6d1eee965d1817833709ad3ea73e4f2719fa152d5e95b5ab8216b064c7db124b7f13838ebea87d92f7a72df82839e9bd5",
+    "sha1": "dcf1295db267f7b519ecdd7d1c9499910c7e6fc0",
+    "size": 412247
   },
   "explicit": true,
   "dependencies": []

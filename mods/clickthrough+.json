@@ -1,14 +1,15 @@
 {
   "project_id": "fJi8nm80",
   "slug": "clickthrough+",
-  "version_id": "KwJ4yIqY",
-  "version_number": "3.6.2+1.21.11-fabric",
+  "version_id": "JMmN2bhs",
+  "version_number": "3.6.5+26.1.2-fabric",
   "side": "client",
   "file": {
-    "url": "https://cdn.modrinth.com/data/fJi8nm80/versions/KwJ4yIqY/clickthrough-plus-3.6.1%2B1.21.11-fabric.jar",
-    "filename": "clickthrough-plus-3.6.1+1.21.11-fabric.jar",
-    "sha512": "2c69a33d5c11fb622aa33d2112f62e14095df2484636440e2e108ea78e89dc105158383991dbe4996fbe84a76b352923374d3a4ad66c4fd53e78f2fcb5ea2878",
-    "sha1": "209cbd18f57fa2f0abfd9c945b99468648228798"
+    "url": "https://cdn.modrinth.com/data/fJi8nm80/versions/JMmN2bhs/clickthrough-plus-3.6.5%2B26.1.2-fabric.jar",
+    "filename": "clickthrough-plus-3.6.5+26.1.2-fabric.jar",
+    "sha512": "264f21a9b17b887498f4f156099295caece8febe9daefe75f27177b55b6eb52980d44f96dca231ed730f4b5af1a56c293f590a8efafb92b2d4f4f200d384018c",
+    "sha1": "f1775cbef16a286b9c0cc72e3d744388cf4c11de",
+    "size": 329755
   },
   "explicit": true,
   "dependencies": [

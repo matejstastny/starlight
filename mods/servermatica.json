@@ -1,0 +1,20 @@
+{
+  "project_id": "naOSjVGw",
+  "slug": "servermatica",
+  "version_id": "yow0XY77",
+  "version_number": "1.2.1",
+  "side": "both",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/naOSjVGw/versions/yow0XY77/servermatica-1.2.1.jar",
+    "filename": "servermatica-1.2.1.jar",
+    "sha512": "fc140ba08444f4a699592b238ad1e72ce2cf34a5d43d3300379134efbd5d8546aae1e878c8b01090ff618189e06e3564b1cb64df309a8b600cd567436a1c96dd",
+    "sha1": "d3e3e77366c09d642d407527531f13087aa2478a",
+    "size": 69302
+  },
+  "explicit": true,
+  "dependencies": [
+    "GcWjdA9I",
+    "bEpr0Arc",
+    "TQTTVgYE"
+  ]
+}
