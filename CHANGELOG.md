@@ -2,6 +2,17 @@
 
 ## [Current]
 
+## [2.3.0] - 2026-09-19
+
+- Updated to Minecraft 26.2 and Fabric loader 0.19.5, bumping all mods for compatibility
+- Added Better Carpet Bots & Servermatica (my mods) from Modrinth as they are now published
+- Replaced zoom mod to Zoomify
+- Removed Limitless Banners, Fancy Entity Renderer, Fast Quit, GDP, Refined Advancements cause of no 26.2 version
+- Replaced Greater Wolfs with my own mod Dog Commands because former not maintained
+- Overhauled the release process: `release.sh` now bumps the version and tags from the `[Current]` changelog section, and release notes are extracted per-version instead of posting the whole changelog
+- Added `update-configs.sh` and `update-local-mods.sh` helper scripts for syncing configs from the Prism Launcher instance and pulling in locally-built mods
+- Updated and cleaned up shared configs (Jade, Tweakeroo, MiniHUD, Sodium, Xaero's, FancyMenu title/pause screens, and others)
+
 ## [2.2.0] - 2026-07-10
 
 - Switched modpack optimization target from macOS to Linux
