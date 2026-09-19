@@ -45,6 +45,19 @@ jobs:
         id: release_tag
         run: echo "tag=${{ github.event.inputs.tag || github.ref_name }}" >> $GITHUB_OUTPUT
 
+      - name: Extract changelog
+        id: changelog
+        run: |
+          VERSION="${{ steps.validate.outputs.version }}"
+          VERSION="${VERSION#v}"
+          NOTES=$(awk -v ver="$VERSION" '
+            /^## \[/ { if (flag) exit; if (index($0, "## [" ver "]") == 1) flag=1; next }
+            flag { print }
+          ' CHANGELOG.md)
+          echo "notes<<EOF" >> $GITHUB_OUTPUT
+          printf '%s\n' "$NOTES" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
       - name: Build dist
         run: |
           azalea export
@@ -56,7 +69,7 @@ jobs:
           tag_name: ${{ steps.release_tag.outputs.tag }}
           name: Starlight ${{ steps.validate.outputs.version }} for MC ${{ steps.validate.outputs.minecraft }}
           generate_release_notes: true
-          body_path: CHANGELOG.md
+          body: ${{ steps.changelog.outputs.notes }}
           files: |
             dist/*.mrpack
             dist/*.zip
@@ -71,7 +84,7 @@ jobs:
           name: Starlight ${{ steps.validate.outputs.version }} for MC ${{ steps.validate.outputs.minecraft }}
           version: ${{ steps.release_tag.outputs.tag }}
           version-type: release
-          changelog-file: CHANGELOG.md
+          changelog: ${{ steps.changelog.outputs.notes }}
 
           loaders: fabric
           game-versions: ${{ steps.validate.outputs.minecraft }}
