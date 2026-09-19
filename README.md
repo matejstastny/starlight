@@ -90,6 +90,7 @@ This is the list of content with links and versions. Most of it comes from `Modr
 | [lithium](https://modrinth.com/project/lithium)                                                         | mod          | both   | mc26.2-0.25.3-fabric  |
 | [lower-shield](https://modrinth.com/project/lower-shield)                                               | resourcepack | client | 1.0                   |
 | [malilib](https://modrinth.com/project/malilib)                                                         | mod          | client | 0.29.6                |
+| [mcwifipnp](https://modrinth.com/project/mcwifipnp)                                                     | mod          | both   | 2.1.3                 |
 | [melody](https://modrinth.com/project/melody)                                                           | mod          | client | 1.0.17-26.2-fabric    |
 | [minihud](https://modrinth.com/project/minihud)                                                         | mod          | client | 0.40.7                |
 | [mob-crates](https://modrinth.com/project/mob-crates)                                                   | resourcepack | client | 26.2_v2.4             |
