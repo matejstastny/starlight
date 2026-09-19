@@ -2,6 +2,10 @@
 
 ## [Current]
 
+## [2.3.1] - 2026-09-19
+
+- Added mcwifipnp to allow offline LAN
+
 ## [2.3.0] - 2026-09-19
 
 - Updated to Minecraft 26.2 and Fabric loader 0.19.5, bumping all mods for compatibility
