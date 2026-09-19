@@ -20,14 +20,14 @@
     "infoSpeedAxis": 17,
     "infoSpeedHV": 18,
     "infoSprinting": 19,
-    "§6infoSculkWarningLevel§r": 20,
+    "infoSculkWarningLevel": 20,
     "infoServerTPS": 21,
-    "§6infoServux§r": 22,
+    "infoServux": 22,
     "infoPing": 23,
-    "§6infoWeather§r": 24,
+    "infoWeather": 24,
     "infoTimeTotalModulo": 25,
     "infoTimeDayModulo": 26,
-    "§6infoMobCaps§r": 27,
+    "infoMobCaps": 27,
     "infoParticleCount": 28,
     "infoDifficulty": 29,
     "infoEntities": 30,
@@ -46,10 +46,10 @@
     "infoLookingAtBlock": 43,
     "infoLookingAtBlockInChunk": 44,
     "infoBlockProperties": 45,
-    "§6infoBeeCount§r": 46,
-    "§6infoComparatorOutput§r": 47,
+    "infoBeeCount": 46,
+    "infoComparatorOutput": 47,
     "infoHoneyLevel": 48,
-    "§6infoFurnaceXp§r": 49,
+    "infoFurnaceXp": 49,
     "infoEntityRegistryName": 50,
     "infoLookingAtEntity": 51,
     "infoLookingAtEffects": 52,
@@ -92,6 +92,8 @@
     "shapeCanDespawnSphere": "#60A04050",
     "shapeCanSpawnSphere": "#60A04050",
     "shapeCircle": "#6030B0B0",
+    "shapeSquare": "#6030B0B0",
+    "shapeRhombus": "#60B030B0",
     "shapeCone": "#60FFAA00",
     "shapeDespawnSphere": "#60A04050",
     "shapeLineBlocky": "#6030F0B0",
@@ -121,6 +123,8 @@
     "customModelTooltips": false,
     "foodTooltips": false,
     "honeyTooltips": false,
+    "itemModelTooltips": false,
+    "itemModelTooltipsShowVanilla": false,
     "lodestoneTooltips": false,
     "biomeOverlaySingleColor": true,
     "bundlePreview": false,
@@ -177,6 +181,7 @@
     "structuresRenderThrough": false,
     "structuresRenderOutlines": false,
     "structuresRenderOutlinesWhite": false,
+    "displayFileOpsFeedback": false,
     "translationLanguage": "en_us",
     "translationMode": "vanilla",
     "useCustomizedCoordinateFormat": true,
@@ -219,6 +224,7 @@
     "dateFormatType": "regular",
     "dateFormatString": "yyyy-MM-dd HH:mm:ss",
     "dateFormatMinecraft": "MC time: (day {DAY}) {HOUR}:{MIN}:xx",
+    "displayEndClock": false,
     "durationFormatType": "pretty",
     "durationFormatString": "HH:mm:ss.SSS",
     "fontScale": 0.5,
@@ -281,14 +287,14 @@
     "infoSpeedAxis": false,
     "infoSpeedHV": false,
     "infoSprinting": false,
-    "§6infoSculkWarningLevel§r": false,
+    "infoSculkWarningLevel": false,
     "infoServerTPS": false,
-    "§6infoServux§r": false,
+    "infoServux": false,
     "infoPing": false,
-    "§6infoWeather§r": false,
+    "infoWeather": false,
     "infoTimeTotalModulo": false,
     "infoTimeDayModulo": false,
-    "§6infoMobCaps§r": false,
+    "infoMobCaps": false,
     "infoParticleCount": false,
     "infoDifficulty": false,
     "infoEntities": false,
@@ -307,10 +313,10 @@
     "infoLookingAtBlock": false,
     "infoLookingAtBlockInChunk": false,
     "infoBlockProperties": false,
-    "§6infoBeeCount§r": false,
-    "§6infoComparatorOutput§r": false,
+    "infoBeeCount": false,
+    "infoComparatorOutput": false,
     "infoHoneyLevel": false,
-    "§6infoFurnaceXp§r": false,
+    "infoFurnaceXp": false,
     "infoEntityRegistryName": false,
     "infoLookingAtEntity": false,
     "infoLookingAtEffects": false,
@@ -386,19 +392,19 @@
     "infoSprinting": {
       "keys": ""
     },
-    "§6infoSculkWarningLevel§r": {
+    "infoSculkWarningLevel": {
       "keys": ""
     },
     "infoServerTPS": {
       "keys": ""
     },
-    "§6infoServux§r": {
+    "infoServux": {
       "keys": ""
     },
     "infoPing": {
       "keys": ""
     },
-    "§6infoWeather§r": {
+    "infoWeather": {
       "keys": ""
     },
     "infoTimeTotalModulo": {
@@ -407,7 +413,7 @@
     "infoTimeDayModulo": {
       "keys": ""
     },
-    "§6infoMobCaps§r": {
+    "infoMobCaps": {
       "keys": ""
     },
     "infoParticleCount": {
@@ -464,16 +470,16 @@
     "infoBlockProperties": {
       "keys": ""
     },
-    "§6infoBeeCount§r": {
+    "infoBeeCount": {
       "keys": ""
     },
-    "§6infoComparatorOutput§r": {
+    "infoComparatorOutput": {
       "keys": ""
     },
     "infoHoneyLevel": {
       "keys": ""
     },
-    "§6infoFurnaceXp§r": {
+    "infoFurnaceXp": {
       "keys": ""
     },
     "infoEntityRegistryName": {
@@ -530,8 +536,8 @@
     "overlaySpawnableColumnHeights": false,
     "overlaySpawnChunkReal": false,
     "overlaySpawnChunkPlayer": false,
-    "§6overlayStructureMainToggle§r": false,
-    "§6overlayVillagerInfo§r": false,
+    "overlayStructureMainToggle": false,
+    "overlayVillagerInfo": false,
     "shapeRenderer": false,
     "debugChunkBorder": false,
     "debugEntityHitboxes": false,
@@ -548,20 +554,20 @@
     "debugChunkSectionOctree": false,
     "debugChunkSectionPaths": false,
     "debugChunkSectionVisibility": false,
-    "§6debugDataMainToggle§r": false,
-    "§6debugPathfindingEnabled§r": false,
-    "§6debugNeighborsUpdateEnabled§r": false,
-    "§6debugRedstoneUpdateOrder§r": false,
-    "§6debugStructuresEnabled§r": false,
-    "§6debugVillageSectionsEnabled§r": false,
-    "§6debugBrainEnabled§r": false,
-    "§6debugPoiEnabled§r": false,
-    "§6debugBeeDataEnabled§r": false,
-    "§6debugRaidCenterEnabled§r": false,
-    "§6debugGoalSelectorEnabled§r": false,
-    "§6debugGameEventsEnabled§r": false,
-    "§6debugBreezeJumpEnabled§r": false,
-    "§6debugEntityBlockIntersectionEnabled§r": false
+    "debugDataMainToggle": false,
+    "debugPathfindingEnabled": false,
+    "debugNeighborsUpdateEnabled": false,
+    "debugRedstoneUpdateOrder": false,
+    "debugStructuresEnabled": false,
+    "debugVillageSectionsEnabled": false,
+    "debugBrainEnabled": false,
+    "debugPoiEnabled": false,
+    "debugBeeDataEnabled": false,
+    "debugRaidCenterEnabled": false,
+    "debugGoalSelectorEnabled": false,
+    "debugGameEventsEnabled": false,
+    "debugBreezeJumpEnabled": false,
+    "debugEntityBlockIntersectionEnabled": false
   },
   "RendererHotkeys": {
     "overlayBeaconRange": {
@@ -603,10 +609,10 @@
     "overlaySpawnChunkPlayer": {
       "keys": ""
     },
-    "§6overlayStructureMainToggle§r": {
+    "overlayStructureMainToggle": {
       "keys": ""
     },
-    "§6overlayVillagerInfo§r": {
+    "overlayVillagerInfo": {
       "keys": ""
     },
     "shapeRenderer": {
@@ -657,46 +663,46 @@
     "debugChunkSectionVisibility": {
       "keys": ""
     },
-    "§6debugDataMainToggle§r": {
+    "debugDataMainToggle": {
       "keys": ""
     },
-    "§6debugPathfindingEnabled§r": {
+    "debugPathfindingEnabled": {
       "keys": ""
     },
-    "§6debugNeighborsUpdateEnabled§r": {
+    "debugNeighborsUpdateEnabled": {
       "keys": ""
     },
-    "§6debugRedstoneUpdateOrder§r": {
+    "debugRedstoneUpdateOrder": {
       "keys": ""
     },
-    "§6debugStructuresEnabled§r": {
+    "debugStructuresEnabled": {
       "keys": ""
     },
-    "§6debugVillageSectionsEnabled§r": {
+    "debugVillageSectionsEnabled": {
       "keys": ""
     },
-    "§6debugBrainEnabled§r": {
+    "debugBrainEnabled": {
       "keys": ""
     },
-    "§6debugPoiEnabled§r": {
+    "debugPoiEnabled": {
       "keys": ""
     },
-    "§6debugBeeDataEnabled§r": {
+    "debugBeeDataEnabled": {
       "keys": ""
     },
-    "§6debugRaidCenterEnabled§r": {
+    "debugRaidCenterEnabled": {
       "keys": ""
     },
-    "§6debugGoalSelectorEnabled§r": {
+    "debugGoalSelectorEnabled": {
       "keys": ""
     },
-    "§6debugGameEventsEnabled§r": {
+    "debugGameEventsEnabled": {
       "keys": ""
     },
-    "§6debugBreezeJumpEnabled§r": {
+    "debugBreezeJumpEnabled": {
       "keys": ""
     },
-    "§6debugEntityBlockIntersectionEnabled§r": {
+    "debugEntityBlockIntersectionEnabled": {
       "keys": ""
     }
   },

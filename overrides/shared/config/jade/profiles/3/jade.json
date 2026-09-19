@@ -66,6 +66,7 @@
       "crop_progress": true,
       "command_block": true,
       "mob_growth": true,
+      "sulfur_cube": true,
       "waxed": true,
       "harvest_tool.new_line": false,
       "entity_health.max_for_render": 40,
@@ -124,6 +125,7 @@
       "coordinates": false,
       "registry_name": "OFF",
       "block_properties": false,
+      "loot_table": false,
       "mod_name": "ON"
     }
   }

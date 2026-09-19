@@ -20,7 +20,7 @@
   "overlay": {
     "activeTheme": "jade:dark",
     "overlayPosX": 0.5,
-    "overlayPosY": 0.9719955,
+    "overlayPosY": 0.96335757,
     "overlayScale": 1.0,
     "overlayAnchorX": 0.5,
     "overlayAnchorY": 0.0,
@@ -68,6 +68,7 @@
       "crop_progress": true,
       "command_block": true,
       "mob_growth": true,
+      "sulfur_cube": true,
       "waxed": true,
       "harvest_tool.new_line": false,
       "entity_health.max_for_render": 40,
@@ -126,6 +127,7 @@
       "coordinates": false,
       "registry_name": "OFF",
       "block_properties": false,
+      "loot_table": false,
       "mod_name": "ON"
     }
   },
@@ -143,7 +145,8 @@
       -1343800581,
       676841016,
       -927566256,
-      1603083059
+      1603083059,
+      -40640832
     ]
   }
 }

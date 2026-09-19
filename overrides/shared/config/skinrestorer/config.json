@@ -1,5 +1,13 @@
 {
   "language": "en_us",
+  "command": {
+    "enabled": true,
+    "permissionLevel": 0,
+    "targetsPermissionLevel": 2
+  },
+  "storage": {
+    "location": "world"
+  },
   "join": {
     "refreshSkin": true,
     "skipRefreshProviders": [],
@@ -37,6 +45,7 @@
     "mineskin": {
       "apiKey": "",
       "proxyUrlUpload": false,
+      "allowedDomains": [],
       "enabled": true,
       "name": "web",
       "cache": {

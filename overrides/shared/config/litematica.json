@@ -57,6 +57,7 @@
     "highlightBlockInInventory": false,
     "itemUsePacketCheckBypass": true,
     "layerModeFollowsPlayer": false,
+    "materialListCountEnderCache": false,
     "materialListIgnoreState": false,
     "materialListRecipeDetails": true,
     "pasteAlwaysUseFill": false,
@@ -370,7 +371,7 @@
   },
   "Visuals": {
     "enableRendering": {
-      "enabled": true,
+      "enabled": false,
       "hotkey": {
         "keys": ""
       }
@@ -432,6 +433,7 @@
     "ignoreExistingFluids": false,
     "ignoreExistingBlocks": false,
     "ignorableExistingBlocks": [],
+    "ignoreCropAge": false,
     "overlayReducedInnerSides": {
       "enabled": false,
       "hotkey": {

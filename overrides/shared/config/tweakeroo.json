@@ -70,7 +70,12 @@
     "rememberFlexibleFromClick": true,
     "serverNbtRequestRate": 2,
     "shulkerDisplayBgColor": true,
-    "shulkerDisplayEnderChest": false,
+    "shulkerDisplayEnderChest": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "shulkerDisplayRequireShift": true,
     "slotSyncWorkaround": true,
     "slotSyncWorkaroundAlways": false,
@@ -232,7 +237,9 @@
     "zoomFov": 30.0,
     "zoomFovDifference": 1.0,
     "zoomFovDifferenceCtrl": 5.0,
-    "zoomResetFovOnActivate": true
+    "zoomResetFovOnActivate": true,
+    "zoomMinimumFov": 0.0,
+    "zoomMaximumFov": 360.0
   },
   "GenericHotkeys": {
     "accurateBlockPlacementInto": {
@@ -364,9 +371,6 @@
     "sitDownNearbyPets": {
       "keys": ""
     },
-    "skipAllRendering": {
-      "keys": ""
-    },
     "skipWorldRendering": {
       "keys": ""
     },
@@ -489,6 +493,12 @@
     "selectiveBlocksBlacklist": ""
   },
   "DisableToggles": {
+    "disableAllTerrainFog": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "disableArmorStandRendering": {
       "enabled": false,
       "hotkey": {
@@ -785,6 +795,9 @@
     }
   },
   "DisableHotkeys": {
+    "disableAllTerrainFog": {
+      "keys": ""
+    },
     "disableArmorStandRendering": {
       "keys": ""
     },
@@ -989,6 +1002,7 @@
     "tweakPeriodicHoldUse": false,
     "tweakPermanentSneak": false,
     "tweakPermanentSprint": false,
+    "tweakPermanentSwim": false,
     "tweakPlacementGrid": false,
     "tweakPlacementLimit": false,
     "tweakPlacementRestriction": false,
@@ -1187,6 +1201,9 @@
       "keys": ""
     },
     "tweakPermanentSprint": {
+      "keys": ""
+    },
+    "tweakPermanentSwim": {
       "keys": ""
     },
     "tweakPlacementGrid": {
