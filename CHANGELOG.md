@@ -2,6 +2,10 @@
 
 ## [Current]
 
+## [2.3.2] - 2026-11-23
+
+- Fixed pl3xmap version on dedicated server
+
 ## [2.3.1] - 2026-09-19
 
 - Added mcwifipnp to allow offline LAN
