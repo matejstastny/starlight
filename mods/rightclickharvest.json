@@ -1,0 +1,19 @@
+{
+  "project_id": "Cnejf5xM",
+  "slug": "rightclickharvest",
+  "version_id": "hPpWQCYv",
+  "version_number": "4.7.2+26.2.x",
+  "side": "server",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/Cnejf5xM/versions/hPpWQCYv/rightclickharvest-fabric-4.7.2-26.2.x.jar",
+    "filename": "rightclickharvest-fabric-4.7.2-26.2.x.jar",
+    "sha512": "8efdc32609a19015d908f0f4739ce9157859d88f5fb7b1eb2a2d22aad557559c0e15345e69dca28aa7cd0178dca4158b570eefb4b6faec046d611987aaef9633",
+    "sha1": "48adbe5bc1972e894d1b137fc32d98fd97b0266c",
+    "size": 280696
+  },
+  "explicit": true,
+  "dependencies": [
+    "P7dR8mSH",
+    "IYY9Siz8"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "project_id": "Si9Uim4y",
+  "slug": "detail-armor-bar-reconstructed",
+  "version_id": "uUPuVnCb",
+  "version_number": "5.3.3-beta.1-26.2-fabric",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/Si9Uim4y/versions/uUPuVnCb/DetailArmorBarReconstructed-5.3.3-beta.1-26.2-fabric.jar",
+    "filename": "DetailArmorBarReconstructed-5.3.3-beta.1-26.2-fabric.jar",
+    "sha512": "ddf1e6e9ae2d39ae6b0cf600823a3b54634949d019edbc9ed60ae29a6569f0a7be1c5a1762b1e304cdd80500446b7262145a4a43c4836ad7fa0c2a0abbe8d8f5",
+    "sha1": "986cbf7682448b5509a080d9dce4df023772d682",
+    "size": 131370
+  },
+  "explicit": true,
+  "dependencies": [
+    "99cGtHRy",
+    "P7dR8mSH"
+  ]
+}

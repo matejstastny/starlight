@@ -1,0 +1,19 @@
+{
+  "project_id": "EgBj3Bnf",
+  "slug": "immersivemusicmod",
+  "version_id": "umlR9tbj",
+  "version_number": "1.1.3-26.2",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/EgBj3Bnf/versions/umlR9tbj/timm-1.1.3-26.2.jar",
+    "filename": "timm-1.1.3-26.2.jar",
+    "sha512": "095739eba1e9fc3dfb0f52533dd74b648c7dcade594ca050eb5c2b408c065aa2bc4d87eb912e42a235e2798de159df3cb5051633ea7cbe544338688e85826d20",
+    "sha1": "f64a9d873f9c7e58d96f5bf2977aa27ed6e49df9",
+    "size": 155343840
+  },
+  "explicit": true,
+  "dependencies": [
+    "9s6osm5g",
+    "P7dR8mSH"
+  ]
+}

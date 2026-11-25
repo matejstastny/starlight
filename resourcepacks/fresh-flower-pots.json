@@ -1,0 +1,16 @@
+{
+  "project_id": "CmEN0T1m",
+  "slug": "fresh-flower-pots",
+  "version_id": "YEM2pUsf",
+  "version_number": "1.5.4",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/CmEN0T1m/versions/YEM2pUsf/%C2%A73Fresh%20%C2%A7bFlower%20Pots.zip",
+    "filename": "\u00a73Fresh \u00a7bFlower Pots.zip",
+    "sha512": "20f6b1d45f824fd5218bb9ab0798170de158e9d58f71b0ddf3fad1e7a22c90aca8d1f08c8d9a1f1e932754d619c0f9480d81ad4ba2c1746b7c832c241cd2e817",
+    "sha1": "c441c973438f41dc5ba2493a211d1e40baf6c8c5",
+    "size": 43374
+  },
+  "explicit": true,
+  "dependencies": []
+}

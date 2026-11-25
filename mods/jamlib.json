@@ -1,0 +1,18 @@
+{
+  "project_id": "IYY9Siz8",
+  "slug": "jamlib",
+  "version_id": "5DrEifxj",
+  "version_number": "2.3.3+26.2.x",
+  "side": "both",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/IYY9Siz8/versions/5DrEifxj/jamlib-fabric-2.3.3-26.2.x.jar",
+    "filename": "jamlib-fabric-2.3.3-26.2.x.jar",
+    "sha512": "451864e5371b619b275538af4f3dce196c178d02c259194e0f11ef811f54e03802006d3f3ff52f49391630377ef26efc610e5044e98a96ce9d7cb830dfc0699d",
+    "sha1": "fea03d5615b80d46b07e7eff51348b81526ecb7f",
+    "size": 265577
+  },
+  "explicit": false,
+  "dependencies": [
+    "P7dR8mSH"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "project_id": "NDcygmHf",
+  "slug": "world-play-time-reborn",
+  "version_id": "HWpqpkOX",
+  "version_number": "1.2.6",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/NDcygmHf/versions/HWpqpkOX/worldplaytimereborn-1.2.6%2B26.2-fabric.jar",
+    "filename": "worldplaytimereborn-1.2.6+26.2-fabric.jar",
+    "sha512": "d0a769f366fb44e0ec96060fd26b9e389997a59463d09dba38d2485c34d1aae05250ff1941d96ce13aeff5f91c7230520e90a69783e8644d616aecebc449f900",
+    "sha1": "8b75cb991c8d9ec27cd4ac5cae813cce081e30a0",
+    "size": 55489
+  },
+  "explicit": true,
+  "dependencies": [
+    "P7dR8mSH"
+  ]
+}

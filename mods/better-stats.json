@@ -1,0 +1,18 @@
+{
+  "project_id": "n6PXGAoM",
+  "slug": "better-stats",
+  "version_id": "ga3HGfK0",
+  "version_number": "5.5.6+fn-26.2",
+  "side": "both",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/n6PXGAoM/versions/ga3HGfK0/betterstats-5.5.6%2Bfn-26.2.jar",
+    "filename": "betterstats-5.5.6+fn-26.2.jar",
+    "sha512": "aa57b6f8893ff0f1dda8b79ce08e9cb369d245fad0ba26e65eb5a67f299172b3073f0e23080f8e648b32d27a0d68566516efb83498138754eef7544967f159a1",
+    "sha1": "fdd65659abdfa9a765221b7ae59b1bb30577acdb",
+    "size": 405494
+  },
+  "explicit": true,
+  "dependencies": [
+    "Eldc1g37"
+  ]
+}

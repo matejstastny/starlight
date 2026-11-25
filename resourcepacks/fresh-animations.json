@@ -1,0 +1,16 @@
+{
+  "project_id": "50dA9Sha",
+  "slug": "fresh-animations",
+  "version_id": "xfE3qfr5",
+  "version_number": "1.11.2",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/50dA9Sha/versions/xfE3qfr5/FreshAnimations_v1.11.2_26.1%2B.zip",
+    "filename": "FreshAnimations_v1.11.2_26.1+.zip",
+    "sha512": "c0a529479b9e43465d8b5c5f939711fded92d92fd26053b75fcbe0560046e23655f2d429d108b286cbfceb0470960b5a519ac2311ab108899b7529b76a9e9e30",
+    "sha1": "8176a3c13963aac2adc1f12214ceabfc45127ab2",
+    "size": 778725
+  },
+  "explicit": true,
+  "dependencies": []
+}

@@ -1,0 +1,20 @@
+{
+  "project_id": "ZouiUX7t",
+  "slug": "sound",
+  "version_id": "kv2RxMQu",
+  "version_number": "2.5.1+edge+26.2-fabric",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/kv2RxMQu/sounds-2.5.1%2Bedge%2B26.2-fabric.jar",
+    "filename": "sounds-2.5.1+edge+26.2-fabric.jar",
+    "sha512": "7563d48eea3c195b516130359199ec981826bf1c1aa757b23f5e6f1aca7afb27a5992ac2f37231f9101c5ccb0d13b737a9af37c47169846f826e0b0243188311",
+    "sha1": "557183656b2a09545c7348507880c5f59293d16b",
+    "size": 8140184
+  },
+  "explicit": true,
+  "dependencies": [
+    "SNVQ2c0g",
+    "P7dR8mSH",
+    "1eAoo2KR"
+  ]
+}

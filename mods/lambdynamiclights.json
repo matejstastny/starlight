@@ -1,0 +1,18 @@
+{
+  "project_id": "yBW8D80W",
+  "slug": "lambdynamiclights",
+  "version_id": "XVsaQXSm",
+  "version_number": "4.12.4+26.2",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/XVsaQXSm/lambdynamiclights-4.12.4%2B26.2.jar",
+    "filename": "lambdynamiclights-4.12.4+26.2.jar",
+    "sha512": "1e7c2abf18f4364cc8802c3ce21f9cbadd62074c1cf9829c025fe0d8dd04b6c7b47ca8fe6783b2399939fda0e40001d43dd82b6bced43546e9c26622ef3708c2",
+    "sha1": "c842011792dbaf95bb6243df1ad7f39c576f944d",
+    "size": 1344429
+  },
+  "explicit": true,
+  "dependencies": [
+    "P7dR8mSH"
+  ]
+}

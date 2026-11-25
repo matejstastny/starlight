@@ -1,0 +1,21 @@
+{
+  "project_id": "Sb5mtr2w",
+  "slug": "fresh-buckets",
+  "version_id": "wjnaVig2",
+  "version_number": "1.3",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/Sb5mtr2w/versions/wjnaVig2/Fresh%20Buckets.zip",
+    "filename": "Fresh Buckets.zip",
+    "sha512": "7216427b9a9fe1a9a0643807fee123d2fc28bc07e7c5268dc5a30ae3c83eb1da39b8136b0ebb4bced540c911aa37f8321d2431719dcb158b7276a1071c71a06f",
+    "sha1": "df48c35512dbc9698abda0d85a21e7f425657fd9",
+    "size": 579481
+  },
+  "explicit": true,
+  "dependencies": [
+    "3qAYkBMB",
+    "u58R1TMW",
+    "TiF5QWZY",
+    "qjlkcVfy"
+  ]
+}

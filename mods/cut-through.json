@@ -1,0 +1,20 @@
+{
+  "project_id": "Dk6su9JN",
+  "slug": "cut-through",
+  "version_id": "WhJ0S6SM",
+  "version_number": "26.2.0",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/Dk6su9JN/versions/WhJ0S6SM/CutThrough-v26.2.0-mc26.2.x-Fabric.jar",
+    "filename": "CutThrough-v26.2.0-mc26.2.x-Fabric.jar",
+    "sha512": "73988cdd77699e01d1f6a844f97c9882b462e88cb5a221e9aecedee7a0776070f90b6ab95d9cfe44f74c9b93bb49c5170caf10630409a3aaacdc2d2972fbc8b8",
+    "sha1": "fa4ca6a3945d23bd1bb98dde10db5e9b002974df",
+    "size": 26127
+  },
+  "explicit": true,
+  "dependencies": [
+    "ohNO6lps",
+    "P7dR8mSH",
+    "QAGBst4M"
+  ]
+}

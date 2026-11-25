@@ -1,0 +1,19 @@
+{
+  "project_id": "fM515JnW",
+  "slug": "ambientsounds",
+  "version_id": "jGlT0HRa",
+  "version_number": "6.3.6",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/fM515JnW/versions/jGlT0HRa/AmbientSounds_FABRIC_v6.3.6_mc26.2.jar",
+    "filename": "AmbientSounds_FABRIC_v6.3.6_mc26.2.jar",
+    "sha512": "02163deeee68e4d7b884dd99efa90220ab3197616edbd305a6fabb0bf9b0ac61c74af97d1fa534155a71034736df2daa3cd384d207c964c7b78205a16b168e06",
+    "sha1": "b4fa62c189907192933fae4853eeebeb6d57d836",
+    "size": 84821411
+  },
+  "explicit": true,
+  "dependencies": [
+    "OsZiaDHq",
+    "P7dR8mSH"
+  ]
+}

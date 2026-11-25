@@ -1,0 +1,16 @@
+{
+  "project_id": "99cGtHRy",
+  "slug": "eclipseui",
+  "version_id": "EW0sBZm4",
+  "version_number": "1.0.5+mc26.2-rc-2",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/99cGtHRy/versions/EW0sBZm4/EclipseUI-fabric-1.0.5%2Bmc26.2-rc-2.jar",
+    "filename": "EclipseUI-fabric-1.0.5+mc26.2-rc-2.jar",
+    "sha512": "edc9e54b56c590f6b9e21178f6d0e05863a876ec6bb520b7842185785baca09b2ddb079a593314ce02b0296a384f4b61ff559bdac6584b1069534151a4e33a98",
+    "sha1": "92e14d64171027113fbfb45bad5534fe31f81f15",
+    "size": 1513486
+  },
+  "explicit": false,
+  "dependencies": []
+}

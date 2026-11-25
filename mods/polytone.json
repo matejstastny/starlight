@@ -1,0 +1,16 @@
+{
+  "project_id": "3qAYkBMB",
+  "slug": "polytone",
+  "version_id": "7umVUVy9",
+  "version_number": "26.2-6.11.0",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/7umVUVy9/polytone-26.2-6.11.0-fabric.jar",
+    "filename": "polytone-26.2-6.11.0-fabric.jar",
+    "sha512": "c32e2e4f1dc0eaeec5aeb0a6800f6b67b532f3ab05ca534d0e182c4d7b457f5bb335092b386ed0287f41b7212eaffa55acee62975e01b66f9509659409bfc056",
+    "sha1": "4fb29ec398a662b1d88f5e38504103ce233c8281",
+    "size": 1857575
+  },
+  "explicit": false,
+  "dependencies": []
+}

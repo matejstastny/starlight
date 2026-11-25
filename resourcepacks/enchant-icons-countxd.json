@@ -1,0 +1,16 @@
+{
+  "project_id": "6vhHOIKw",
+  "slug": "enchant-icons-countxd",
+  "version_id": "ri9HvO3m",
+  "version_number": "1.3",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/6vhHOIKw/versions/ri9HvO3m/enchant-icons-26.2-v1.3.zip",
+    "filename": "enchant-icons-26.2-v1.3.zip",
+    "sha512": "a8df087328cda246de964c5d260dd71b5d81f00e17bb5f1e7f476b74d305ceee38742fbf65bf60e4b3b0a61dcc54a00992ac26ec6c248e7557a81fac82103c79",
+    "sha1": "59727cadfbc271cb2e2e4302ca1aab37ba7f499e",
+    "size": 182066
+  },
+  "explicit": true,
+  "dependencies": []
+}

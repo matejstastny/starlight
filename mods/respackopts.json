@@ -1,0 +1,18 @@
+{
+  "project_id": "TiF5QWZY",
+  "slug": "respackopts",
+  "version_id": "ajKcHatH",
+  "version_number": "26.2.2",
+  "side": "both",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/TiF5QWZY/versions/ajKcHatH/respackopts-26.2.2.jar",
+    "filename": "respackopts-26.2.2.jar",
+    "sha512": "3f85acaa6c9119dd24d58c31f90de848eb6828f2ce4f28339e7ac6a19308ec550d6a97d2ef313a10ed19c7b31c8a89517450afdf5c0e7c91cc24afc98a787640",
+    "sha1": "dfb14e9cd45e789d4a7f410983015395147867b8",
+    "size": 930821
+  },
+  "explicit": false,
+  "dependencies": [
+    "WKwQAwke"
+  ]
+}

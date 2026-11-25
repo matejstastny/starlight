@@ -1,0 +1,18 @@
+{
+  "project_id": "SNVQ2c0g",
+  "slug": "mru",
+  "version_id": "YQCP346A",
+  "version_number": "1.0.45+26.2-fabric",
+  "side": "both",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/YQCP346A/mru-1.0.45%2B26.2-fabric.jar",
+    "filename": "mru-1.0.45+26.2-fabric.jar",
+    "sha512": "681aae0b11b46f0744ca9ca0bf524df25e43223523a31000cfffc32dd2a8dea354c3b6119c89111b95d3c83e55403aa2bc2819e37601b8d7b8982f0fc8161726",
+    "sha1": "b46a02a39ff7fcffd6e68b30dd777573406e3e2d",
+    "size": 168239
+  },
+  "explicit": false,
+  "dependencies": [
+    "P7dR8mSH"
+  ]
+}

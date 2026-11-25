@@ -1,0 +1,16 @@
+{
+  "project_id": "4H6sumDB",
+  "slug": "euphoria-patches",
+  "version_id": "i5Yuafoq",
+  "version_number": "1.11.2-r5.10-fabric",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/4H6sumDB/versions/i5Yuafoq/EuphoriaPatcher-1.11.2-r5.10-fabric.jar",
+    "filename": "EuphoriaPatcher-1.11.2-r5.10-fabric.jar",
+    "sha512": "bcc256f7e5f786da0c115be52a54184c752985887993602f8d2a9a5da3cde8a7d7eb7a069e681586850f97ffc10fc6d408b2657f0a4ce390a2ec24056c294522",
+    "sha1": "e289fec73169777b928e1720b84d3f73a4eb4d62",
+    "size": 5467200
+  },
+  "explicit": true,
+  "dependencies": []
+}

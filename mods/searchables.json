@@ -1,0 +1,18 @@
+{
+  "project_id": "fuuu3xnx",
+  "slug": "searchables",
+  "version_id": "bvFby61J",
+  "version_number": "1.0.1",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/bvFby61J/Searchables-fabric-26.2-1.0.1.jar",
+    "filename": "Searchables-fabric-26.2-1.0.1.jar",
+    "sha512": "342f6b9ddee7391f0f5c30090dc7b7fe0b9638c86b729d3e989360ccdf5e5a85d729decc3e27efcdaeaad6b4696e9dd8fb48391c803d8324195b6f5194761a70",
+    "sha1": "73c1917f4ff056254c95f50a5acb18d16384139a",
+    "size": 78982
+  },
+  "explicit": false,
+  "dependencies": [
+    "P7dR8mSH"
+  ]
+}

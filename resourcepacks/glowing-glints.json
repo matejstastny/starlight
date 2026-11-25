@@ -1,0 +1,16 @@
+{
+  "project_id": "A32gwfe8",
+  "slug": "glowing-glints",
+  "version_id": "RZESSQH8",
+  "version_number": "2.0",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/A32gwfe8/versions/RZESSQH8/Enchantment%20Outlines.zip",
+    "filename": "Enchantment Outlines.zip",
+    "sha512": "9f8983599e7408b137d9610721768c21a97e6848b46841dfc324631b51dd9761a9c5e3102937cf45a184c05d64a9a136f1d3f949d4a3565965acae1e4bafff50",
+    "sha1": "8702b133610f4b0eca7a91c45beaae8db48d2a10",
+    "size": 2033368
+  },
+  "explicit": true,
+  "dependencies": []
+}

@@ -1,0 +1,16 @@
+{
+  "project_id": "DnNYdJsx",
+  "slug": "chatanimation",
+  "version_id": "N8q85fiD",
+  "version_number": "1.3.5+fabric-26.2",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/DnNYdJsx/versions/N8q85fiD/chatanimation-fabric-1.3.5%2Bmc26.2.jar",
+    "filename": "chatanimation-fabric-1.3.5+mc26.2.jar",
+    "sha512": "061522f4bd9567aec989f2d6b467f5aafe4dc6d468279ee449a9400fb504b4864b97ae4f72cc0e39d575cb361918a3522a846d437545e383965bf77595376e99",
+    "sha1": "4075ac3a9c1092b6a7f22626f74b1ae5f7f28032",
+    "size": 433523
+  },
+  "explicit": true,
+  "dependencies": []
+}

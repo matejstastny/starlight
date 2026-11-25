@@ -1,0 +1,18 @@
+{
+  "project_id": "MPCX6s5C",
+  "slug": "not-enough-animations",
+  "version_id": "PtkLygDD",
+  "version_number": "1.12.7",
+  "side": "client",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/PtkLygDD/notenoughanimations-fabric-1.12.7-mc26.2.jar",
+    "filename": "notenoughanimations-fabric-1.12.7-mc26.2.jar",
+    "sha512": "47b7dd513c8388d4cca24571582b64a6a1c73bdefa52155e16dcee3e3a7252c126c8220831ee49084b26150df7bae4b3b08b3da985dd240eb4bd6feec1db3b9f",
+    "sha1": "d7769138a91c9d8a9437457539c1acd3b334787f",
+    "size": 1867051
+  },
+  "explicit": true,
+  "dependencies": [
+    "P7dR8mSH"
+  ]
+}

@@ -1,15 +1,15 @@
 {
   "project_id": "1eAoo2KR",
   "slug": "yacl",
-  "version_id": "cnfPzuFU",
-  "version_number": "3.9.6+26.2-fabric",
+  "version_id": "DoR7RYgi",
+  "version_number": "3.9.7+26.2-fabric",
   "side": "both",
   "file": {
-    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/cnfPzuFU/yet_another_config_lib_v3-3.9.6%2B26.2-fabric.jar",
-    "filename": "yet_another_config_lib_v3-3.9.6+26.2-fabric.jar",
-    "sha512": "b3a58e4a5ef54647569282b8b2e9630389b3568f0abecb9c168daaa815477cbf961e79de28081cac551b69b810f561f043d669d1034aec80f12153a53dff53ef",
-    "sha1": "40887775504751acd752545e6370a76ca3b5bda9",
-    "size": 1121529
+    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/DoR7RYgi/yet_another_config_lib_v3-3.9.7%2B26.2-fabric.jar",
+    "filename": "yet_another_config_lib_v3-3.9.7+26.2-fabric.jar",
+    "sha512": "f36d91a9506ad9addbaaeecaea01d2b0cb5b060f52486b17688746cb597f0f3b23a80f8441f7a73a9cb8cde85af8809fe54825984b56345325359d505a80e7f2",
+    "sha1": "79c8ee7f8a0e775190dfff59be1e505e2f432998",
+    "size": 1125271
   },
   "explicit": false,
   "dependencies": [

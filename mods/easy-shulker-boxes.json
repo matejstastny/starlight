@@ -1,0 +1,20 @@
+{
+  "project_id": "gA5euN8S",
+  "slug": "easy-shulker-boxes",
+  "version_id": "tgTqvgZy",
+  "version_number": "26.2.3",
+  "side": "both",
+  "file": {
+    "url": "https://cdn.modrinth.com/data/gA5euN8S/versions/tgTqvgZy/EasyShulkerBoxes-v26.2.3-mc26.2.x-Fabric.jar",
+    "filename": "EasyShulkerBoxes-v26.2.3-mc26.2.x-Fabric.jar",
+    "sha512": "f7365c61bfdfad2e5396d791bcd1d172a15de09c229d1706a1650b588b45f4e65a0bc3239652cf3bd9b64a5b823784ea5b8ebfb8b2b4f4a2c9c9e045f587fe5d",
+    "sha1": "97daff05232a9f4b23b075d0bc8763107cded3de",
+    "size": 639115
+  },
+  "explicit": true,
+  "dependencies": [
+    "P7dR8mSH",
+    "QAGBst4M",
+    "ohNO6lps"
+  ]
+}
